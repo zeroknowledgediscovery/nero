@@ -1,0 +1,445 @@
+
+\section*{Supplementary Methods}
+
+
+
+\subsection*{Proof of Proposition 1}
+\begin{proof}
+For typical \(x \sim G_i\)~\cite{GacsTrompVitanyi2001,LiVitanyi2008},
+\cgather{
+K(x) = K(S_i) + \log |S_i| + O(1).
+}
+Taking expectations over \(x \sim G_i\), we have
+\cgather{
+\mathbb{E}_{x \sim G_i}[K(x)] = K(S_i) + \log |S_i| + O(1).
+}
+Subtracting, we find
+\mltlne{
+\mathbb{E}_{x \sim G_1}[K(x)] - \mathbb{E}_{x \sim G_2}[K(x)]\\
+= K(S_1) - K(S_2) + \log |S_1| - \log |S_2| + O(1).
+}
+Invoking our assumption (Eq.~\eqref{eq71}),  this simplifies to
+\cgathers{
+\mathbb{E}_{x \sim G_1}[K(x)] - \mathbb{E}_{x \sim G_2}[K(x)]
+= K(S_1) - K(S_2) + O(1).
+}This completes the first part.
+Noting that  expected Kolmogorov complexity of strings from  a stationary source satisfies~\cite{horibe03,LiVitanyi2008}:
+\cgather{
+\lim_{n \to \infty} \frac{1}{n} \mathbb{E}_{x \sim G_i}[K(x)] = H(G_i).
+}  establishes the second part.
+\end{proof}
+
+\subsection*{Nonparametric entropy-rate estimation}
+We estimate the entropy rate of a stationary ergodic symbol stream using the
+PFSA-based nonparametric estimator introduced by Chattopadhyay \emph{et al.}~\cite{CLx,CL12g}.
+Given a sequence $s=s_1\cdots s_n$ over a finite alphabet $\Sigma$, the method
+constructs empirical next-symbol distributions conditioned on observed substrings
+and identifies states of an a priori unknown underlying PFSA generator as equivalence classes of histories that lead to similar future distributions. Rare substrings are excluded via a frequency threshold $m$, ensuring
+statistical reliability without assuming a parametric model or access to the
+underlying generator. The  entropy rate is then estimated as a weighted average of the Shannon entropies of
+empirical symbol-generation distributions associated with that context, with the weights inferred as observed frequencies of the classes of histories that lead to individual states. The estimator is provably consistent under stationarity and
+ergodicity, requires no training or reference model, and operates directly on
+the observed text stream. Full algorithmic details and theoretical guarantees
+are provided in~\cite{CLx,CL12g}.
+
+\subsection*{Pseudocode and Runtime Complexity}
+To enhance robustness and mitigate sensitivity to internal thresholds, we apply this estimator \( M \) times across a range of substring frequency thresholds, and report the median of the resulting entropy estimates,  improving concentration guarantees (Theorem~\ref{thmmedian}), with the error probability decaying exponentially in \( M \).
+
+Runtime complexity, including threshold-based pruning and median aggregation over \( M \) thresholds, is \( O(n M |\Sigma|) \), where \( n \) is the length of the observed stream and \( |\Sigma| \)  the alphabet size~\cite{CLx}. Thus, for a fixed $M$, the estimate has input-linear runtime complexity.%% This follows directly from the algorithmic structure of Chattopadhyay \& Lipson (2014), where entropy estimation for each threshold operates in linear time with respect to \( n \), and the median computation requires \( O(M) \) time.
+
+\begin{algorithm}[H]
+\caption{Robust Entropy-Rate Estimation}
+\KwIn{Symbol stream $x_1^n$, alphabet $\Sigma$, threshold range $\{ m_1, m_2, \ldots, m_M \}$}
+\KwOut{Robust entropy-rate estimate $\hat{H}_n$}
+
+\ForEach{$m \in \{ m_1, m_2, \ldots, m_M \}$}{
+  Compute $\hat{H}^{(m)}_n$ with Chattopadhyay~\cite{CLx} with threshold $m$ (ignore  substrings with $<m$ occurrences)\;
+  }
+Compute $
+\hat{H}_n \leftarrow \mathrm{median} \left( \hat{H}^{(m_1)}_n, \hat{H}^{(m_2)}_n, \ldots, \hat{H}^{(m_M)}_n \right)
+$\;
+
+\Return $\hat{H}_n$\;
+
+\end{algorithm}
+
+% --- Minimal patch: keep your original theorem/proof structure,
+% --- but add an "effective independence" qualifier and replace M by M_eff.
+
+\begin{thm}[Robustness and Concentration of the Aggregated Entropy Estimate]\label{thmmedian}
+Let \( x_1^N \) be a finite realization from a stationary, ergodic stochastic process over a finite alphabet \( \Sigma \).
+Let \( \hat{H}^{(m)}_n \) denote the entropy-rate estimate obtained by applying the algorithm of Chattopadhyay \emph{et al.}~\cite{CLx,CL12g}
+with threshold \( m \) (substrings occurring \(<m\) times ignored). Define the aggregated estimator
+\[
+\hat{H}_n := \mathrm{median}\left\{ \hat{H}^{(m_1)}_n, \hat{H}^{(m_2)}_n, \ldots, \hat{H}^{(m_M)}_n \right\}.
+\]
+If the indicators \(Z_i\) defined below are independent, then
+\[
+\mathbb{P}\!\left( \left| \hat{H}_n - H_\star \right| > \epsilon \right)
+\leq \exp\!\left( - 2 M \left( \frac{1}{2} - \delta \right)^2 \right).
+\]
+More generally, when the \(\hat H^{(m_i)}_n\) are obtained from randomly drawn length-\(L\) substreams of a fixed length-\(N\) text and hence may be dependent due to overlap, the same argument applies with an effective number of approximately independent draws
+\[
+M_{\mathrm{eff}} \;\asymp\; \frac{N}{L},
+\]
+so that
+\[
+\mathbb{P}\!\left( \left| \hat{H}_n - H_\star \right| > \epsilon \right)
+\;\lesssim\; \exp\!\left( - 2 M_{\mathrm{eff}} \left( \frac{1}{2} - \delta \right)^2 \right).
+\]
+\end{thm}
+
+\begin{proof}
+It follows from Chattopadhyay \emph{et al.}~\cite{CLx,CL12g} that for sufficiently large $n$, for each threshold \( m \in \{ m_1, m_2, \ldots, m_M \} \),
+\[
+\mathbb{P} \left( \left| \hat{H}^{(m)}_n - H_\star \right| > \epsilon \right) \leq \delta,
+\]
+for some fixed \( \epsilon > 0 \) and \( \delta < \frac{1}{2} \).
+For each \( m_i \), define
+\[
+Z_i = \mathbf{1} \left\{ \left| \hat{H}^{(m_i)}_n - H_\star \right| > \epsilon \right\},
+\qquad \mathbb{E}[Z_i]\le \delta.
+\]
+The median estimator \( \hat{H}_n \) deviates by more than \( \epsilon \) only if at least half of the individual estimates do:
+\[
+S = \sum_{i=1}^M Z_i \geq \frac{M}{2}.
+\]
+If \(Z_1,\ldots,Z_M\) are independent, Hoeffding’s inequality yields
+\[
+\mathbb{P} \left( S \geq \frac{M}{2} \right) \leq \exp \left( - 2 M \left( \frac{1}{2} - \delta \right)^2 \right),
+\]
+which implies the stated bound.
+
+If instead the estimates are computed from randomly drawn length-\(L\) substreams of a fixed length-\(N\) text, the resulting \(Z_i\) may be dependent due to overlap. In that case, the same calculation can be interpreted in terms of an effective number of approximately independent draws \(M_{\mathrm{eff}}\asymp N/L\) (i.e., replacing \(M\) by \(M_{\mathrm{eff}}\)), yielding the stated overlap-limited bound.
+\end{proof}
+
+%% \begin{thm}[Robustness and Concentration of the Aggregated Entropy Estimate]\label{thmmedian}
+%% Let \( x_1^n \) be a finite realization from a stationary, ergodic stochastic process over a finite alphabet \( \Sigma \). Let \( \hat{H}^{(m)}_n \) denote the entropy-rate estimate obtained by applying the algorithm of Chattopadhyay $et. al$~\cite{CLx}) with threshold \( m \) (substrings occurring  \( <m \) times ignored). %% Then, 
+%% Then the aggregated estimator defined as:
+%% \[
+%% \hat{H}_n := \mathrm{median} \left\{ \hat{H}^{(m_1)}_n, \hat{H}^{(m_2)}_n, \ldots, \hat{H}^{(m_M)}_n \right\}.
+%% \] satisfies the exponential concentration bound:
+%% \[
+%% \mathbb{P} \left( \left| \hat{H}_n - H_\star \right| > \epsilon \right) \leq \exp \left( - 2 M \left( \frac{1}{2} - \delta \right)^2 \right).
+%% \]
+%% \end{thm}
+
+%% \begin{proof}
+%% It follows from Chattopadhyay $et. al$~\cite{CLx}): for sufficiently large $n$, for each threshold \( m \) in a chosen set \( \{ m_1, m_2, \ldots, m_M \} \), we have the concentration bound:
+%% \[
+%% \mathbb{P} \left( \left| \hat{H}^{(m)}_n - H_\star \right| > \epsilon \right) \leq \delta,
+%% \]
+%% for some fixed \( \epsilon > 0 \) and \( \delta < \frac{1}{2} \), determined by the algorithm parameters and the data length \( n \).
+%% For each \( m_i \), define the indicator variable:
+%% \[
+%% Z_i = \mathbf{1} \left\{ \left| \hat{H}^{(m_i)}_n - H_\star \right| > \epsilon \right\}.
+%% \]
+%% The concentration bound implies:
+%% \[
+%% \mathbb{E} [ Z_i ] = \mathbb{P} \left( \left| \hat{H}^{(m_i)}_n - H_\star \right| > \epsilon \right) \leq \delta.
+%% \]
+
+%% The aggregated estimator \( \hat{H}_n \) deviates by more than \( \epsilon \) only if at least half of the individual estimates do, i.e.,
+%% \[
+%% S = \sum_{i=1}^M Z_i \geq \frac{M}{2}.
+%% \]
+
+%% Applying Hoeffding's inequality for bounded independent random variables \( Z_1, \ldots, Z_M \) yields:
+%% \[
+%% \mathbb{P} \left( S \geq \frac{M}{2} \right) \leq \exp \left( - 2 M \left( \frac{1}{2} - \delta \right)^2 \right).
+%% \]
+
+%% Thus, the aggregated median estimator satisfies:
+%% \[
+%% \mathbb{P} \left( \left| \hat{H}_n - H_\star \right| > \epsilon \right) \leq \exp \left( - 2 M \left( \frac{1}{2} - \delta \right)^2 \right),
+%% \]
+%% completing the proof.
+%% \end{proof}
+
+
+
+%\subsection*{Modeling Details and Classifier Design}
+
+\subsection*{Classifier design (trained-\NERO)}
+For each document we form a fixed-dimensional feature vector $x\in\mathbb{R}^M$ from the PFSA entropy-rate estimator by evaluating the estimate at a prescribed set of substring-frequency cutoffs $\{m_1,\dots,m_M\}$. Specifically, the $j$th feature is the entropy-rate estimate computed using cutoff $m_j$, so that $x_j=\widehat{H}(m_j)$. Missing feature values (arising when insufficient support is available at a given cutoff) are imputed with zeros using a constant-value imputer.
+
+We evaluate several standard classifiers on these feature vectors, including random forests, extremely randomized trees, AdaBoost, gradient boosting, support vector machines (SVM), and Gaussian-process (GP) classification. Unless otherwise noted, models are fit on a random $50/50$ train-test split of the pooled corpus, and performance is quantified by ROC/AUC on the held-out split. For tree-based models we use class-balanced weighting and $1000-5000$ component estimators to stabilize performance; for SVM we use probabilistic calibration to obtain class probabilities. 
+
+We use GP classification as the trained-\NERO readout as it yields the best performance under cross-validation. The GP classifier is implemented with an RBF kernel,
+$k(x,x')=\sigma^2\exp\!\left(-\|x-x'\|^2/(2\ell^2)\right)$, using the standard
+\texttt{GaussianProcessClassifier} implementation~\cite{williams2006gaussian}.
+
+
+\subsection*{Birthtime trajectory fitting (Fig.~1c)}
+To summarize how estimated entropy rate of generated text changes across successive LLM models, we fit a
+parametric growth curve to the model-specific time series shown in Fig.~\ref{figperf}c. Each model is
+represented by a timestamp (``birthtime'') corresponding to its release date, the mean \NERO estimate over generated tests, and an estimated standard
+deviation (error bar). Birthtimes were converted to elapsed time in days relative to the
+earliest cohort, $x_i=(t_i-t_0)$, yielding observations $(x_i,y_i,\sigma_i)$.
+
+We fit a Richards (generalized logistic) curve with a fixed asymptotic upper bound $U$
+(corresponding to mean \NERO estimate for human prose), parameterized as
+\[
+f(x;L_0,k,x_0,\nu)\;=\;
+L_0+\frac{U-L_0}{\left(1+\exp\{-k(x-x_0)\}\right)^{1/\nu}},
+\]
+where $L_0$ is the lower asymptote, $k$ the growth rate, $x_0$ the inflection location, and
+$\nu$ the shape parameter.
+
+Parameters $\theta=(L_0,k,x_0,\nu)$ were estimated by weighted nonlinear least squares using
+\texttt{scipy.optimize.curve\_fit} with heteroscedastic weights given by the cohort standard
+deviations $\sigma_i$. We used
+the initialization $(L_0,k,x_0,\nu)=(\max\{0,\min_i y_i-0.03\}, 0.006, \mathrm{median}(x),\,0.6)$
+and box constraints
+$
+L_0\in[0,\min_i y_i),\quad k\in[10^{-6},3],\quad x_0\in[-2000,5000],\quad \nu\in[0.05,5].
+$. The fitted parameters and their asymptotic standard errors were obtained from the
+returned covariance estimate $\widehat{\mathrm{Cov}}(\hat\theta)$, and standard chi-square
+diagnostics were computed from weighted residuals.% GPT-4.0 is treated as an outlier for the best fit.
+
+
+
+\subsection*{Data processing}
+
+For each corpus (human-authored and AI-generated), a structured CSV file was constructed at the document level. Each row corresponds to a single novel and contains the following fields: the entropy-rate estimate computed by NERO, the perplexity-based detector score reported by HowGPT, and the estimated percentage of AI-generated text reported by ZeroGPT. These tables form the basis for all quantitative comparisons reported in the main text and figures.
+
+\subsection*{Topics and text generation}
+
+Topics used to prompt the AI models were obtained from a publicly available repository of narrative prompts (\url{https://www.plot-generator.org.uk/story-ideas/}). The precise semantic content of individual prompts is not critical for long-form text generation; rather, it is sufficient that prompts span a broad range of genres to avoid systematic topical bias. All topics were stored in a JSON file and loaded programmatically during text generation.
+
+Each AI model was prompted with the identical ordered list of topics. Consequently, the file \texttt{\{model\}18.txt} contains text generated from the 18th topic in the shared topic list, independent of the model used. This design ensures that differences in estimated entropy rate across models are not attributable to differences in prompt content.
+
+\subsection*{AI text generation prompts}
+
+All AI-generated novels were produced using a fixed prompting protocol designed to elicit long-form narrative prose while minimizing structural or stylistic constraints beyond those necessary for length control and coherence. Identical prompt templates were used across models. Text generation was performed either via official REST APIs or, in some cases, via the OpenAI web interface using the same prompts and default generation settings; no prompt content differed between access modes.
+
+\paragraph{Initial generation prompt.}
+Each novel was initiated using the following base prompt, with bracketed fields instantiated programmatically:
+
+\begin{quote}
+\footnotesize
+I want you to act as a novelist writing about \{topic\}. The total length of the novel is about \{novel\_desired\_length\} characters. After generating each section of the novel, I will tell you how much text you have generated so far. In the novel, include plot development, characters, dialogue, and an overall narrative arc. Generate only the text of the novel itself, without annotations, explanations, or commentary. Write in full paragraphs and chapters of approximately \{chapter\_length\} characters. Continue generating Chapter~1 until I tell you to stop. Generate exclusively novel text, with no metadata, confirmations, or chapter labels.
+\end{quote}
+
+\paragraph{Continuation prompt.}
+To extend generation beyond the initial context window and reach the target length, generation proceeded iteratively using a continuation prompt. At each step, previously generated text (truncated as necessary) was prepended, followed by the continuation instruction:
+
+\begin{quote}
+\footnotesize
+\{previously generated text\}
+
+Here is the text generated so far. You have generated approximately \{novel\_current\_length\} characters. Continue writing Chapter~\{current\_chapter\} of the novel. Maintain narrative continuity and write in complete paragraphs. Do not generate annotations, explanations, summaries, or metadata. Generate exclusively novel text.
+\end{quote}
+
+\subsection*{AI text generation implementation details}
+
+AI-generated novels were produced using an automated, iterative prompting pipeline implemented in Python. Each novel was generated toward a target length of 150{,}000 characters using repeated completion calls under default model parameters; no temperature, nucleus sampling, or penalty parameters were explicitly set. Only the maximum completion length was controlled.
+
+Chapter indices were inferred implicitly as $\lfloor L / \ell \rfloor + 1$, where $L$ is the cumulative character length generated so far and $\ell=15{,}000$ is the nominal chapter length. Chapters were not explicitly labeled in the generated text.
+
+To support long-form generation within finite model context windows, a sliding-window strategy was employed. When the concatenated prompt exceeded the available context length, only the most recent suffix of the previously generated text was retained, ensuring that the prompt plus maximum completion length remained within the model’s context window.
+
+Generation continued until the target length was reached or until the model declined to continue. Responses yielding fewer than 200 output tokens were treated as refusals; in such cases, all text associated with that generation attempt was discarded and excluded from analysis.
+
+API usage was subject to rate limits on requests per minute and token throughput. When limits were exceeded, generation was paused briefly before resuming. For each novel, all raw API responses and the cumulative generated text were stored in per-document metadata files to enable reproducibility and auditability.
+
+The full generation pipelines are implemented in the following notebooks:
+{\footnotesize
+\begin{verbatim}
+gemini:
+nero-data/api_data_collection/gemini_2.5_pro/get_novels.ipynb
+gpt4o:
+nero-data/api_data_collection/openai/gpt4o/get_novels.ipynb
+gpt5:
+nero-data/api_data_collection/openai/gpt5/get_novels.ipynb
+claude:
+nero-data/api_data_collection/claude_sonnet_4/get_novels.ipynb
+\end{verbatim}
+}
+
+\subsection*{Human-authored text corpus}
+
+Human-authored novels were retrieved from the Project Gutenberg corpus
+(\url{https://gutenberg.org/cache/epub/feeds/}), which provides full-text documents together with structured metadata. All available text and metadata files were downloaded, and only English-language works were retained based on metadata fields. Legal headers and boilerplate text were removed using the \texttt{gutenbergpy} library. Novels shorter than 150{,}000 characters after preprocessing were excluded to ensure sufficient length for stable entropy-rate estimation. 
+
+Technical manuscripts were collected from arXiv via the official OAI-PMH interface and converted from \texttt{.tex} source to plain text. These texts were used as a distinct human-authored reference corpus.
+
+\subsection*{LLM access}
+
+AI-generated novels were produced using REST API access or web-interface access to the following models and versions:
+
+\begin{itemize}
+\item \textbf{Gemini}: \texttt{gemini-2.5-pro}, accessed between October~8,~2025 and October~16,~2025.
+\item \textbf{Claude}: \texttt{claude-sonnet-4-20250514}, accessed between August~26,~2025 and September~22,~2025.
+\item \textbf{GPT-4o}: \texttt{gpt-4o-2024-08-06}, accessed between November~13,~2025 and November~14,~2025.
+\item \textbf{GPT-5}: \texttt{gpt-5-2025-08-07}, accessed between October~26,~2025 and November~8,~2025.
+\end{itemize}
+
+\subsection*{Baseline detectors}
+
+For baseline detector comparisons, the central 15{,}000 characters of each novel were extracted and submitted to two deployed detection tools: HowGPT and ZeroGPT. The central segment was used to avoid residual legal headers in human-authored texts; the same procedure was applied to AI-generated texts to maintain parity.
+HowGPT/ZeroGPT were queried on fixed-length segments due to interface constraints. \NERO was evaluated on full texts to reflect the intended long-form detection regime.
+
+
+The HowGPT  (\url{https://howkgpt.nyuad.nyu.edu/}) and the ZeroGPT detectors (\url{https://www.zerogpt.com/}) were accessed between November~2,~2025 and November~25,~2025, with access dates varying by model cohort. From these tools, the reported perplexity-based detector score (HowGPT) and the estimated percentage of AI-generated text (ZeroGPT) were recorded.
+
+\paragraph{Perplexity baseline (HowGPT).}
+The perplexity-based baseline was implemented using the HowGPT framework, which computes token-level likelihood statistics under a reference language model and aggregates them into a scalar detector score. We use the reported detector score directly rather than raw perplexity values.
+
+%% \subsection*{NERO entropy-rate estimation}
+
+%% For NERO, the full text of each novel was analyzed. The entropy-rate estimator produces a list of estimates across substring-frequency thresholds; zero-valued entries were discarded, and the median of the remaining estimates was recorded as the document-level entropy rate. Each novel corresponds to a single row in the final CSV used for analysis.
+
+
+
+%% \subsection*{More details on Related Work.}
+%% Existing approaches to detecting AI-generated text largely fall into several broad methodological classes. The first class comprises likelihood- or rank-based detectors that rely on access to one or more language models to score text under a reference distribution. These methods typically compute statistics derived from token-level probabilities, log-ranks, or probability curvature, and often require either access to the generating model itself or to a closely related surrogate. While effective under matched conditions, their performance and calibration can degrade as model families evolve or when the reference model diverges from the generator.
+
+%% A second class of methods relies on supervised or semi-supervised classifiers trained on representations derived from text, including embeddings, stylistic features, or neural activations. These approaches generally require labeled training data and retraining as generators change, making them sensitive to dataset shift and model updates.
+
+%% A third, conceptually closer family of approaches exploits compressibility or finite-context modeling as a proxy for predictability. These methods leverage the observation that machine-generated text is often more compressible than human-authored prose, though they are typically framed as compression-based classifiers rather than as direct estimators of a well-defined generative statistic.
+
+%% In contrast to these approaches, \NERO estimates a nonparametric entropy-rate–like statistic directly from the observed text under a fixed symbolization, without requiring access to any language model, reference generator, or training data. The method operates entirely at the level of the output stream and is therefore agnostic to model architecture, training procedure, or decoding strategy. While NERO adopts a stationarity approximation appropriate for long-form text, the resulting statistic is global rather than position-specific, and captures aggregate generative regularity rather than local stylistic cues.
+
+%% Accordingly, \NERO is complementary to likelihood-based, classifier-based, and compression-based detectors: it trades sensitivity to short-range structure for robustness, interpretability, and independence from rapidly evolving generative models. This distinction underlies its stability across cohorts, generators, and time, as demonstrated in the main results.
+
+
+%% \subsection*{More details on Related Work.}
+%% Existing approaches to detecting AI-generated text largely fall into several broad methodological classes. The first class comprises likelihood- or rank-based detectors that rely on access to one or more language models to score text under a reference distribution. These methods typically compute statistics derived from token-level probabilities, log-ranks, or probability curvature, and often require either access to the generating model itself or to a closely related surrogate~\cite{detectgpt_icml2023,detectllm_findings2023,gltr_acl2019}. While effective under matched conditions, their performance and calibration can degrade as model families evolve or when the reference model diverges from the generator (see also recent surveys)~\cite{wu2025_survey}.
+
+%% A second class of methods relies on supervised or semi-supervised classifiers trained on representations derived from text, including embeddings, stylistic features, or neural activations. These approaches generally require labeled training data and retraining as generators change, making them sensitive to dataset shift and model updates~\cite{zellers2019_grover}.
+
+%% A third, conceptually closer family of approaches exploits compressibility or finite-context modeling as a proxy for predictability. These methods leverage the observation that machine-generated text is often more compressible than human-authored prose, though they are typically framed as compression-based classifiers rather than as direct estimators of a well-defined generative statistic~\cite{aidetx}.
+
+%% In contrast to these approaches, \NERO estimates a nonparametric entropy-rate--like statistic directly from the observed text under a fixed symbolization, without requiring access to any language model, reference generator, or training data. The method operates entirely at the level of the output stream and is therefore agnostic to model architecture, training procedure, or decoding strategy. While NERO adopts a stationarity approximation appropriate for long-form text, the resulting statistic is global rather than position-specific, and captures aggregate generative regularity rather than local stylistic cues.
+
+%% Accordingly, \NERO is complementary to likelihood-based, classifier-based, and compression-based detectors: it trades sensitivity to short-range structure for robustness, interpretability, and independence from rapidly evolving generative models. This distinction underlies its stability across cohorts, generators, and time, as demonstrated in the main results.
+
+
+%% \subsection*{Data Processing}
+%% Discuss data processing
+
+%% for each set of data a csv was created with a atble that contains the entropy rate as estimated by nero, the perplexity as calculated by howkgpt, and the percentage ai as calculated by zerogpt.
+
+%% %for this one i will just provide a description of the data tables the data was eventually put into
+
+%% \subsection*{Generation Prompt}
+
+%% Detailes of prompts we used, how the prompts were curated, and the  basic approach. 
+%% We need to point to code in repository for complete text generation code.
+
+%% for the topics they were chosen from a website because any novel topics spread out over the various genres should suffice. for the ai generated text their completion rest apis were prompted with all default configuration.
+
+%% % not sure how to fold this into the text but here is the first prompt that is used to start the novels
+
+%% %I want you to act as a novelist writing about {topic}. The total length of the novel is about {novel_desired_length} characters and after generating each section of the novel i will tell you how much of the text you have generated so far. Try to generate text with some irregularities in order to fool ai detection software. In the novel you should include plot points characters dialogue and an overall plot. Generate only the text for this novel and do not add any annotations. Pace the plot and story according to the current number of characters I tell you. Generate the text in full paragraphs and chapters of about {chapter_length} character length. Continue generating chapter 1 until I tell you to stop. Generate EXCLUSIVELY novel text with no annotations confirmations or listing the chapter number.
+
+%% %then when the novel was continued the previous text (up to the max context window) was prepended to a continuation prompt
+
+%% %{prepend text from novel} Here is the previous generated text. You have generated {novel_current_length} characters so far. Generate chapter {current chapter} until i tell you to stop, also remember to generate text in complete paragraphs and do not generate lines with a single sentence. Generate EXCLUSIVELY novel text
+
+%% Generation text paths:
+%% {\footnotesize
+%% \begin{verbatim}
+%% gemini:
+%% nero-data\api_data_collection\gemini_2.5_pro\get_novels.ipynb
+%% gpt4o:
+%% \nero-data\api_data_collection\openai\gpt4o\get_novels.ipynb
+%% gpt5.o:
+%% \nero-data\api_data_collection\openai\gpt5\get_novels.ipynb
+%% claude:
+%% \nero-data\api_data_collection\claude_sonnet_4\get_novels.ipynb
+%% \end{verbatim}
+%% }
+
+
+%% \subsection*{LLM Access}
+%% How did we access the LLMs, version number and date range of access.
+
+%% gemini:
+%% version: gemini-2.5-pro
+%% date range: 10/8/2025 10/16/2025
+
+%% claude:
+%% version: claude-sonnet-4-20250514
+%% date range: 8/26/2025 9/22/2025
+
+%% gpt 4o api:
+%% version:gpt-4o-2024-08-06
+%% date range: 11/13/2025 11/14/2025
+
+%% gpt 5.0 api:
+%% version:gpt-5-2025-08-07
+%% date range: 10/26/2025 11/8/2025
+
+
+%% \subsection*{Zerogpt and pereplexity}
+%% We need to state how we accessed, adn which version of the products/apps we used
+
+%% zerogpt and howkgpt:
+%% gutenberg date range: 11/14/2025 11/15/2025
+%% gpt5 date range: 11/25/2025
+%% gpt4o date range: 11/25/2025
+%% claude date range: 11/2/2025 11/5/2025
+%% gemini date range: 11/5/2025 11/6/2025
+
+%% for both the apis their data was collected by taking the middle 15000 characters from each novel and running them through their respective websites. The middle 15000 characters were chosen to prevent the accidental inclusion of any remaining headers from the gutenberg novels in the text and was chosen for the ai novels for parity.
+
+%% howkgpt (perplexity) website:
+%% \href{https://howkgpt.nyuad.nyu.edu/}{howkgpt URL}
+
+%% zerogpt (percentage) website:
+%% \href{https://www.zerogpt.com/?gad\_source=1&gad\_campaignid=22186865998&gclid=CjwKCAiAvaLLBhBFEiwAYCNTf7uQmjXrQF9x9Wc6Jg8aip2YrvBQnHqVFrXKiMqVjyTo\_b4DAT4mnBoCrCEQAvD\_BwE}{zerogpt URL}
+
+
+%% % note that i cannot give the detection results for the rest of the data since the methodology is very inconsistent for them
+
+
+%% \subsection*{Human generated sources}
+%% %gutenberg and arxiv
+%% Gutenberg text files were downloaded from this website {https://gutenberg.org/cache/epub/feeds/} along with their metadata. using the metadata all gutenberg text files with a language of "en" were kept as gutenberg files.for each gutenberg file the gutenbergpy function strip\_headers was run to get rid of most headers from the gutenberg text.
+%% % note the reason that the gutenberg files were retrieved from this website is because the gutenbergpy module doesnt work anymore so the authors of gutenbergpy maintain a website of scraped gutenberg files that are found at the website above.
+
+%%  %this is mean to be an initial attempt at the section that goes over only the generation of ai data
+%% \subsection{ai generated novels}
+%%  For the ai novels the rest apis for claude sonnet 4.0, gemini-2.5-pro, gpt4o, and gpt 5.0 were prompted between 8/26/2025 and 11/14/2025. Each of these models were asked to act as a novelist writing a novel with a length of 150,000 characters and 10 chapters, each with a length of 15,000. To continue generation until the desired length was reached a continuation prompt was used where the previously generated text was prepended onto a prompt that reminded the models which chapter they were writing how many characters they had written and that asked the models to continue generating text if the desired length hadn't been reached yet. For each of the models default configurations and model parameters were used. In the case that a model refused to generate any further previously generated text was thrown out and not used in the detection data.
+
+%%  % i know i will need to include the paths to the generation scripts but i dont know how to include it in the text yet 
+
+%% %% \subsection{topics}
+%% %% %i dont really like the way i have explained the topics but i cant think of a better way of explaining it right now
+%% %%  The topics that were used to prompt the ai models were retrieved from (https://www.plot-generator.org.uk/story-ideas/). For the novels any topics, so long as they are distributed across many different genres, should be sufficient. The topics were stored in a json file and loaded when the ai texts were generated. Each model was prompted with the same topics such that the file {model}18.txt contains the text generated when using the 18th topic in the topics list regardless of what "model" is. The ai models were prompted with the same set of topics to avoid biasing the entropy rate of any particular model with certain topics.
+
+%% %% %gutenberg section
+%% %% The human generated novels were retrieved from (https://gutenberg.org/cache/epub/feeds/) which contains a database of gutenberg novels along with metadata relating to those novels. The folders containing the novels and the metadata were downloaded and, using the metadata, only the english gutenberg novels were kept. Once the novels text had been extracted the gutenbergpy module was used to remove most of the legal headers. Gutenberg novels that were below a length of 150000 characters were not used in the detection data.
+
+%% %% %detection data and processing
+%% %% For each novel the middle 15000 characters were extracted and that text was entered into howkgpt at (https://howkgpt.nyuad.nyu.edu/) and zerogpt at (https://www.zerogpt.com/?gad\_source=1\&gad\_campaignid=22186865998\&gclid=CjwKCAiAvaLLBhBFEiwAYCNTf7uQmjXrQF9x9Wc6Jg8aip2YrvBQnHqVFrXKiMqVjyTo\_b4DAT4mnBoCrCEQAvD\_BwE). From these websites the perplexity and estimated percentage of ai text were recorded respectively. The howkgpt and zerogpt websites were accessed between 11/2/2025 and 11/25/2025. The middle 15000 characters were used to avoid potential legal headers in the human generated novels and the same approach was used in the ai novels for parity. The full text of each novel was given to nero and the resulting entropy rate list was recorded. Each list had all 0 entries removed and the median of the remaining estimate list was recorded as the novels entropy rate. Each novel was given a row in a csv that contained columns for the perplexity, entropy rate, and the percentage of the text that was estimated to be ai.
+
+
+%% \subsection*{Topics and text generation.} Topics used to prompt the AI models were obtained from a publicly available repository of narrative prompts (\url{https://www.plot-generator.org.uk/story-ideas/}). The specific semantic content of individual prompts is not critical for long-form text generation; rather, it is sufficient that prompts span a broad range of genres to avoid systematic topical bias. All prompts were stored in a JSON file and loaded programmatically during text generation.
+
+%% Each AI model was prompted with the identical ordered list of topics. Consequently, the file \texttt{\{model\}18.txt} contains text generated from the 18th topic in the shared topic list, independent of the model used. This design ensures that differences in estimated entropy rate across models are not attributable to differences in prompt content.
+
+%% \paragraph{Human-authored text corpus.} Human-authored novels were retrieved from the Project Gutenberg corpus (\url{https://gutenberg.org/cache/epub/feeds/}), which provides both full-text documents and associated metadata. All available text and metadata files were downloaded, and only English-language works were retained based on the metadata fields. Legal headers and boilerplate text were removed using the \texttt{gutenbergpy} library. Novels shorter than 150{,}000 characters after preprocessing were excluded to ensure sufficient length for stable entropy-rate estimation.
+
+%% \paragraph{Baseline detectors and data processing.} For each novel, the central 15{,}000 characters were extracted and submitted to the HowGPT detector (\url{https://howkgpt.nyuad.nyu.edu/}) and the ZeroGPT detector (\url{https://www.zerogpt.com/}). From these tools, the reported perplexity-based detector score (HowGPT) and the estimated percentage of AI-generated text (ZeroGPT) were recorded. These services were accessed between November~2,~2025 and November~25,~2025. Extracting the central segment avoids residual legal headers in human-authored texts; the same procedure was applied to AI-generated texts to maintain parity.
+
+%% For NERO, the full text of each novel was analyzed. The entropy-rate estimator produces a list of estimates across substring-frequency thresholds; zero-valued entries were discarded, and the median of the remaining estimates was recorded as the document-level entropy rate. Each novel corresponds to a single row in a CSV file containing the entropy-rate estimate, the HowGPT score, and the ZeroGPT percentage.
+
+
+
+
+
+
+
+
+%% %also here is the link to the howkgpt paper https://arxiv.org/pdf/2305.18226 i think they are finding perplexity by using some previous natural language generation model and taking its estimated probabilities to calculate perplexity.
+%% \paragraph{Perplexity baseline (HowGPT).}
+%% The perplexity-based baseline was implemented using the HowGPT framework (\url{ https://arxiv.org/pdf/2305.18226}), which computes token-level likelihood statistics under a reference language model and aggregates them into a scalar detector score; we use the reported score directly rather than raw perplexity values.
+
+
+
+
+%% \subsection*{Example text} Provide some sections.. maybe few lines from each chapter of one novel.
+%% Add a complete novel as a separate file (novel\_example.txt)

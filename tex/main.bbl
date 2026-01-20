@@ -1,0 +1,86 @@
+\begin{thebibliography}{10}
+
+\bibitem{naturebe2023prepare}
+Prepare for truly useful large language models.
+\newblock {\em\protect\JournalTitle{Nature Biomedical Engineering}} \textbf{7},
+  85--86 (2023).
+
+\bibitem{crothers2023machine}
+E Crothers, N Japkowicz, HL Viktor, Machine-generated text: A comprehensive
+  survey of threat models and detection methods.
+\newblock {\em\protect\JournalTitle{IEEE Access}} (2023).
+
+\bibitem{thirunavukarasu2023large}
+AJ Thirunavukarasu, et~al., Large language models in medicine.
+\newblock {\em\protect\JournalTitle{Nature medicine}} \textbf{29}, 1930--1940
+  (2023).
+
+\bibitem{CoverKing1978}
+TM Cover, RC King, A convergent gambling estimate of the entropy of english.
+\newblock {\em\protect\JournalTitle{IEEE Transactions on Information Theory}}
+  (1978).
+
+\bibitem{detectgpt_icml2023}
+E Mitchell, Y Lee, A Khazatsky, CD Manning, C Finn, Detectgpt: Zero-shot
+  machine-generated text detection using probability curvature in {\em
+  Proceedings of the 40th International Conference on Machine Learning (ICML)},
+  Proceedings of Machine Learning Research.
+\newblock Vol.{} 202, pp. 24950--24962 (2023).
+
+\bibitem{detectllm_findings2023}
+J Su, TY Zhuo, D Wang, P Nakov, Detectllm: Leveraging log rank information for
+  zero-shot detection of machine-generated text in {\em Findings of the
+  Association for Computational Linguistics: EMNLP 2023}.
+\newblock (2023).
+
+\bibitem{GacsTrompVitanyi2001}
+P Gacs, J Tromp, PMB Vit{\'a}nyi, Algorithmic statistics.
+\newblock {\em\protect\JournalTitle{IEEE Trans. Information Theory}}
+  \textbf{47}, 2443--2463 (2001).
+
+\bibitem{grassberger1989estimating}
+P Grassberger, Estimating the information content of symbol sequences and
+  efficient codes.
+\newblock {\em\protect\JournalTitle{IEEE Transactions on Information Theory}}
+  \textbf{35}, 669--675 (1989).
+
+\bibitem{CLx}
+I {Chattopadhyay}, H {Lipson}, {Computing Entropy Rate Of Symbol Sources \& A
+  Distribution-free Limit Theorem}.
+\newblock {\em\protect\JournalTitle{ArXiv e-prints 1401.0711}} (2014).
+
+\bibitem{CL12g}
+I Chattopadhyay, H Lipson, {{A}bductive learning of quantized stochastic
+  processes with probabilistic finite automata}.
+\newblock {\em\protect\JournalTitle{Philos Trans A}} \textbf{371}, 20110543
+  (2013).
+
+\bibitem{williams2006gaussian}
+CK Williams, CE Rasmussen, {\em Gaussian processes for machine learning}.
+\newblock (MIT press Cambridge, MA) Vol.{}~2, (2006).
+
+\bibitem{openai_gpt4_architecture}
+{OpenAI}, Gpt-4 technical report (2023).
+
+\bibitem{Levin1974}
+LA Levin, Laws of information conservation (non-growth) and aspects of the
+  foundation of probability theory.
+\newblock {\em\protect\JournalTitle{Problems of Information Transmission}}
+  \textbf{10}, 206--210 (1974) Originally in Russian.
+
+\bibitem{LiVitanyi2008}
+M Li, PMB Vitanyi, {\em An Introduction to Kolmogorov Complexity and Its
+  Applications}.
+\newblock (Springer, New York, NY), 3rd edition, (2008).
+
+\bibitem{Chaitin1975}
+GJ Chaitin, A theory of program size formally identical to information theory.
+\newblock {\em\protect\JournalTitle{Journal of the ACM}} \textbf{22}, 329--340
+  (1975).
+
+\bibitem{horibe03}
+Y Horibe, A note on kolmogorov complexity and entropy.
+\newblock {\em\protect\JournalTitle{Applied Mathematics Letters}} \textbf{16},
+  1129 -- 1130 (2003).
+
+\end{thebibliography}
