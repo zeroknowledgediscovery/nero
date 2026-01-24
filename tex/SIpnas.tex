@@ -2,7 +2,6 @@
 \section*{Supplementary Methods}
 
 
-
 \subsection*{Proof of Proposition 1}
 \begin{proof}
 For typical \(x \sim G_i\)~\cite{GacsTrompVitanyi2001,LiVitanyi2008},
@@ -285,6 +284,10 @@ The HowGPT  (\url{https://howkgpt.nyuad.nyu.edu/}) and the ZeroGPT detectors (\u
 
 \paragraph{Perplexity baseline (HowGPT).}
 The perplexity-based baseline was implemented using the HowGPT framework, which computes token-level likelihood statistics under a reference language model and aggregates them into a scalar detector score. We use the reported detector score directly rather than raw perplexity values.
+
+
+\paragraph*{Relation to standard LLM benchmarks.}
+Existing LLM benchmark suites primarily evaluate task-specific performance (e.g., reasoning accuracy, problem solving, or code synthesis) under controlled prompts and scoring rules. In contrast, NERO estimates a distributional property of long-form generated text—entropy rate under a fixed symbolization—which reflects output complexity rather than task competence. These quantities are not directly commensurate, and strong correspondence is neither assumed nor required: models may score highly on benchmarks while exhibiting low entropy-rate regularity in extended prose. Accordingly, we do not attempt exhaustive benchmark comparisons here. Studying how entropy-rate trajectories relate to aggregate benchmark indicators across model releases is an interesting direction for future work.
 
 %% \subsection*{NERO entropy-rate estimation}
 
