@@ -143,7 +143,7 @@
 % {pnasresearcharticle} = Template for a two-column research article
 % {pnasmathematics} %= Template for a one-column mathematics article
 % {pnasinvited} %= Template for a PNAS invited submission
-\def\TITLE{A Complexity-Theoretic Signature of AI-Generated Text}%Model-agnostic  Recognition of AI-Generated Text with Descriptional Complexity Measure}
+\def\TITLE{Complexity Signature of Generated Text}%Model-agnostic  Recognition of AI-Generated Text with Descriptional Complexity Measure}
 \title{\TITLE}
     \def\NERO{NERO\xspace}
 
@@ -196,9 +196,11 @@ We introduce a model-agnostic  approach for detecting LLM-generated text by esti
 
 \dropcap{W}ith the rise of generative artificial intelligence (AI), particularly large language models (LLMs), reliably distinguishing human-authored prose from machine-generated text is no longer trivial~\cite{naturebe2023prepare,crothers2023machine,thirunavukarasu2023large}. Here we test the hypothesis that long-form human- and machine-generated text differ in statistical complexity when mapped to symbol streams over a 27-character alphabet (26 letters plus space) and treated as sample paths of a stochastic process~\cite{CoverKing1978}, whose entropy rate quantifies intrinsic complexity. Most existing detectors~\cite{detectgpt_icml2023,detectllm_findings2023} instead rely on language-model scoring (e.g., likelihood/rank statistics), supervised classifiers over stylistic representations, or compressibility proxies, and therefore depend on reference model access, training, or calibration to evolving generators.
 
-We introduce a nonparametric, learning-free entropy-rate estimator that operates directly on text, without model access, supervision, or retraining. Used as a threshold score, the resulting Nonparametric Entropy-Rate Oracle (\NERO) achieves competitive,  training-free discrimination, and reveals systematically lower entropy rates in contemporary LLM outputs than in human prose under a shared symbolization. Optionally, using the estimator’s internal substring-frequency cutoff profile as features in a Gaussian process classifier yields near-perfect performance (AUC $=98.9\%$), surpassing model-driven baselines.
+We introduce a nonparametric, learning-free entropy-rate estimator that operates directly on text, without model access, supervision, or retraining. 
 %
-Thus, \NERO-estimated entropy rate functions as a model-agnostic statistic, akin to a physical quantity, for  effective generative capacity, and provides a robust  mechanism for AI text detection and a principled framework for ranking and tracking generative models over time.
+Used as a threshold score, the resulting Nonparametric Entropy-Rate Oracle (\NERO) achieves competitive,  training-free discrimination, and reveals systematically lower entropy rates in contemporary LLM outputs than in human prose under a shared symbolization. Optionally, using the estimator’s internal substring-frequency cutoff profile as features in a Gaussian process classifier yields near-perfect performance (AUC $=98.9\%$), surpassing model-driven baselines.
+%
+Thus, \NERO-estimated entropy rate functions as a model-agnostic statistic, akin to a physical quantity, for  effective generative capacity, and provides a robust  mechanism for AI text detection and a principled framework for ranking and tracking generative models over time. Since we target an intrinsic property of long-form text,   task-based LLM benchmarks are not directly commensurate here (see Supplementary Information).
 
 \section*{Results}
 To  connect generative capacity with algorithmic complexity and then to entropy-rate of outputs, we begin by recalling the foundational concept of optimal two-part codes in algorithmic information theory~\cite{GacsTrompVitanyi2001}. The Kolmogorov complexity \(K(x)\) of a string \(x\) is defined as the length of the shortest program (in a fixed universal programming language) that produces \(x\) and halts. It provides a rigorous, machine-independent measure of the information content or compressibility of a string. Instead of describing \(x\) directly, we can choose to first describe a finite set \(S\) that contains \(x\), and then identify  \(x\) within \(S\) by its index in a standard enumeration of all items in $S$. This leads to the two-part code representation:

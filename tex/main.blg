@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Fedora 39)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: pnas-new.bst
+A level-1 auxiliary file: SIpnas.aux
+Database file #1: BibLib1.bib
+Database file #2: tom.bib
+Repeated entry---line 95 of file tom.bib
+ : @book{LiVitanyi2008
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--empty author in naturebe2023prepare
+Warning--empty volume in crothers2023machine
+Warning--empty volume in CoverKing1978
+Warning--empty volume in CLx
+Warning--can't use both volume and number fields in williams2006gaussian
+You've used 16 entries,
+            1916 wiz_defined-function locations,
+            611 strings with 6802 characters,
+and the built_in function-call counts, 3597 in all, are:
+= -- 355
+> -- 149
+< -- 3
++ -- 47
+- -- 31
+* -- 282
+:= -- 529
+add.period$ -- 31
+call.type$ -- 16
+change.case$ -- 15
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 167
+empty$ -- 342
+format.name$ -- 31
+if$ -- 825
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 17
+newline$ -- 66
+num.names$ -- 15
+pop$ -- 48
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 82
+stack$ -- 0
+substring$ -- 257
+swap$ -- 38
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 31
+width$ -- 18
+write$ -- 156
+(There was 1 error message)
