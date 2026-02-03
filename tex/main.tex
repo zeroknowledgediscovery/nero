@@ -1,31 +1,3 @@
-%% AIs:
-%% Claude
-%% Gemini (deep mind)
-
-
-%% Detectors:
-%% ghostbuster:
-%% https://github.com/vivek3141/ghostbuster
-
-%% DetectGPT
-%% https://detectgpt.com/app/
-
-%% GPTzero
-
-%% Originality.AI
-
-%% Roberta
-
-
-%% We need at least 10K cohort each in AI and human text.
-%% Anything les will not be serious.
-
-%% We need a figure which shows the different models ranked in ordrer of their H number, x axis can be time to show progression.
-
-%% our key positions here is that we are not competingto be the best detector. But providing theoretical insight into what distinguishes AI text from human text and training free future proof ranking ability
-
-
-
 \PassOptionsToPackage{usenames,x11names, dvipsnames, svgnames}{xcolor}
 \documentclass[9pt,twocolumn,oneside]{pnas-new}
 % Use the lineno option to display guide line numbers if required.
@@ -137,8 +109,6 @@
 }
 
 
-
-
 \templatetype{pnasbriefreport} % Choose template
 % {pnasresearcharticle} = Template for a two-column research article
 % {pnasmathematics} %= Template for a one-column mathematics article
@@ -176,11 +146,6 @@ We introduce a model-agnostic  approach for detecting LLM-generated text by esti
 \dates{This manuscript was compiled on \today}
 \doi{\url{www.pnas.org/cgi/doi/10.1073/pnas.XXXXXXXXXX}}
 
-%#todo
-% compare auc with 3.5 with entropy and zerogpt
-% compare with short lengths
-% do training
-
 \begin{document}  
 
 \maketitle
@@ -192,7 +157,6 @@ We introduce a model-agnostic  approach for detecting LLM-generated text by esti
 
 
 % If your first paragraph (i.e. with the \dropcap) contains a list environment (quote, quotation, theorem, definition, enumerate, itemize...), the line after the list may have some extra indentati
-
 
 \dropcap{W}ith the rise of generative artificial intelligence (AI), particularly large language models (LLMs), reliably distinguishing human-authored prose from machine-generated text is no longer trivial~\cite{naturebe2023prepare,crothers2023machine,thirunavukarasu2023large}. Here we test the hypothesis that long-form human- and machine-generated text differ in statistical complexity when mapped to symbol streams over a 27-character alphabet (26 letters plus space) and treated as sample paths of a stochastic process~\cite{CoverKing1978}, whose entropy rate quantifies intrinsic complexity. Most existing detectors~\cite{detectgpt_icml2023,detectllm_findings2023} instead rely on language-model scoring (e.g., likelihood/rank statistics), supervised classifiers over stylistic representations, or compressibility proxies, and therefore depend on reference model access, training, or calibration to evolving generators.
 
@@ -311,7 +275,7 @@ Thus, despite the limitations of  requiring longer texts and greater computation
 }
 
 \showmatmethods{} % Display the Materials and Methods section
-\acknow{This work was supported in part by the Defense Advanced Research Projects Agency (DARPA) under the ARC program. Views, opinions, and findings expressed are solely those of the authors.}
+\acknow{This work was supported in part by the Defense Advanced Research Projects Agency (DARPA) under the ARC program (HR0011-26-3-E016). Views, opinions, and findings expressed are solely those of the authors.}
 
 \showacknow{} % Display the acknowledgments section
 
@@ -319,96 +283,10 @@ Thus, despite the limitations of  requiring longer texts and greater computation
 % #######################################
 %#################################################
 %#################################################
-%\fontsize{6}{8}\selectfont
 
-%\subsection*{References}
- 
 
-%\bibliographystyle{tran}
 \bibliography{BibLib1,tom}
-
 
 \include{SIpnas.tex}
  
-
-%\includepdf[pages=-]{si.pdf}
 \end{document}
-% For the estimation of entropy rate, we model discrete and finite-valued stationary and ergodic sources as probabilistic automata. Our automata is distinct from that of Paz~\cite{P71}, and each model in our case is an encoding of a measure defined on the space of strictly infinite strings over a finite alphabet~\cite{CLx,CL12g}. While the formalisms are  completely different, some aspects of this approach has subtle parallels to that of Rissanen's ``context algorithm''~\cite{rissanen83}; his search for contexts which yield similar probabilities of generating future symbols is analogous to our search for a synchronizing string in the input stream - a finite sequence of symbols that, once executed on a probabilistic automaton, leads to a fixed state irrespective of the initial conditions. Of course we do not know anything about the hidden model a priori; but nevertheless we establish that such a string, at least in a well-defined approximate sense, always exists and is identifiable efficiently. Finally, we show that, given such an approximate synchronizing string, we can use results from non-parametric statistics to bound the probability of error as a function of the input length.
-
-
-
-%The entropy rate of a stationary and ergodic process converges in probability to the  per-letter Kolmogorov complexity of a single sufficiently long sample path~\cite{horibe03}. While  Kolmogorov complexity is incomputable, entropy rates  can, in principle, be estimated. Ability to quantify the complexity of a signal source, even in the average sense, can provide valuable insights into the driving dynamics; and can potentially be used as a  tool to detect dynamical anomalies without explicit knowledge of  background noise processes.
-
-%However, source entropy rate estimation  from an observed sample path is computationally non-trivial. Even with the assumptions of ergodicity and stationarity, one cannot fruitfully apply the defining relation in Eq.\eqref{eqentropy} due to the exponential increase in the number of different words with the word-length. This is particularly important  if there are long-range dependencies in the symbol stream.  Such dependencies introduce additional long-range structure; decreasing the source entropy  in the process. In such cases  unacceptably long words or \textit{blocks} must be considered, and pre-mature truncation of the computation would lead to large errors. 
-
-%The best known algorithms that carry out a  more efficient  computation are based on  Lempel-Ziv (LZ) source coding~\cite{LZ77,LZ78,LZ77opt}. The LZ coding algorithms are asymptotically optimal, $i.e.$ their compression rate approaches the source entropy rate for any ergodic stationary stochastic process. The key idea here is adaptive dictionary compression: parse the input string into distinct phrases, and represent them with codewords, making sure that  short codewords are assigned to common phrases. Done optimally, one ends up with a compressed string, such that the ratio of the input and output lengths approach the source entropy rate. Different variations on this idea have been reported~\cite{langdon83,grassberger89}. Techniques distinct from  LZ parsing  are also known, $e.g.$,  Rissanen~\cite{rissanen83} reported a universal compression scheme, which instead of gathering parsed segments of the input along with their occurrence counts, collects  the ``contexts'' in which each symbol of  the  input string  occurs, together with   conditional  occurrence counts.
-
-%Importantly, a majority of the reported techniques do more than just compute the entropy rate; they are indeed full-scale data compression utilities, that produce a decodable representation of the input. Can we do better if we are only interested in the former? This paper provides an affirmative answer to this possibility.
-
-%Secondly,  existing techniques lack convergence rate estimates; computation of error bars for reported approaches do not follow from any standard limit theorem. There is indeed no analytical way to check for the internal consistency of the estimation or its accuracy. We may observe gradual convergence to a limiting value, and this is indeed guaranteed by theory;  but  are unable to  provide uncertainty bounds on the computed  estimate with finite inputs. Typically observed slow convergence in all non-trivial scenarios, for all reported algorithms,  makes this a key issue. An empirical relationship, without proof or theoretical backing, has been suggested~\cite{shgs96}, which conjectures the $\vert s \vert$-dependence ($\vert s \vert$ being the length of the input $s$) of the estimated entropy rate $\widetilde{H}$ to follow
-%\cgather{ 
-%$\widetilde{H} \simeq H_{actual} + c \frac{\log \vert s \vert}{\vert s \vert^\gamma}, \textrm{where } c,\gamma \textrm{ are fit parameters}$. 
-%}
-%In this paper, we show that, at least with our algorithm, the convergence rate is given by $O(\log \vert s \vert / \sqrt[3]{\vert s \vert})$. This is a distribution-free result, in the sense that the asymptotic  bound does not depend on the source characteristics. In consequence, we can derive explicit uncertainty estimates at specified  confidence bounds on the estimated entropy rate for finite-length input data.
- 
-% Our approach is based on  modeling discrete and finite-valued stationary and ergodic sources as probabilistic automata. Our automata is distinct from that of Paz~\cite{P71}, and each model in our case is in fact an encoding of a measure defined on the space of strictly infinite strings over a finite alphabet. While the formalisms are  completely different, some aspects of this approach has subtle parallels to that of Rissanen's ``context algorithm''~\cite{rissanen83}; his search for contexts which yield similar probabilities of generating future symbols is analogous to our search for a synchronizing string in the input stream - a finite sequence of symbols that, once executed on a probabilistic automaton, leads to a fixed state irrespective of the initial conditions. Of course we do not know anything about the hidden model a priori; but nevertheless we establish that such a string, at least in a well-defined approximate sense, always exists and is identifiable efficiently. Finally, we show that, given such an approximate synchronizing string, we can use results from non-parametric statistics to bound the probability of error as a function of the input length.
-% \dropcap{G}enerative artificial intelligence (AI) through large language models (LLMs), continue to demonstrate remarkable capabilities in generating text that closely mimic human writing styles, and are increasingly becoming invaluable for a wide range of applications, from automated content creation to enhancing natural language processing tasks. Currently, the capabilities of LLMs have improved to the point where determining whether a text is human-generated might no longer be trivial.\cite{naturebe2023prepare} This apparent indistinguishability of AI vs human generated content has raised significant concerns regarding the reliability and authenticity of information in the public domain~\cite{crothers2023machine,thirunavukarasu2023large}, and where  the integrity of the information is critical, such as in academic writing, journalism, and legal documentation.
-  
-% Human writing is inherently complex and nuanced, drawing upon the  rich tapestry of  experiences, emotions, and cognitive processes. In contrast, AI models, despite their rapidly advancing capabilities, are limited by the patterns and correlations learned from their training data. Here we consider the problem of  developing a robust mechanism for  distinguishing between human and AI-generated content. % and demonstrate that there are computable  disambiguating chracrteritics that need no learning or tuning.
-% We posit that there  exists a measurable difference in the  inherent complexity and unpredictability of human vs AI generated text. A long-form text, when represented as a symbol stream over a 27 letter alphabet (26 letter + space), may be viewed as a  sample path from an underlying   stochastic process, and a fundamental measure of the inherent complexity of such a stochastic  generator is the  entropy rate of the  process. Here we demonstrate that our intuition that AI-generated text is recognizably less complex, leads to a practically implementable algorithm, revealing that AI achieves significantly lower entropy rate compared to human content. This insight not only leads to a robust tool for recognizing AI generated long-form text, but  emerges as the yard-stick by which to measure the quality of AI content-generation capability as LLMs continue to improve.
-
-% Our key technical contribution here is formulating a reliable approach for estimating the entropy rate of a stochastic process, which is not necessarily i.i.d. or has some other a priori assumed simplified structure such as exchangeability, and is thus applicable to the case at hand. Shannon's results~\cite{shannon1951prediction} on the entropy rate of English suggested an entropy rate of approximately 1 bit per letter, a benchmark that has guided subsequent research in information theory and linguistics [REF]. By our hypothesis,  AI-generated text, due to its reliance on learned patterns, would exhibit an entropy rate  significantly lower than 1.0. This difference in entropy rate, which we demonstrate to be  computable from realistic long-form texts (See \Methods), can serve as a critical marker for distinguishing between the two.
-
-
-% The importance of our insight is further established from the fact that we can use our estimate of the entropy rate to recognize AI-content without any training. Using the etimated rate to compute the AUC leads to a auc of $> 87\%$. 
-
-%  often reflecting a higher degree of variability and unpredictability than AI-generated text
-
-% While large scale generative AI models (especially LLMs - large language models) have had profound impact across scientific domains in recent years, a variety of concerns about the risks associated to such methods have been raised. Primary concerns relate to both the trustworthiness of model outputs and ethical concerns related to the potential for abuse by bad actors\cite{thirunavukarasu2023large, crothers2023machine}.  Such concerns have underscored the necessity for tools which can reliably distinguish content which has been generated by an AI model vs. content which is human-generated. 
-
-% Conjecturing that AI-generated text is typically less structurally rich than human-generated text, we hypothesize that AI-generated text may often be detectable by estimating the complexity of the text-generation process. Crucial to this approach is a novel, efficient method for estimating the entropy rate of this process. ~\cite{thirunavukarasu2023large, crothers2023machine}
-
-
-#TODO
-
-1.Abstract over-claims vs. what is actually shown
-The abstract rhetorically merges the training-free entropy-rate result (AUC ≈ 0.82) with the calibrated GP result (AUC ≈ 0.99). This will almost certainly be flagged. The fix is to explicitly bifurcate claims: (i) competitive, training-free detection using entropy rate alone; (ii) near-perfect accuracy with a lightweight, calibrated readout. This is mostly a wording correction but has high reviewer impact.
-
-2. “Training-free” vs. “near-perfect” needs a sharp semantic separation
-Even outside the abstract, Results and Discussion blur this distinction. Reviewers will insist that “training-free” cannot coexist with a trained GP classifier unless carefully scoped. We should consistently reserve “training-free” for raw entropy-rate thresholds and clearly label the GP as an optional calibration layer.
-
-3. Theoretical framing over-asserts necessity instead of interpretation
-Proposition 1 currently reads as if lower entropy rate must follow from algorithmic-statistics assumptions. In reality, the empirical result is doing the work. The theory should be repositioned as interpretive scaffolding (“motivates entropy rate as a meaningful statistic”), not as a premise that forces the outcome. This is a conceptual clarity issue, not a math error.
-
-4. Ambiguity around the shared output-space assumption (|S₁| ≈ |S₂|)
-The assumption that human and LLM text draw from comparable output spaces is idealized and will be attacked. We need to explicitly state this is an abstraction induced by the preprocessing and fixed alphabet, not a literal claim about generative support. One clarifying sentence will neutralize a likely reviewer objection.
-
-5. Stationarity assumption is too implicit for document-scale language
-Entropy-rate estimation assumes stationarity, but long documents violate this. Right now this is unstated. We should explicitly call it an approximation and, ideally, add a robustness argument (e.g., chunk-wise estimation or sliding windows). Without this, an information-theory reviewer has an easy critique.
-
-6. Independence assumption in Theorem 1 is not defensible as written
-The Hoeffding bound assumes independence across thresholds, but all estimates are derived from the same string. This is a real technical vulnerability. Options: weaken the theorem to a heuristic robustness statement, add an explicit independence condition (e.g., disjoint chunks), or reframe as empirical concentration rather than a formal bound.
-
-7. Generator drift claim is imprecisely stated
-Figure 1c shows entropy rates increasing over model generations, i.e., the margin is shrinking. Calling this “resilient to generator drift” over-promises. What is true is measurement without retraining, not invariant performance. This needs a careful rephrase to avoid logical inconsistency.
-
-8. Baseline definitions are under-specified (perplexity, ZeroGPT)
-Perplexity depends critically on the reference model, tokenization, and whether preprocessing matches your pipeline. ZeroGPT depends on product version and evaluation mode. These must be spelled out, or the comparison will be discounted as non-reproducible.
-
-9. Calibrated GP classifier is insufficiently described
-The paper reports near-perfect AUC but underspecifies the feature vector (M, threshold selection), kernel choice, normalization, and hyperparameter handling. This invites skepticism. A short but explicit description is necessary to legitimize the result.
-
-10. Preprocessing choices need justification and at least one sensitivity check
-Collapsing text to a 27-symbol alphabet is central to the method, but currently justified only implicitly. Reviewers may ask whether the effect is an artifact of normalization. A brief rationale plus one ablation (e.g., include punctuation) would close this gap.
-
-11. arXiv → pandoc conversion may introduce systematic artifacts
-The Methods do not describe how equations, citations, and LaTeX commands are handled. This is not fatal, but a short clarification would prevent suspicion that entropy differences come from conversion noise.
-
-12. Discussion includes speculative claims not needed for acceptance
-Claims about the future scarcity of human-authored text are interesting but speculative and uncited. They add little to the core contribution and increase reviewer surface area. Consider softening or removing.
-
-13. Internal logical consistency between figures and narrative
-Several strong claims (robustness, drift resistance, universality) are stated in prose but not explicitly tied to a figure or table. Tightening these linkages will make the paper feel more disciplined.
-
-14. Minor language and typographical issues (non-scientific but visible)
-Typos, malformed email address, and a few awkward phrasings reduce polish. These are easy fixes but worth cleaning early to avoid distracting reviewers.
