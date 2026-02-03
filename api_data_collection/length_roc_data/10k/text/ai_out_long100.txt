@@ -1,0 +1,195 @@
+Chapter One: The Breath Before
+
+Sophia Halberg stood in front of the frosted glass door bearing her boss’s name, her hand frozen midair, knuckles curled as if to knock. The hallway outside the office was quiet—eerily so, the kind of silence that vibrated in the ears like a held breath. She took one of her own. A deep, deliberate inhale, as if air could steady what no words could.
+
+She exhaled and knocked.
+
+“Come in,” a voice replied. Tight. Curt. No warmth.
+
+The office was dim, lit only by the soft light filtering through half-lowered blinds. Julian Maddox sat behind his monolithic desk, his silhouette etched against the skyline of the city below, backlit like some prophet of corporate dominion. His face betrayed nothing.
+
+Sophia stepped inside. She hadn’t wanted to wear the navy blazer—it always felt like armor she didn’t know how to use. But today felt like a battle. “You wanted to see me?”
+
+Julian gestured at the seat opposite him. “Sit.”
+
+The door clicked shut behind her.
+
+He didn’t speak at first. Just looked. The silence unfurled between them, rope-like, pulling taut.
+
+“I assume you’ve heard,” he finally said, lacing his fingers together on the desk. “About the acquisition.”
+
+“I’ve heard rumors.”
+
+He gave a thin smile. “Rumors have teeth. And these ones are hungry.”
+
+She swallowed. “What does that mean for—”
+
+“For you?” Julian leaned forward. “You’ve been here three years, Sophia. You’re sharp. Ambitious. A little reckless. But valuable.”
+
+“I appreciate that.” She didn’t trust his smile. “What’s happening to Elaris?”
+
+Julian tapped the tablet on his desk, flipping it around to show her a press release. The logo of Triacore Technologies loomed large. Beneath it: Triacore to Acquire Elaris Systems in $940M Deal.
+
+It was real. It was happening.
+
+“I’m assembling a transition team,” he said. “A small one. Trusted. You’ll be on it.”
+
+She should have felt relieved. But her stomach turned.
+
+“There’s something you’re not telling me.”
+
+Julian’s eyes narrowed. “You’re perceptive.”
+
+“Try me.”
+
+He hesitated for a beat. “They’re not just buying the company. They’re stripping it. Half the departments will be shuttered. Dev, definitely. R&D is at risk. HR, outsourced. Legal—maybe.”
+
+“That’s a third of the company.”
+
+He gave a slow nod. “And I need someone on the inside to make sure it goes smoothly.”
+
+“You mean… betray them?”
+
+“Frame it however you need to, Sophia.” His voice softened, coaxing. “But this is your chance to secure your future. Play it right, and you walk out of this with a VP title. Maybe more.”
+
+Her fingers curled into fists on her lap.
+
+She had a choice. That was what terrified her the most.
+
+—
+
+By the time Sophia stepped into the elevator, her ears still rang with the ghost of Julian’s words. The steel doors shut, and she finally let herself lean back, exhaling a shaky breath.
+
+She needed to talk to someone.
+
+Her fingers hovered over her contacts list. She scrolled past names that now felt like liabilities until she reached one: Kael Ramsey.
+
+Kael had been one of the senior engineers laid off six months ago, the scapegoat for a system failure that had been much bigger than him. Everyone knew it. No one said it.
+
+She hit dial.
+
+“Hello?” His voice came groggy, like he’d just woken up—or hadn’t slept.
+
+“It’s me.”
+
+There was a pause. “Sophia?”
+
+“I need to talk. In person.”
+
+Another pause. Then: “Where?”
+
+—
+
+Kael’s apartment was the same mess of wires, books, and half-built drones it had always been. It smelled faintly of coffee, dust, and unwashed code monkey.
+
+“You want tea or paranoia?” he asked, already pulling mugs from a chipped cabinet.
+
+“I’ll take both.”
+
+He handed her a steaming cup. “What happened?”
+
+She told him.
+
+Not everything—but enough. Enough to watch his face harden.
+
+“So you’re the inside man.”
+
+“Woman.”
+
+“Traitor.”
+
+“I’m not doing it.”
+
+“Yet.”
+
+She set her cup down. “Kael, listen. They’re gutting the company. Julian wants me to help. But if I’m careful—if I act like I’m helping—I could leak things. Stall it. Protect people.”
+
+He squinted. “You think you’re gonna outmaneuver Triacore?”
+
+“I think I have five days before the ink dries.”
+
+Kael let out a low whistle. “Five days to pull off corporate espionage and save a sinking ship. No pressure.”
+
+“You’re the only one I trust.”
+
+He sipped his tea. “That’s a mistake.”
+
+She smiled thinly. “Maybe.”
+
+—
+
+The plan began in pieces. Slippery, unfinished edges with no guarantees. Kael worked nights, combing through old network vulnerabilities, mapping access nodes that hadn’t been decommissioned when he left. Sophia played her role inside, carefully logging every meeting, every document Julian passed her, every “casual” conversation with Triacore reps.
+
+Then came the first name on the cut list: Dena Alverez, head of R&D, twenty-seven patents under her name. Gone.
+
+Sophia watched her pack her office into a cardboard box with fingers that trembled. Watched the security guard linger by the door like a vulture.
+
+That night, she drank half a bottle of wine and sent Kael the transition protocols.
+
+“What do you want me to do with these?” he asked.
+
+“Slow them down. Misdirect. If we can keep R&D alive, we keep Elaris’s heart beating.”
+
+Kael cracked his knuckles. “Time to see if their firewall’s still as lazy as their HR department.”
+
+—
+
+Day three, Sophia got a message slipped under her keyboard. No sender. Just a single sentence written in green ink:
+
+We see what you’re doing. Stop.
+
+She stared at it until the words blurred. Folded it. Burned it in the sink of the women’s restroom.
+
+But it was too late to stop.
+
+—Sophia left Kael’s apartment well after midnight, her mind roiling with unfinished plans and unspoken fears. The night air clung to her skin like mist, and every footstep echoed louder than it should have. She looked over her shoulder twice on the way to the train, a habit she hadn’t indulged since college when she’d once believed the city was a place of opportunity rather than threat. Now she knew better. She also knew that Julian Maddox didn’t make idle threats—and if he was willing to gut the company for a personal seat at Triacore’s table, he wouldn’t hesitate to bury any loose ends, even those that used to have names and dreams.
+
+The next morning, Sophia arrived at Elaris before dawn. The lobby lights buzzed dimly, casting long shadows across the polished tile. The guard, an older man named Will, didn’t even look up as he waved her through. Upstairs, her floor smelled faintly of lemon cleaner and stale air. She made her way to her office—glass walls, sterile desk, two dying succulents—and closed the door behind her. With a practiced hand, she pulled out the company laptop, logged in, and opened the encrypted channel Kael had set up the night before. It was hidden behind a spreadsheet macro, masked as an HR turnover report. The irony made her smile for exactly half a second.
+
+“You there?” she typed.
+
+The reply came instantly. “Barely. They’ve already started redirecting traffic. Triacore’s crawling the servers.”
+
+“Can you hold them off?”
+
+“I can slow them. Not stop.”
+
+“Good. Start with delaying the offboarding process. Dena’s department needs more time.”
+
+A beat. “They already pulled her access.”
+
+Sophia cursed under her breath. “We need to get her back in. At least for another 48 hours.”
+
+“You want me to give a laid-off exec backdoor access to a system owned by a multibillion-dollar predator company?”
+
+“Yes.”
+
+“…Okay.”
+
+As Kael went to work, Sophia gathered her bag and made her way to the morning briefing. The war room, as it had become known, was located two floors down, nestled behind frosted double doors and biometric locks. Inside, a handful of familiar faces sat around a long oval table. Julian was at the head, of course, flanked by two strangers in dark suits and Triacore lanyards. She recognized one of them from a press photo—Natalie Fenrow, VP of Corporate Integration, known as the Hatchet of Houston. The other, a square-jawed man with piercing gray eyes, she didn’t know. Yet.
+
+“Morning, all,” Julian began, flashing a smile that didn’t reach his eyes. “We’re here to continue transition prep. We’re on schedule, which is good. Natalie and Grant will be overseeing integration of our security and information systems over the next forty-eight hours.”
+
+Sophia sat up straighter. Forty-eight hours? That was half the time she thought she had.
+
+“Each department liaison will report in by this afternoon. If you’ve got lingering data, protocols, or software dependencies, now’s the time to surface them. After Friday, Triacore owns our bones.”
+
+There were a few dry chuckles around the table. Sophia didn’t join in.
+
+She raised her hand. “What happens to the proprietary projects under NDA?”
+
+Natalie Fenrow looked at her with interest. “If they’re under Elaris’s intellectual property umbrella, they become Triacore assets. Exceptions are rare.”
+
+“And those still in development?”
+
+“Even more valuable,” she said flatly.
+
+Sophia didn’t speak again. She didn’t have to. Her mind was already spinning. There were three active projects in R&D that hadn’t been greenlit by the board yet—projects Dena had developed independently, leveraging internal frameworks. If Triacore took those, it wouldn’t just be a loss. It would be theft.
+
+Back in her office, Sophia opened a secure messaging app Kael insisted she install and sent him a new message: “Need to isolate Project Echo, Sentinel, and Flux. Get them out of Triacore’s reach.”
+
+His response came with a single word: “Risky.”
+
+She stared at the blinking cursor before replying. “I don’t care.”
+
+The day dragged on. Meetings. More meetings. A quiet lunch where she picked at a dry sandwich and ignored a dozen unread emails. Her inbox was filling with paperwork—compliance forms, nondisclosure addendums, HR updates—all carefully crafted to make her feel like she was part of something orderly, something lawful. But all she could see were the edges fraying beneath the illusion. The system was rotting from the inside, and she wa

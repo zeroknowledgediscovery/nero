@@ -1,0 +1,154 @@
+Title: The Weight of What’s Owed
+Chapter One: A Crack in the Glass
+
+They laughed when he tripped—flat on his face, palms scuffed raw against the rust-gritted pavement. Laughed not because it was funny, but because it was him. Carter Vale. The kid who always seemed out of place, like a stuttering glitch in their clean suburban simulation.
+
+Carter stood slowly, brushing flecks of broken beer bottle from his jacket sleeve. It was secondhand—too long in the arms, tight across the chest—and the patch where the school crest had been was unevenly sewn with a clumsy red thread. Behind him, the gang of boys in the varsity jackets turned back to their pickup truck, their laughter already fading like a dying engine. One of them tossed an empty soda can at Carter’s feet without looking.
+
+"Shouldn't've been standing there, man," muttered one as he climbed into the passenger seat.
+
+The truck roared away. Carter didn’t move until the taillights dipped below the hill. Then he knelt down, picked up the can, crushed it hard between both hands, and tucked it in his backpack. Metal was worth five cents a pound at Wick’s Scrap. And Carter knew the price of everything.
+
+He walked home beneath the dim hum of cracked streetlights, eyes on the ground, a million thoughts crawling behind his ribs. They’d taken his sketchbook last week. The week before, they’d locked him in the gym supply room after hours. But this—this wasn’t just teasing anymore. This was erosion. A steady sandblasting of who he was supposed to be.
+
+His mom was asleep on the couch when he slipped through the front door. The old CRT TV flickered over the room in pale hues. Some crime show rerun, volume just a whisper. He stepped lightly, careful not to wake her. Her job at the hospital was wrecking her spine. She had no time for another report from the school counselor.
+
+He pulled the door to his room shut behind him. His sanctuary. Or at least it used to be. The walls were papered in sketches, mostly done on the backs of junk mail or the insides of cereal boxes. Detailed drawings—mechanical limbs, drones with dragonfly wings, cities sculpted inside glass spheres. All the things he couldn’t build. Yet.
+
+But the sketchbook was gone. Taken. Probably burned. That one had been real leather. His dad gave it to him before—
+
+He didn’t think about his dad. Not now.
+
+Instead, he reached under his bed, pulling out the crate he’d kept hidden since July. Inside were pieces. Wires stripped from old electronics. Bits of brass fittings. A length of copper tubing. Discarded smartwatch cores from the tech recycling bin behind McClaren’s. And—most importantly—a cracked lens from the VR headset stolen out of a bin outside Birchfield Academy.
+
+He wasn’t proud of that one. But pride hadn’t paid rent in years.
+
+Carter stared at the pieces, his fingers already itching to start connecting them, aligning circuits, soldering tiny points into something that might be…might be worth everything.
+
+But tonight was different.
+
+Tonight, his fingers stayed still. Instead, he reached for the folded sheet of paper taped to the underside of his desk. The schematics.
+
+Not his. These had come from a chance glimpse at a rich kid’s locker contents. A prototype security override chip schematic—cutting-edge. The kind of thing worth thousands on the black market. He’d memorized as much as he could and scribbled the rest in pieces over the past month.
+
+He unfolded the paper slowly, breath caught in his chest.
+
+It was time.
+
+Chapter Two: Dust and Circuits
+
+The plan wasn’t elegant. It wasn’t even particularly smart. But it was simple.
+
+Break in. Copy the prototype chip data. Sell it to the right buyer. Disappear.
+
+Not permanently. Just long enough to set things right. Buy his mom a new mattress. Get his GED online. Maybe a car that didn’t rattle like a bag of bones.
+
+The lab he needed was inside the Newton Institute of Technology, about two miles east of the city limits. A place Carter had only ever seen through a chain-link fence, its pristine white buildings glinting like teeth under the sun. But he’d found something they didn’t account for: the delivery hatch.
+
+Once a week, a maintenance van made a late-night drop of cleaning supplies and hardware components. The workers—contracted, underpaid, barely checked-in—used a back entrance accessed by a magnetic wristband and a barely secure pinpad.
+
+Carter had copied both.
+
+He'd followed one of the janitors for weeks, memorizing the man’s routine, learning the code by watching the smudge patterns on the keypad with a pair of cheap thermal glasses he built himself. Tonight, he would test it.
+
+He wore all black—not the cliché ski mask kind, just a hoodie and slacks that wouldn’t reflect light. His backpack held the necessary tools: a homemade data skimmer, two screwdrivers, a putty knife, and a roll of electrical tape. Plus one unexpected item: his father's old dog tag, still dangling from a busted chain.
+
+He wasn't sentimental. Not anymore. But it was metal. And metal had weight.
+
+The institute’s grounds were silent, the air thick with the scent of rain-soaked concrete. Carter crouched behind a row of dumpsters and waited for the van to finish its drop. The back door hissed closed. No alarms.
+
+He moved fast. The code—1187—worked on the first try. Inside, the hallway was lit with sterile blue light, echoing with the faint buzz of electronics. He stepped quietly, each footfall measured like a metronome.
+
+Room 212-B. That was the target.
+
+His heart pounded so loud it felt like it might trigger the motion sensors.
+
+Inside the lab, everything gleamed. Carter had never been in a room so...clean. It was like stepping into a spaceship. Banks of screens flickered with data streams he barely understood. In the far corner, beneath a thick pane of reinforced glass, was the chip.
+
+It was smaller than he'd imagined. About the size of a thumbnail, encased in a transparent housing, pulsing softly with pale green light.
+
+Carter exhaled. The skimmer device went live, its LEDs blinking as it synchronized with the chip’s wireless broadcast.
+
+Then—footsteps.
+
+Someone else was here.
+
+He ducked behind the main console, heart leaping into his throat. The door slid open with a hydraulic hiss, and a voice said, "Left the terminal running again. Idiot interns..."
+
+A girl’s voice. Young. Irritated.
+
+Carter peeked. She was tall, sharp-featured, dark ponytail swinging behind her as she typed something into the mainframe.
+
+He waited. Counted.
+
+Ten seconds. Fifteen.
+
+Then her eyes flicked straight to where he was hiding.
+
+“Hey.”
+
+Carter bolted.
+
+He slammed through the door, sprinting down the hall. Alarms shrieked to life. Red lights washed over everything. Behind him, shouts. Running feet. He burst out into the night, vaulting the back fence, and hit the ground running, pain lancing through his ankle.
+
+But he didn’t stop.
+
+Not until he reached the edge of the junkyard, half an hour later, lungs burning, palms raw again.
+
+The skimmer still blinked in his bag.
+
+He’d done it.
+
+But now someone knew.
+
+Chapter Three: The Girl in the Lab
+
+She found him first.
+
+Not the cops. Not the security team. Not the scientists whose work he’d stolen.
+
+Her.
+
+Her name was Lian.
+
+“You’re not very subtle,” she said, stepping out from behind a rusted-out sedan in the junkyard where Carter did most of his builds. “Most thieves don’t post schematics under their real name on modder forums.”
+
+He stared at her, stunned into silence. Then: “I didn’t steal it. I copied it.”
+
+“Oh, well,” she said dryly, “in that case, congratulations on your moral compass.”
+
+“How’d you find me?”
+
+She held up her phone. On the screen was a grainy photo of Carter, taken from a security feed. “Facial recognition. You’ve got a very distinctive frown.”
+
+Carter’s stomach turned. “You’re going to turn me in?”
+
+“No,” she said. “I’m going to hire you.”
+
+The words hit him like a brick.
+
+“What?”
+
+Lian stepped closer. “I’m serious. I’m not with the Institute. I’m with a group trying to bring down the people funding the chip project. You just proved you can break in, copy high-level tech, and not get caught—technically.”
+
+Carter frowned. “Why would you want to bring them down?”
+
+She shrugged. “Because I used to work for them. Until they used my designs to spy on people and locked me out of my own code.”
+
+Carter hesitated. Then: “So what do you want me to do?”
+
+She smiled.
+
+“Something bigger.”
+
+Carter didn’t sleep that night.
+
+Instead, he sat at his desk, hunched over a page filled with faint pencil marks and half-erased diagrams. The light from his desk lamp made everything look yellowed and older than it really was, like he was studying relics from a world long gone. His fingers ached from gripping the pencil too hard. Somewhere beyond the walls, the sounds of the city exhaled—a distant car alarm, the occasional barking dog, a siren that never seemed to stop wailing once it began.
+
+He paused, leaning back in his chair, arms crossed tight over his chest. His mind was chewing on possibilities. The chip schematic he’d sketched—if he could get it right—was more than just a chance to get even. It was a way out. A way forward. A way to prove to himself that he wasn’t just the bruised joke everyone saw at school.
+
+They all thought he was harmless. Stupid, maybe. He could live with that. Being underestimated was its own kind of camouflage.
+
+But Carter had been studying systems since he was eight. Ever since his father taught him how to solder a transistor back into a busted radio. He remembered the pride in his father’s voice when the static had cleared and music came through. A trumpet, playing something jazzy, bright and clean. That had been the moment. The moment he knew he wanted to make things—break them apart, understand them, and make them better. Or stranger. Or more his.
+
+He picked up the cracked VR lens again, turning it over in the light. He had an idea for it. Something to do with projection. If he could align the signal receiver with the internal gyro corr

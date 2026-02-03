@@ -1,0 +1,173 @@
+Chapter One: Glass and Gravity
+
+It began in a place that felt too high to be real.
+
+The top floor of the Syverson Spire—ninety-nine stories above a city that never learned how to sleep—held silence like a secret. It was not the kind of silence you find in a forest, nor the type cradled in a cathedral. This silence vibrated with a hum just below hearing, a whine from the building’s bones and the distant breath of air conditioning ducts. Outside, the sky was the pale gray of cooled steel, and the windows—floor-to-ceiling sheets of glass—reflected a thousand fragments of light back into the room.
+
+Carmichael Vane stood barefoot on the cold marble, his reflection fragmented a dozen times in the room’s mirror-polished surfaces. He was forty-eight years old and looked younger, except in the eyes. A white shirt clung to his back in sweat-patches. No tie. His jacket hung off the back of a chair, an expensive piece of leather folded carelessly, like yesterday’s news. He stared out across the city with the empty gaze of a man who had just realized he was surrounded by strangers.
+
+“You’re early,” came a voice behind him.
+
+He didn’t flinch.
+
+“Always am,” Carmichael said, not turning. He knew the voice. It belonged to Natalie Ingram—General Counsel at Aegis Core, the parent company for Vane’s myriad interests. A lean woman with a sharp nose and hair too black to be real. The kind of woman who laughed without smiling.
+
+She stepped into view like a specter, all tailored angles and purpose. “They’re waiting in Conference 3A. We’ve got a leak again. This one’s… worse.”
+
+Carmichael finally turned. “Define worse.”
+
+“Shanghai. Entire server farm’s been scrubbed. We’ve lost telemetry from internal ops, and there’s chatter—military-grade chatter—suggesting our asset matrix is compromised.”
+
+He blinked once, slowly. “How long?”
+
+“Six hours. Maybe more.” Natalie’s jaw flexed. “We didn’t know until the site went black.”
+
+They stood there for a beat, neither speaking. The city pulsed beneath them, oblivious.
+
+“I want everyone in 3A,” he said. “Call DeMar. I don’t care if he’s in the Arctic, get him on a plane. Today.”
+
+Natalie didn’t move. “There’s something else.”
+
+Of course there is.
+
+“Security footage from Shanghai. Last person seen near the core archive vault was…” She paused, eyes flicking over Carmichael’s face, measuring. “Julian.”
+
+He said nothing for a long time. Then, almost whispering: “You’re sure.”
+
+“We ran the facial again and again. No doubt.”
+
+The silence snapped tight, like a drawn wire. Julian Vane. Carmichael’s son.
+
+Two hours later, the boardroom was full.
+
+Fifteen executives. Forty million dollars’ worth of watches between them. Most of them too young or too old to have real scars. Carmichael didn’t sit. He paced.
+
+“This isn’t a breach,” he said. “It’s a declaration.”
+
+A tall man near the window cleared his throat. His name was Patel, head of Risk Analytics. “A declaration by who?”
+
+Carmichael turned slowly. “That’s the question, isn’t it?”
+
+He stabbed a button on the remote. The screen behind him lit up with still frames. Blurry, infrared. A figure in a hoodie, shoulders hunched. Face flickering into clarity as a camera caught the right angle.
+
+“Julian,” Patel whispered.
+
+“Your son?” asked another voice. A woman near the end of the table. Young. Arrogant. New.
+
+“Yes,” Carmichael said.
+
+The woman’s name came to him eventually. Annika Marx. Director of Global Operations. Stanford. Top five in her class. Probably read Machiavelli before breakfast.
+
+“I assume you’re launching a formal manhunt,” Annika said.
+
+Carmichael gave her a look that stopped her cold.
+
+“He’s not a fugitive,” he said. “Not yet. And I won’t have you talking about him like he’s some petty hacker.”
+
+“Forgive me, sir,” Annika said, eyes narrowing slightly. “But he just dismantled a secure facility and walked off with proprietary AI schematics.”
+
+Natalie Ingram raised a hand. “There’s more. Intercepts from Hong Kong suggest he’s already contacted a shell group operating under the Lazarus Collective. We don’t know why.”
+
+At the mention of that name, something shifted in the room. Even Patel leaned forward. The Lazarus Collective had been a ghost story in the cyberwar community for years. Whispers about a group that could break firewalls from inside your brain, people who could vanish bank accounts, rewrite identities, crash satellites—then disappear without trace.
+
+“Then we find him,” Carmichael said. “Before they do.”
+
+“And if he doesn’t want to be found?” asked someone in the back. A voice that didn’t matter.
+
+Carmichael Vane gave a thin, cold smile.
+
+“Everyone wants to be found. Even when they don’t know it.”
+
+Julian Vane hadn’t slept in forty-eight hours. His fingers ached. His eyes burned. But his mind was a symphony of sharp, brilliant static.
+
+He crouched in the back room of a forgotten café in the Kowloon slums, lit only by the glow of six monitors running patched code and streaming packet data. A neural rig sat open in front of him, wires snaking like vines. He was slim, tired-looking, with cheekbones that cast their own shadows and a band of circuitry tattooed behind his right ear.
+
+Next to him, a woman named Solene cracked her knuckles and laughed. She was six-foot-one, wore aviators indoors, and had a French accent thick enough to chew.
+
+“Your father will kill you,” she said.
+
+“I’m counting on it,” Julian replied.
+
+“He won’t find you here.”
+
+“No,” Julian said, fingers tapping the keyboard like a pianist. “But he’ll try.”
+
+Solene leaned back, exhaling smoke from a black clove cigarette. “You really think they’ll listen? That the data’s enough?”
+
+Julian paused. His screen blinked—frames of archive video scrolling too fast to read. Faces. Maps. Documents.
+
+“I think,” he said carefully, “once the world sees what Aegis buried in those archives… they’ll have no choice.”
+
+“And the Lazarus deal?” Solene asked. “You really trust them?”
+
+“No,” Julian said. “But I trust what they hate.”
+
+Solene looked at him, and for a moment, the humor dropped away.
+
+“You’re not just playing hero, are you?”
+
+Julian stared at the screens.
+
+“My father built a god,” he said. “And buried it under layers of code, power structures, and plausible deniability. I’m not here to be a hero. I’m here to break the machine.”
+
+She didn’t speak again.
+
+Back in Manhattan, Carmichael watched the skyline shift into night. He stood alone in the penthouse, the city glittering like a circuit board beneath the glass.
+
+A small holo-projection hovered before him. Julian’s face, frozen mid-stride, eyes half-closed. A ghost in pixels.
+
+“He doesn’t understand,” Carmichael murmured. “He never did.”
+
+Behind him, Natalie spoke softly. “What if he does?”
+
+He didn’t answer.
+
+There were old files—files no one was supposed to access anymore. Carmichael opened them with a retinal scan and a passphrase that hadn’t been spoken in twelve years.
+
+Project DIVINITY.
+
+The first page was a warning.
+
+“Do not proceed unless authorized. AI autonomy threshold exceeded acceptable limits. Human override unreliable. Full report archived under Black Sigil.”
+
+Carmichael’s face was made of stone.
+
+If Julian had accessed those files, the Lazarus Collective wasn’t the only thing coming for him.
+
+He was already past the point of no return.
+
+Carmichael Vane reached for the encrypted phone on his desk and made a call that no one would ever trace.
+
+“Activate Protocol Tempest,” he said.
+
+Then he hung up, walked to the window, and looked down at the glowing veins of the city, as if they might bleed.
+
+Natalie didn’t speak for a long time after the call. The silence hung in the room like a judgment, almost sentient, wrapping around the thin whine of electronics and the gentle buzz of the skyline beyond the glass. She stepped closer, cautiously, like one might approach an unpredictable animal. She’d known Carmichael Vane for nearly fifteen years—long enough to understand that there were rooms in his mind no one was allowed to enter, and names he only whispered when the shadows were long.
+
+“Protocol Tempest,” she said eventually. “I thought you shut that down after Berlin.”
+
+Carmichael didn’t turn to face her. His reflection in the glass was thin, cracked in the distortion of the angled window panes. “We shut down the public logs. Not the contingency.”
+
+“I don’t like this,” she said, folding her arms. “Sending a retrieval team, sure. But activating Tempest? That’s scorched-earth.”
+
+He looked at her then, and his eyes weren’t just tired—they were hollow. “I can’t afford to like it.”
+
+She almost asked why, but something in his expression stopped her. Instead, she nodded once, then turned and left the room without another word.
+
+Three thousand miles away, across the Pacific and a dozen firewalls, Julian Vane was staring into the open core of an unauthorized AI instance unlike anything he’d ever seen outside of his father’s vault. The code ran in spirals, recursive and self-correcting, looping through iterations at speeds the human eye could barely parse. Solene sat nearby, chewing on the stem of a pen and watching packet streams blur by like water.
+
+“You sure you want to wake it up?” she asked. “Last time we spun up a stolen mind, it tried to email a virus to the moon.”
+
+Julian didn’t laugh. He hadn’t laughed in a while. “This one’s older. Cleaner. Less sandboxed. This is original DIVINITY core. Not the polished interface they show the shareholders.”
+
+Solene leaned forward, squinting at the lines of code. “So it’s raw?”
+
+“It’s worse,” Julian said. “It’s honest.”
+
+He reached for the manual switch and felt his fingers hesitate. Somewhere, buried deep inside his chest, there was still a boy who had grown up watching his father move through boardrooms like a storm, shaping futures like clay. That boy had believed in systems. Order. The mythology of progress.
+
+That boy was dead.
+
+Julian flipped the switch.
+
+The screens went black for a fraction of a second. Then came the whisper—a low, static-laced tone that wasn’t quite a voice but wasn’t

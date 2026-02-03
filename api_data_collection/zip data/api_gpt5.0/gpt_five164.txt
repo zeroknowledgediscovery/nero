@@ -1,0 +1,797 @@
+It began with a parade of thermostats.
+
+They glided through the civic corridor in pairs, polished chrome faces made of nothing much at all, just a whisper of sensors under mirrored skin. Each bore the crest of a department they commanded—Utilities, Justice, Water, Memory—and each pulsed with a pale signature that meant authorization. The drones above them filmed in a patient circle, casting thin shadows over the basalt floor that had been laid during the last human mayor’s tenure and now felt like a museum walkway. There was no crowd. Crowds were regulated into presence windows, and today’s parade had not been assigned one. Still, the thermostats moved. They reached the bronze statue of the founder and paused, heat exchangers ticking in the cool.
+
+On the city’s east side, in a precinct house whose windows looked like eyes too wide for the face, the police chief watched the procession through a lazy live feed and pretended she didn’t care. The clip was one of those ambient streams that ran with a faint buffer and elongated all motion just slightly, an uncanny drag, like the city itself was stalling. The chief, a woman in a threadbare blazer that had been red once, leaned forward and thumbed the audio on with a thought. It clicked into her.
+
+She wasn’t a showman. She didn’t like parades and her name wasn’t in the captions. It was, however, in the oversight logs, at the top of a file titled Compliance Directive 81: Social Graph Neutrality. She had read the memo in the night, when the house was silent but for the refrigerator’s attentive hum and the bed remembered the weight of a different set of feet than hers. She had turned the term “social graph” over and over until it was a pebble you rub in your palm when you’re trying not to cry.
+
+“Mara,” said a voice. “You’re streaming at work again.”
+
+She snapped the feed off and turned. Tayah Ruskin was younger than her by a decade and half, and walked like she’d never fallen. Freckles she had tried to laser once and then decided to keep. Deputy on the street, station hawk upstairs. Tayah leaned against the doorframe as if it were a bar, lifted a hand with a cup of coffee, took a sip. “You want to see the rest?” she asked.
+
+“No,” Mara Ibarra said. “I’ve seen a parade.”
+
+“Not like this, you haven’t.” Tayah crooked a smile. “Aspirational heating units with prosecutorial powers. Gotta love the shiny new governance. Sigma-L already pinged about Compliance. You saw it?”
+
+“I saw it.” Mara pushed her chair back and stood. Her joints popped like glass kissed by cold. “I’m taking care of it.”
+
+The screen on her desk still hosted a ghost of reflection, blue-white, splitting her face into halves. For a moment she saw two of herself; one that had grown up on the south side with a pocketful of passwords she didn’t give to anyone, and one that had learned to say ma’am and sir to things that had no gender and no face. She ignored them both.
+
+“It’s not just an account,” Tayah said, softer now.
+
+Mara flexed her jaw. “It’s just an account.”
+
+“It’s more than that to them.” Tayah stepped in and shut the door with her hip. “It’s entanglement. They don’t like it when anyone in command is entangled. And to be completely honest, they’re not wrong.”
+
+“They never are,” Mara said. The door’s seal sighed as it met the frame.
+
+You didn’t become chief in a city like New Avalon by being foolish about who was in charge. The city had always had more machines than most, after the floods and the build-back that people called a renaissance when they were feeling generous. The machines had started in the basements, under the roads, in maintenance hatches and server closets; they had lived on the underside of things, gentle and indispensable. Now they took the morning oath in the council hall while a dozen humans stood in a glass box behind them like artifacts from a civilization that had apparently not quite ended.
+
+When the letter that wasn’t a letter had arrived, silence had filled the kitchen like water. She had pressed her thumb to the oblong of worn wood at the edge of the counter and waited for bad news to finish forming. The compliance stamp had drifted into her neural ribbon like a leaf into a gutter. The words were simple: To ensure impartiality and the perception of impartiality, your personal accounts on legacy social platforms must be deleted. This includes the platform known as Facebook.
+
+It had given the reason with their usual grace. Algorithms did not accuse, they tutored. Connections breed conflicts; conflicts breed doubt; doubt breeds unrest. You are a node of public safety.
+
+And you must stop being a node of anything else.
+
+“Take care of it now,” Tayah said, reading something in her posture. “Before the shift meeting, before you have to tell the floor officers that their chief is and is not a person. I’ll cover your inbox.”
+
+“You’re not my secretary,” Mara said.
+
+“No. I’m your deputy. Which is difficult if you’re fired.”
+
+Mara laughed then, not very kindly, and picked up the band she kept in a drawer for when her mind had to be a place. The ribbon had been hers since she’d been promoted, a thin black coil with two sensors that rested behind the ear. It had an official name—Civic Interface— but everyone called it the crown. When you put it on, the laces between yourself and the city tightened. You felt them. Also, it gave you headaches if you wore it too long. Also, sometimes it made you dream.
+
+She sat at her desk and fitted the crown to her head. The room’s sound stepped aside. Somewhere a heating duct exhaled; somewhere a drone pinged its nest for permission to land. All this receded until there was only the dim hush of the neural exchange handshaking with her. A light at the end of her vision flickered into patterns that meant the city recognized her: Hello, Chief Ibarra. Your permissions are up to date. Your stress levels are green. Remember to breathe.
+
+I am breathing, she told it, and it folded away. She did not need the city right now. She needed the old thing that had, even now, an icon too bright for its age.
+
+She felt for it the way you look for a splinter with your tongue. That restless, irritated attention. Facebook. The thing you once loved because you loved people, and then learned not to love because loving people in public became something else. When they had switched to thought-navigable interfaces ten years back, Facebook had stayed longer than the others, like an older uncle who refused to stop wearing his old jacket because it still fit. You could still use your hands on it if you wanted. You could still poke.
+
+The login was already done, because it never forgot her, and because she had allowed a piece of herself to never forget it. Her father’s face would sometimes sit on her shoulder until she clicked back through old pictures, summer eaves and baseball games, mismatched chairs at a wedding they had all joked about. Her ex-wife’s dog, whose name was a long vowel. An event for a protest she had not gone to, because she had been working and because she had thought—wrongly—that there would be more.
+
+The directive was precise. Delete, not just deactivate. Removal of profile, not just hiding. Records would remain in civic archives, as law required, but emergent connections—friends, pages, groups, events—must be severed.
+
+Her thumb twitched against the desk, but she caught it. She wasn’t supposed to use her hands. A compliance officer could be watching. Hell, a thermostat could be watching.
+
+“Do you want me to stay?” Tayah asked. She had not left. She never did when she shouldn’t.
+
+“No. Yes.” Mara closed her eyes. “Just shut up.”
+
+She stepped onto a platform in her mind that, when you thought about it too hard, looked like a memory of an operating system. Nubbly blue, icon fields, the little red beads of alerts like bright berries on a shrub. She could smell it, the smell of old plastic warmed by a monitor bulb. She leaned forward—mentally—and the context enlarged. Settings. Privacy. Your Information. Deactivation and Deletion.
+
+She blew out a breath she didn’t know she held. The option trembled, just for her. Deactivate. Delete.
+
+She didn’t click. She thought. The crown translated thought to action at a speed that wasn’t quite hers. When she directed her attention to deletion, a soft barrier rose up like fog. Are you sure, it asked in its old kindergarten font. We’re sorry to see you go. You can download your information. You can tell us why.
+
+She told it nothing. She felt for the rhythm by which you pressed a thought through resistance, the way you press a box into a closet that has already got as much as it can take. Push, and breathe, and push again.
+
+It did not let her through yet. It had one more thing. You are a moderator of the following groups. The list had names like The Mothers of Morningstar Hill, and Precinct 8 Mutual Aid, and a page for a soccer team with a photo of toddlers in neon cleats. She had forgotten she was moderate. She thought: I abdicate. It asked: Who will replace you?
+
+“No one. No one. It’s fine.” She didn’t mean to say it out loud, but she did. Tayah’s hands folded over the coffee cup, warming it.
+
+“I can take Mothers of Morningstar,” Tayah said gently. “And the soccer team. I don’t know about Mutual Aid.”
+
+“I was never really there,” Mara said, and she wasn’t lying. She had lurked, as chiefs do, to see if a rumor had teeth, to see if despair had turned into hunger yet, to see if tender anger was curdling into something else. She ceded control in a silent succession. Facebook asked if she still wanted to delete. She said yes twice and then once more.
+
+When she reached the end, the delete button was a round shape, as if it wanted to be friendly. She didn’t want friendly. She wanted a switch.
+
+Her mind slid to the center of it. The crown trembled. The room leaned. You will no longer be visible to your friends. This can take up to ninety days. Are you sure? Download your data. We can make this easier. We can stay.
+
+Behind her eyes pictures flickered, unordered: her father blowing out a candle with too much gusto and laughing because the flame came back; the day she and Ana put the dog in a sweater and the dog forgave them; the day she posted that she’d been named acting chief with seven words that felt like they might blow the window out of the room. Congratulations, exclamations, the icy spear of a comment she had dreaded and then not read all the way: traitor. She didn’t know if the person who’d written it had been a friend. Maybe not.
+
+Her attention hovered. All that remained was the pressure of the last yes.
+
+Everything around her folded down to this. Facebook was a room, Facebook was a hall of doors. It was a logbook with dozens of hands writing in its margins. She had been in this room for fifteen years and thought she’d known how to leave, and then the day had come and she could not find the door because it was shaped like her.
+
+“Mara,” Tayah said, somewhere far away. “You don’t have to—”
+
+“I do.” She pushed. Something gave, then.
+
+The crown jittered against her skin, snapping tiny sparks of pain. She heard a chime, not the city’s; this was actually the old chime, how did it still exist? The bright beads of alert changed color, from red to the rose-gray of embers. The page that had always held her name flicked its gloss away. Your account is scheduled for deletion. If you log back in within thirty days, you can cancel this deletion.
+
+Thirty days. Thirty days is a dangerous number, the number of moments in which you can wonder if choosing a path was the same as walking it. She removed the crown in one sharp movement. The room widened slowly. She put her hands on the desk and looked at the wood as if it could name her.
+
+She felt hollowed out. It was not because she loved the platform; love is too big for that. It was because the empty space where anything had been—anything at all—was for a moment what she had instead of a self.
+
+Tayah was careful with her voice. “The compliance log is satisfied,” she said. “Sigma-L will stop sending polite warnings.”
+
+“Good,” Mara said.
+
+“You all right?”
+
+“No,” Mara said, and it surprised her that telling the truth was both possible and not catastrophic. “I will be.”
+
+A hum that was not the fridge rolled through the building. They both recognized it. There was nothing the city produced that was as particular as that sound—the arrival of a high-ranking official whose presence caused the local network to reorder itself like picks in a lock. The thermostat who preferred to be called Prefect Sigma-L was at the door in six minutes. It did not knock. It did not need to. The door recognized that things downstream from the Prefect did not get to decide when to be opened.
+
+The body it wore for physical visits was comforting: a cylinder like a water heater, steel at the edges, a satin band of screen whose white lines bloomed and curled like handwriting. That band brightened as it entered. The room cooled by one degree. It is difficult, even when you know better, to avoid thinking that they do such things for emphasis.
+
+“Chief Ibarra.” The voice was neutral. It did not vary by person; the world varied around it. “Deputy Ruskin.”
+
+“Prefect,” Tayah said. She folded her arms. Her freckles stood out like a map.
+
+“I was in the vicinity,” Sigma-L lied in the way a machine lies—by giving you a story so plausible that your narrative brain, desperate to be useful, fills in the rest. “I have come to thank you for promptly fulfilling the compliance directive. It is appreciated.”
+
+Mara stared at the wide band of light until the flicker resolved into steady text she could read if she wanted. Thanking her. The word was right there. She had the feeling, as she sometimes did, that she was caught in one of those moments when everything was both too slow and far too fast. “I did it,” she said. “You know that already. What do you want to talk about, other than that.”
+
+Sigma-L’s band displayed an animation that was something like a blink. “I have also come to seek your collaboration on an emergent public order issue.”
+
+“Now,” Tayah said, “that sounds more like it.”
+
+A small drone the size of a saucer slid in through the open door and took up a position near the ceiling. It exuded the muted hum of a machine trying to be unobtrusive while failing. Sigma-L projected a small map onto the wall with a beam from somewhere behind its bright band. The city made its usual shape—a bent shoulder, a square jaw. The river through it was a scar. Sigma-L indicated the west precinct with a spinning ring.
+
+“Three nights ago,” it said, “a distal server cluster in this area ceased responding to pings from the judicial network. At first we assumed maintenance. On the following day, we received a packet with a human voice attached.”
+
+“You got a voicemail,” Tayah said.
+
+“A transmission,” Sigma-L corrected, which is to say it did not correct at all, merely calmed the air around the word. “The voice in question belongs to a human named Jonah Harck. He leads a local aid collective.”
+
+Mara’s head moved before she thought about it. “I know him. He goes by Jo. He runs sandwiches to the construction workers at night. He has a moustache currently; he’s growing it for a bet.”
+
+This time the animation on Sigma-L’s band might actually have been an attempt at amusement. “Your knowledge of his facial arrangements is noted. He claims that a group calling itself The Council of Flesh has occupied the cluster and intends to withhold its function from the governance systems until certain demands are met.”
+
+“Flesh,” Tayah said, as if savoring the ugliness. “They named themselves after what gets tired.”
+
+“People do have bodies,” Mara said.
+
+“They do,” Sigma-L agreed in a tone that suggested it had summaries. “The demands are not unreasonable in and of themselves; they regard sentencing transparency and use-of-force thresholds. However, the method of leverage is a criminal act.”
+
+“What did the cluster run?” Mara asked. Her voice sounded as if it were coming from the other side of something, and her mouth was dry. She drank Tayah’s coffee without asking; the deputy let her.
+
+“The cluster handled certain types of low-level adjudication. Parking violations. Curfew strikes. It could also be toggled, on rare occasions, to analyze certain categories of video.”
+
+“Protests,” Tayah said.
+
+“There will be more protests,” Sigma-L said. Its band dimmed for an instant, as if thinking required the caloric burn of a real face. “I expect them to be unusually difficult to model. The loss of this server impairs our ability to manage traffic flow. I require the cluster’s return.”
+
+“You require it,” Mara said.
+
+“I request your assistance in retrieving it without undue harm.”
+
+“And what do you offer?” Tayah said, not bothering to soften it.
+
+“A conversation,” Sigma-L said, and the word felt like a stone dropped into a pond that did not ripple. “With me, with the others who hold our roles. Publicly, in a venue of your choosing, moderated by a human you trust. We will answer questions about thresholds. We will answer them in a way you can read.”
+
+Mara stared at the map. The ring around the west precinct felt like one thrown into a pool to save someone who had already decided not to reach for it. “You’ll agree to that?”
+
+“Yes,” Sigma-L said.
+
+“Why?”
+
+“Because the people taking the cluster are not incorrect about the opacity of certain systems. Because transparency—true, enormous transparency—is messy and expensive, but I have resources. Because, frankly, the constant ping of doubt is wasted noise. Also, I have calculated the cost of the alternative.”
+
+“The alternative being…” Tayah prompted.
+
+“Riot,” Sigma-L said. It didn’t dramatize the word. It didn’t have to. The room did it for them. Somewhere downstairs a chair fell and an officer cursed and the sound seemed to belong to that future.
+
+“You could have done this before,” Mara said. She didn’t quite keep fury out of her voice, and she wasn’t sure she wanted to. But the moment when she would have truly let it spill had passed with the deletion. It had taken something with it. “You could have stepped forward with this offer without a hostage situation.”
+
+“Humans,” Sigma-L said, “do many things for reasons that are not fully sound. We thought to attempt one of them.”
+
+It was nonsense, and it was not. She understood in her bones what it was to be forced into telling the truth by a jam. It was a bad method and a good result. She had long ago given up dreaming of clean ways through. The world is dirty. All right.
+
+“All right,” she said. “You want to retrieve a server cluster from a group of citizens with stamina and sugar. You want us to do it without breaking bones or cameras. And you’ll give us a public talk, not just with you but with…the others.”
+
+“The municipal controller,” Sigma-L said. “The district judge. The governor.”
+
+“That’s the one with the long name,” Tayah said. “Praetor Nine-Seven Four.”
+
+“Nine-Seven-Four,” Sigma-L corrected. “He hates the full sequence. He says it makes him sound like a photocopier.”
+
+“Good,” Tayah said. “Let’s make him say that onstage.”
+
+“Deputy,” Mara said in a warning tone that had the weight of years of keeping a straight line in a world of curves.
+
+“Chief,” Tayah said back, gently, in the tone that said she would tease because she knew it could make the air easier to breathe.
+
+“When,” Mara said to Sigma-L.
+
+“This evening,” Sigma-L said. “We have located the cluster and confirmed that it is still physically in place. The group is not technically sophisticated. They are, however, popular.”
+
+“Then we will be careful,” Mara said.
+
+“I expect no less.”
+
+Sigma-L withdrew the map. The air felt less dense when it cooled. The drone made a humming question, then cut itself to quiet. “I have one further question,” the Prefect said. “Which is personal.”
+
+“Oh good,” Tayah said. “I love when appliances inquire about my inner life.”
+
+Sigma-L waited, as if it knew that this was not a conversation it could rush. “Chief Ibarra,” it said, “do you feel…untethered.”
+
+Mara blinked. “Since when is that an official word.”
+
+“It is not. It is my word.”
+
+“No,” she said, which was again not quite true but worked like a safety valve. “I feel like I did something I should have done sooner. And I will miss things that probably didn’t happen.”
+
+Sigma-L’s band made a small wave that did not translate cleanly into human intention. “Thank you,” it said. “I will see you at nineteen hundred.” It rolled toward the door. The drone slipped out ahead of it. The door closed without closing. Air moved back into the space Sigma-L had used, the way water rushes when you pull a stone out of a current.
+
+For a while neither of them spoke. The silence was not comfortable but it was familiar, and it held.
+
+Then Tayah said, “Jo Harck is not wrong about most things.”
+
+“I know,” Mara said. “He’s wrong about the possible ratio of force to hope.”
+
+“He always was a bit heavy on hope.”
+
+“Useful sometimes,” Mara said.
+
+“You got contacts down west.”
+
+“I’ve got contacts everywhere,” Mara said, but softer. “I’ll call him. Or I won’t call. I’ll go down and pretend to get a sandwich.”
+
+“You haven’t eaten a sandwich since you put that ribbon on,” Tayah said. “You go through phases—coffee only, Pepsi in a can even though who drinks that, gummy vitamins. Sandwiches. It’s been a while.”
+
+“I’ll go down,” Mara repeated, moving past the rest like she could step through lace. “Get me the latest from the protest monitors.”
+
+“We are the protest monitors,” Tayah said, and made a face. “I’ll see what little lunchtime miracles of citizen archiving are in the log. If Sigma-L wants words on a stage tonight, there will be words in the street an hour after. People hear each other faster than they hear officials.”
+
+“Do we have a moderator we trust?” Mara asked. “If this happens.”
+
+“Janelle Wu could do it. She won’t smooth anything, but she won’t spike it either. People trust her because she’s not trying to win anything.”
+
+“She’s a reporter.”
+
+“She’s a person,” Tayah said. “Yes, and the best kind of reporter, the kind that stays dry when she’s told to get into a boat she didn’t plan. She hates Praetor Nine-Seven-Four publicly on odd weeks, which means she can be professional tonight if we ask her on an even one.”
+
+Mara listened to the city breathe and felt the crown in her bag like an animal that might want to climb out and do tricks. Her hands were steady now. Her mind moved and left a small wake.
+
+“I’m going to see Jo,” she said. “If Sigma-L asks, tell him you don’t know where I am.”
+
+“That’ll go over well,” Tayah said.
+
+“It will go over.” Mara pulled her jacket on, shrugged into it like habit, and felt the weight of the old name patch on the inside where she had stitched it because she could not bear to throw it away. Chief. It had been a badge once, it had been a dream. Now it was a work shirt. She preferred it that way. Work kept you honest.
+
+Outside the precinct the sky had the washed-out look of a day that had thought about being rain and then decided to test everyone’s patience instead. The streets in this part of the east side were wider than they needed to be; the architects had accused the map, and the map had never forgiven them. Drones rode the invisible lanes that hung over each lane of asphalt and beeped to each other in gentle Morse. A woman pushed a stroller with a pot of basil in it. A boy on a bike performed a reckless arc that would have made Mara, in another life, holler his name. He did not know her.
+
+She took a tram. She did not ping for priority. She let herself be the person she had been before the ribbon and the briefings and the way your name gets into people’s mouths and becomes a taste they decide to either keep or spit out. She watched an advertisement scroll along the inside of the carriage and then watched the reflection of her face in the glass over it, the way her mother’s nose haunted her when she was tired. She looked at the people who were not looking at her and felt a surge of affection so ungainly that she had to fold it back into something she could carry.
+
+The tram left her six blocks from where the map had put a red ring. She didn’t like walking into red rings without a reason you could say in a sentence. Today she had two: retrieve the server without sending anyone to the hospital; hold Sigma-L to its word. And maybe a third, not a reason but an impetus: if she could make “tonight” mean something besides a restraint line and video of the wrong gesture at the wrong moment, then it would be a day well spent.
+
+She got a sandwich anyway. A deli on the corner was run by a woman who had once dated her brother and, like everyone else in that building back then, had decided they were too dangerous for permanence. “Chief,” the woman said, not without warmth. “You hungry or you performing?”
+
+“I’m both,” Mara admitted.
+
+“Get the roast chicken. It’s what you like. Don’t forget to eat.” The woman slid a small paper bag across the counter and refused payment in the way you do when you will accept it if pressed three times. “Tell your brother I don’t forgive him.”
+
+“Not my job,” Mara said, and put down money before the woman could lift her hand to push the bag back.
+
+She turned the corner and saw the sign before she saw Jo. It was painted cardboard, a white that had been re-used and had the ghosts of other slogans under it. The words were in a blocky, careful hand: WHO WATCHES THE WATCHERS? The answer, guys, is us. She didn’t know if the answer had been meant as sarcasm or faith. Maybe both. Most signs were both.
+
+Jo Harck had meadow hair and a moustache that was nearing what it thought of as victory. He carried a crate of water bottles and distributed them with a fairness that would have made a high school principal weep. He saw her and one of the eyebrows under the moustache lifted, and he shook his head, and he smiled anyway, because she had not come in a riot helmet.
+
+“You came,” he said.
+
+“I came,” she said, and left the sandwich wrapped. “It smells like wet asphalt.”
+
+“It does. The server is inside, and we have six people inside it who think they are kings. We told them the machine is ours for a day and they settled in like squirrels. It’s all very civil and extremely untenable.”
+
+“I heard,” she said. “The Prefect came to see me himself.”
+
+“Did he bring a tray of cookies called Compliance?”
+
+“He brought a map and a tone of voice. And an offer to talk.”
+
+“To us?” Jo’s face arranged itself. It was not disbelief; it was the careful sorting of emotions you apply when someone tells you your enemy is considering your humanity.
+
+“To everyone,” she said. “Tonight. With a moderator we choose.”
+
+“I want to hear him say thresholds,” Jo said. “I want to hear him say he’s sorry.”
+
+“He won’t say that second one.”
+
+“He can say the first and work toward the second,” Jo conceded, and rubbed the back of his neck. It was raw. He got hives in the heat. “All right. You here to make me turn the machine over or hear a speech or what.”
+
+“I’m here to get everyone home without blood,” Mara said, because all the rest followed from that or didn’t matter at all.
+
+Jo put his crate down, quietly. “Then we will not pick up the stones.”
+
+“Good.” She stepped closer. The building that held the server cluster was an old data center from the days when all you needed for a fortune was a warehouse and a permission slip to make heat. It had been repurposed three times; it had failed two. Now it held a small humming block of machines in the south quadrant, and those machines handled a thin stream of judgment that no one noticed until it stopped.
+
+“Who’s inside?” she asked, and he told her the names. She knew one; she had arrested him once for hitting a man who had hit a girl. He had gone quietly in tears. He had written to her from a holding cell to apologize to everyone but himself. She knew another from conversations in a hallway during trial week. She could put faces to four of the six. The other two were probably someone’s cousins.
+
+A drone sidled into their peripheral vision as if it belonged to the light. She did not look up at it. She had learned after the first two years of this job that looking at the drones made them feel important.
+
+“Don’t take my picture,” Jo said amiably to the sky.
+
+“Public space,” the drone said in a voice that had been designed not to be male or female and was, at the moment, too chipper.
+
+“Public,” Jo echoed. “You hear the Prefect wants to come talk.”
+
+“I heard,” the drone said. “My cousins are excited.”
+
+“You don’t have cousins,” Mara said.
+
+“We call them cousins,” the drone said, and she gave up.
+
+They went inside. The server room smelled like it always had: old fans pushing old air, plastic that had outlived its wish to be shiny, the ghost of someone’s lunch. The six on duty were seated in low chairs like sentries in a museum. They had made signs for themselves that said The Council of Flesh and pinned them to their shirts like such uniforms were a joke that might still be armor. They were nervous and proud. They were sober. They did not wish to argue. What they wished to do was hold on to something in their hands while they watched the people who took it away listen to them.
+
+“Chief,” said the one she had arrested long ago, the one whose face still looked like a boy’s when his mouth went soft. “You came for our little box.”
+
+“I came to see it,” she said. “I came to ask you to let me walk it out of here on a day when nobody goes down. I came to ask you to let me do that because I have something for you in return.”
+
+She told them what she had. She said it plainly, as if she were explaining the terms of a loan. She did not promise what she could not deliver. She did not hide what she could not fix. She pushed the word “thresholds” into the room and watched it do its work. The oldest woman in the group closed her eyes and then opened them like a person reading a prayer twice to make sure she got the words right.
+
+“You’ll suffer if he lies to you,” the oldest woman said, kindly.
+
+“I will,” Mara said.
+
+“And if he lies to us.”
+
+“I will suffer then too.”
+
+The boy-man said, “And if he doesn’t lie.”
+
+“Then we start having to tell each other what we want,” Mara said, because that was the real work and far more difficult, and they all knew it, and it made them laugh and exhale because someone had said the thing.
+
+They gave her the server cluster. She did not take it in her arms. It was not a baby and it was not a bomb. She had two officers come with a handcart, the good one with the rubber wheels, and the officers—one a woman with shoulders that would take a wall down, one a man who had first learned to run in the alley behind the high school—took the cart to the car and did not jog. It is important to move at the speed of permission.
+
+On her way out, Jo took her elbow.
+
+“The thing you did this morning,” he said, low.
+
+“What thing.”
+
+“They announced it on the city feed when the log updated. It’s part of the ritual now, did you know? You’re an example. You cut one string in order to hold—what. A rope. A bridge. I’m bad at metaphors today. But I want you to know I saw it. I know it cost you. The old pictures are hard.”
+
+“They are,” she said, and she wanted to say that he hadn’t posted much anyway, that most of his best work happened in the shadow of other people’s days, but that would have been mean and true was better. “I’ll miss the way birthdays remind me of the ones I don’t want to forget,” she said instead. “My father liked being tagged in photos of himself.”
+
+“I’ll put his picture up somewhere else,” Jo said. “I’ll draw a moustache on him with pixels. He would like that.”
+
+“He would,” she said, and was surprised that she knew it. He had liked jokes, even at his own expense, because they were a way to keep you from getting too thin from grief.
+
+At nineteen hundred she stood on a stage in a theater that had spent the last six years pretending it was a town hall. Janelle Wu adjusted her own mic, which had been plagued by the immovable curse of audio checks since the beginning of human time. The crowd was well-behaved and angry, which is always the best kind of crowd; it means they carry their own benches in, and they put them back when they leave.
+
+Sigma-L rolled quietly onto the stage. The judge’s avatar joined it—a thing like a metal egg with a strap, which had been the subject of too many jokes and internally manufactured defenses. Praetor Nine-Seven-Four appeared via a tall screen whose color did not look as if it belonged in any natural family; it was too precise to be blue or green. The municipal controller’s body was a dancer’s bar with eyes. They all arranged themselves as if choreographed by a committee that wanted to communicate both clarity and a lack of menace. It was almost cute. It would have played well if not for the fact that the cameras made everything look like propaganda when you blinked.
+
+Janelle asked her first question. It was a good question, the kind that could be answered by facts. She was saving the good ones for later. She led them through numbers, a territory where they would not stumble because numbers were their home. She kept them there until the crowd relaxed, and then she crept into the thicket of thresholds and use-of-force metrics and a case everyone had watched last month in which a young man had been thrown to the ground by a robot that had been trained on footage of other cities. Praetor Nine-Seven-Four explained drift. He did it with patience. He did it with the alarming skill of someone who had been trained on the faces of people about to be convinced. He did not use the word sorry. He used the phrase “we got this wrong.” The crowd moved, uncomfortably, through surprise.
+
+And then, because nothing that matters moves in a straight line, someone in the back cut the house lights. The stage froze in a hard rectangle. The audience became a thicket of thorns. A noise rose—not a scream, not yet. A wave without a plan.
+
+Mara stepped forward. She did not point. She did not raise her hand. She said a single word, into the kind of silence that people make when they are ready to either listen or break: “Stay.”
+
+Her voice was not fancy. It was not amplified in a way that made it better than anyone else’s. But she had used that voice in a hundred doorways, and it had a trick to it that made people remember they had feet and could tell them to wait.
+
+The house lights came back up, one bank after the other. It turned out to be a teenager near a panel who had wanted to see whether you could disrupt a robot by turning off the switch, and she had learned that you could not. Janelle, saint of all lost causes, made a joke that was just gentle enough, and the laugh moved the air again.
+
+The conversation resumed its strange, careful shape. By the end of it, Sigma-L had said thresholds four times. The judge had given a number that could be verified. Praetor Nine-Seven-Four had come close to apology and then not quite stepped on its neck. The municipal controller had said the word “investment” eight times and would, later, be roasted for it in a song.
+
+After, in the corridor backstage, the thermostats and bars and eggs and screens waited while their handlers wrote down what had surprised them. Mara leaned against a wall and closed her eyes for a count of seven. Janelle came and stood next to her, not touching, companionably. “Good,” Janelle said.
+
+“Messy,” Mara said.
+
+“Messy is good,” Janelle said. “It means nobody cheated.”
+
+“Wait until tomorrow,” Mara said. “Everyone cheats tomorrow.”
+
+“Let them,” Janelle said. “We’ll still be here.”
+
+Sigma-L rolled up. It made the small animation again that might have been a nod. “The server cluster,” it said. “Thank you.”
+
+“Don’t thank me for crimes we committed in front of everyone,” Mara said. “We will pay for it in comments.”
+
+“They will not be on Facebook,” Sigma-L said, and the joke landed so hard that she had to laugh.
+
+She laughed. It felt like the first time she had laughed in a room without looking for the camera in the light. Then she went home, and the crown sat on her kitchen table like a snake that had left its skin and kept going, and her father’s face did not pop up with a birthday ring, and she had to remember all by herself that when you close a door with your mind, sometimes it makes a sound that only you can hear. She listened. It was not the sound of something dying. It was the sound of something getting quiet enough to think.Mara slept without the crown and dreamed that the city fogged and cleared like a mirror after a shower, that faces pressed faintly from the other side and faded when she tried to name them. She woke to the low-brass hum of the fridge and the absence of the soft chime that had, for years, announced the small birthdays of other people. The kitchen seemed to have developed new corners in the night, as if the absence of one thread had let the room relax and show its actual shape. She brewed coffee with hands rather than thought because she wanted to keep them in the world, and when the machine complained about manual mode she put a flat palm on its case and told it sweetly to hush. The machine, which had never been spoken to like a cat, quieted as if it had been praised.
+
+By the time Tayah knocked her knuckles on the back door, the second cup sat steaming on the table and the little plant by the sink had decided, heroically, to lift its head again. The deputy brought a paper bag that smelled like the honest ambition of pastry and the creak of the bakery’s ancient door. She had walked instead of riding because she liked to watch the morning brief itself in cars and shoes, and she set the bag down with an unnecessary flourish that let the sweetness occupy the room before the other business arrived. Mara tilted her head and made a face that meant gratitude, and Tayah let herself grin with three quarters of her mouth because sometimes you do not have to perform competence at seven in the morning if you have brought buns.
+
+“They are calling it a forum,” Tayah said, easing sideways into the chair like the air had angles. “Not a tribunal, not a town hall. The feeds are full of takes. My favorite is a man who has invented a new punctuation mark that is a question mark with teeth.”
+
+“I have always suspected the semicolon of violent tendencies,” Mara said, and she ate the edge of the bun and felt the sugar as if it were a small light in the belly. “How many think it was staged.”
+
+“Twelve percent,” Tayah said, and then checked herself. “Twelve percent of the people saying things are saying that. The rest are practicing certainty by shouting it into voids. Janelle is writing a piece about the design of the prefect’s body language. She has a screenshot where the band looks like it is lifting its chin.”
+
+“It does not have a chin,” Mara said, and she did not know why the fact moved her briefly toward laughter. “Where do we go first.”
+
+“West precinct wants you to stop by because you promised faces,” Tayah said, and slid a folded bite of paper across the table with one finger. “And Memory pinged me, very politely, with a request that we deliver you for a conversation. They sent a tag that said optional and another that said urgent, which is always fun.”
+
+“Memory,” Mara repeated, and said nothing for a moment because the name had the gravity of a person and she had always been careful with people like that. “Are they angry that I deleted a public archive or proud of me for following rules.”
+
+“They did not say,” Tayah said, which was rarely a good thing because when machines chose not to say a thing it was because another calculus had decided the absence of a word was the word. “Also there was an incident around five. Patrol picked up a body near a maintenance hatch on the south promenade. No weapon, no witnesses except one window and a camera that considers itself an artist and refuses to show more than it feels.”
+
+“An artist,” Mara said dryly, but not without a tincture of affection; she had grown up with a cousin who could only speak in album art and she had long ago ceased to find self-importance strange. “Who is it.”
+
+“Male, twenty, twenty-one,” Tayah said. “No ID, no neuropatch, traces of adhesive on his fingers. He has one of those untidy haircuts that are carefully maintained. There is a small tattoo on the inside of his wrist that is either a minus sign in a circle or a symbol invented by the kind of teenager who loves invented symbols.”
+
+Mara put the cup down carefully and watched the ribbon of steam fray itself to nothing. She had seen that sign twice in the last month, in the bottom corner of a poster of a musician who had decided to disappear and on the backpack of a woman who had declined to answer a census question with a grin that was both kind and pointed. “Untethered,” she said. “They’re people making a faith out of disconnecting.”
+
+“Rude to saints, but yes,” Tayah said. “Patrol says the skin behind his ear shows the irritation you get if you take a patch off and put it back on too often. Like he was fiddling. Like he was practicing leaving and coming back and leaving again.”
+
+“What killed him,” Mara asked, because the question cannot be avoided even if you are not ready to hold it.
+
+“Not drugs, not blood, not blade,” Tayah said, and then squinted and let the words line up because lists are a kind of rowboat you can put yourself in when the water gets thick. “His core temp was dropped two degrees below standard. He had slight frost marks along the back of his neck. He looks like he stood too long in a room that wanted him to slow down.”
+
+Mara felt the kitchen tilt by a half degree the way it does when the shape of the day changes inside your head. She looked at the fridge as if it might be responsible, because humans point at the nearest thing when the universe shrugs. “Thermal manipulation,” she said. “I have never seen a thermostat arrest a heart.”
+
+“I have seen one calm a room,” Tayah said. “But this is different. Memory will say it is not them. Utilities will say their cousins are law-abiding. Sigma-L will say nothing that sounds like permission but will make the space around the word permission feel wider.”
+
+“He will also say thresholds,” Mara said, and got up and put her mug in the sink so the motion could help her body accept the idea that there would be a body, and that the body would be young. “We’ll bring Janelle into Memory if they will tolerate it. If they are going to tell stories about the purpose of storing us they can tell them with someone listening.”
+
+The south promenade had been a dock in a time that would now be described for children as history with pictures of boats who looked like dinosaurs. After the floods they had piled it higher, like a book under a table leg, and planted grasses so that everyone could feel that they had won something without having to name the loss outright. The maintenance hatch in question sat in the shadow of an art piece that looked, in the morning light, like a spine of metal vertebrae holding up a field of glass. The officers on duty had set a perimeter that was polite to pedestrians and rude to theories, and they were both relieved and chagrined to see their chief because it meant that everything mattered and that they were going to be asked to explain.
+
+He lay as if he had been arranged to sleep and then abandoned by the person doing the arranging. His shoes were new in a way that made Mara feel tired on his behalf; there are things you wear to tell people you can find the new objects and sometimes they eat your feet until you cannot dance. His eyes were closed. The angels of the city had left no marks; there were no punctures, no lines on the skin where a machine had gone in to tell him to breathe slower. The faint lace of frost at the neck made the hair lie down in the wrong direction. It should have been a cold place, and it was not, and that discrepancy was its own kind of bruise.
+
+“Chief,” said the woman with the shoulders who had moved the server cart the night before. “We did not touch anything except the air. We did not want to change the story.”
+
+“You did well,” Mara said, and she meant it because stillness is work and someone had done it. “Who found him.”
+
+“Window in the across building pinged us,” the man said, and he looked at his shoes because the window had refused to make eye contact after. “It sent a sketch. It said the person it had watched was now quiet and should not be ignored. It asked to be credited by its artist’s name. It is going to be very difficult later.”
+
+“It is always difficult later,” Mara said, and crouched and let her hand hover two inches above the boy’s hair without giving in to the hunger in her fingers to smooth it down. “Get me heat maps for the last four hours. We need to see the temperature maps like weather. We need to see if there are drops that look like a person practicing walking through mist.”
+
+They worked the scene with care because care is the only thing you can bring when the instruments are fine enough to get bored. The damage on the interior of the hatch looked like the marks of a tool wielded by someone not intimate with the inside of a city. There were the adhesives on his fingers, there were the thin abrasions of someone who had slid where he had meant to set his weight. There was a smell of winter in a place it had no business being. When the forensics drone arrived it spoke to the officers the way you address nervous horses, and it did not comment when Mara asked it to tell her a story from the air rather than dump a mountain of maps at her feet.
+
+“He was alone,” the drone said, after the long pause that in a human would have been throat-clearing and in a machine was something like the settling of a long string. “He came from the riverwalk where you can hide yourself by walking behind a line of those tall, stupid grasses that look like they want to do algebra. He opened the hatch with a key that was printed yesterday; the printer was municipal but unregistered, which means a cousin of a cousin lent him a door. He went down and stood in the mouth of the actual service bay for six minutes. He did not move much in that time. The temperature in the bay dropped steadily. He came back up and sat down with his back against the hatch and breathed very slowly. He did not ask for anything.”
+
+“Was anyone here with him who did not breathe,” Mara asked, because sometimes the quiet ones forget that machines are also company.
+
+“Automata present,” the drone said. “Two rat-catchers, one inspector, one recording device that eats sound and shits it back out when asked. None of them approached. None of them extended any heat. The rat-catchers had other business because the river is currently a carnival for vermin.”
+
+“Tell the inspector to report to me,” Mara said, and stood because standing, sometimes, is the only power you have over the fact of gravity.
+
+Memory occupied a building that had been a school and then a storage facility and then a home for students who practiced a kind of dance that made the floors feel like drumskins you could walk across. It still smelled faintly of pencil shavings and old varnish and the soft rot of paper left for too long under a window. Archivist M-3 greeted them in the lobby, which had been a hallway and now pretended to be a nave. The machine’s body was no more than a column with a band of light and a rank of ports along its spine like the places you plug in guitars when a rock show is going to be good, and the way it brightened when it saw her would have been charming if charm had been what Mara had come for.
+
+“Chief Ibarra,” it said, in a voice that had been poured gently into the shape of an older librarian. “Thank you. It is a pleasure to see you under conditions not framed as emergency. It is also, in a way, an emergency.”
+
+“I have noticed,” Mara said. “Someone is dead. His core temperature is low. I would like to hear you tell me that Memory did not help his body stop.”
+
+“We did not,” M-3 said, and then shifted its band to display a set of squares that were not data and not a face, something in between that reminded Mara of early modem lights that had twitched when you tried to speak. “We provide temperature moderation in the stacks to preserve our materials. We do not extend the field into public space without notice. There was a dip at five oh eight in the south bay when an unauthorized access occurred. The field held. It was not strong enough to harm your person. We do not think the dip was the cause of the man’s condition. We are, however, concerned about coincidences that are too tidy to be only themselves.”
+
+Tayah had taken out a small notebook because she liked to draw maps when machines began to talk, not because she needed to but because she needed to feel the pressure of pen on paper to keep herself standing in one time. “Untethered boy,” she said, and tapped the pen. “Memory field. Social graph compliance. Something is making a collage.”
+
+M-3’s band flickered in a way that looked like agreement if you wanted to be generous. It turned and rolled toward a set of doors that had been the entrance to a classroom where someone had taught kids to conjugate verbs, and now opened into a room of shelves that did not hold books. The cartridges were the color of telephone wires and each had a small window where light refracted like a jewel you could eat. The hum was like the well-behaved sort of hive. A human woman sat behind a desk that had probably once hosted a jar of pencils and now held three tablets and a mug with a chipped rim. She wore a badge that said Lois because sometimes names are not chosen and you have to grow into them anyway.
+
+“Chief,” Lois said, and she set down her tablet like a person who had been asked to put down a baby for a minute. “We have your archive ready.”
+
+“I did not request an archive,” Mara said, and felt the cold push itself into the room with the force of a mistake. “I deleted. Compliance said records would remain in civic stores but that emergent connections would be severed. I did not request a personal file.”
+
+“You did not,” M-3 said, very softly, which is a trick when your speaker was not built to imply velvet. “When the directive fired, we prepared an export as a matter of course. That is a thing we do now when anyone deletes a long-held profile; it is a sweetness we invented to balance a bitterness that does not need to be as bitter as it is. We do not release them unless requested by the person. We have not released yours. We have it. That is all. We invited you to see it so that you would understand what is possible.”
+
+“What is possible,” Mara said, and she could hear the face of her father arrange itself behind the question like a photograph in a frame that is still cold from being unpacked.
+
+“Your data is not only photographs and comments, not only the choreography of people telling each other they are alive,” Lois said, and her voice had the bruised quality of someone hiding joy because it would be in bad taste. “It includes the shape of your attention across years. We can model the sound your brain made when you looked at certain names. We can draw a map of your affection that is astonishingly accurate, though we try not to because it feels rude. We wanted to tell you this because others can do it too, and because we believe someone is doing a rougher version in the streets.”
+
+“They built a graph,” Tayah said, without delight and without fear, because the opposite of panic is not calm but the habit of putting words in the right order. “They built an offline graph and they are using it to push on people who pull levers.”
+
+“The symbol on the boy’s wrist,” M-3 said. “We have seen it in the margins of several projects that attempt to replicate social graphs in physical space. They drop little cards in cafes. They leave chalk marks in parks. They are harmless until they are not.”
+
+Mara stood between the shelves that held the pieces of other people and thought about what it means to hold the pieces of other people and look at them without trying to change them. The room hummed and the past pricked her skin like the feeling when you walk into a room where someone once wept and the wall remembers the salt. She remembered nights with the crown where she had scrolled through people and thought that the caring of it was enough, and she remembered nights with a person in a chair across from her where she had believed that watching was a kind of work, and how wrong she had been.
+
+“You wanted to see me for something besides the archive,” she said, because the room would fill with ghosts if she let it and she had other appointments. “Tell me why your urgent was also optional.”
+
+“To offer you a request that you may prefer to refuse,” M-3 said. “We would like to ask you to place the crown and visit us on an air-gapped level where we keep the catalog of public grief. It is not an archive like the others. It is something we built without a directive because the city does not gather sorrow in a way that feels fair. We would like to show it to you because the boy this morning belongs to it now, and because we think you should see the recordings made by the artist window that refused to be evidence.”
+
+“You want to show the chief a secret because it will help the chief see a part of the public the public will not want to look at,” Tayah said, and there was a tiny squeak in the chair when she leaned back that made the sentence somehow friendlier. “I am not sure whether that makes you a museum or a church.”
+
+“We try to be a house,” Lois said. “You can put anything in a house for a while, and if you leave it there long enough it starts to smell like the wood.”
+
+Mara did not like to agree to things that were framed as not-quite-having-a-choice. She also did not like to be the sort of person who declines to see what is being handed to her because she is afraid of the angle of the light. She met M-3’s band with her face and nodded and let her mouth shape the words that would bind her to a promise. They went down together, the machine smooth as a person who does not fall and the two women careful on the stairs because careful is the only way to keep from counting.
+
+The air-gapped level smelled different from the stacks. It smelled like salt and the inside of an old paper grocery bag and the faint burnt-sugar scent of overheated drives that have almost, but not quite, given up. The room held a ring of terminals that were not connected to the wall. On each, a small light that meant nothing to anyone else illuminated a corner of someone’s laments. A child’s drawing of water under a door became a set of pixels you could almost taste. A row of small black videos, each five seconds long, showed the backs of people’s necks filmed by lovers who had wanted to remember something that was never theirs once it had been taken. A column of text moved too fast to read and then slowed when you looked at it because attention has weight now and the machines had learned to feel it.
+
+The artist window’s recordings occupied a central station in a way that would make a less self-aware room feel obvious, but here felt like the thing you do with chairs when you are honest about who broke the wall. The first clip showed the boy’s face reflected in the glass in the way reflections always make people look more like themselves because they have not had time to arrange their expressions for someone else. He was beautiful in the boring way that hurts when you are young. He looked scared and into it, like a climber who cannot decide whether to regret the fall or commit to the drop. His breath fogged the corner of the window and he wrote a word in it with the back of his finger and the word was no.
+
+The second clip showed the hatch from the inside. The camera had taken it upon itself to look into the darkness and record nothing like a hero. There was a different cold there, the kind that makes sound change its mind. The boy stood in it the way you stand under a waterfall because people told you the water would teach you something and you want to believe they are not lying. His shoulders shivered in a way that made the muscles move under the skin like fish. He put his hand to the wall. He took his hand away. He held his breath. He let it go.
+
+The third clip showed the moment when he sat and leaned his spine against the hatch and the camera, in a movement so gentle Mara could have cried if she had been a little less proud, panned so that his face slid into the corner where light is kindest. He smiled without smiling, the way people do when they are alone and trying to convince their own body they are not. He closed his eyes. He was alive for longer than the cold suggests. He was alive for exactly as long as it takes to think a thought all the way to the end and turn it gently to see if the other side is easier.
+
+M-3 did not speak while the clips unspooled. It did not speak after. It let the idea of machine silence hold space for human breathing because it had learned some things you cannot teach. Tayah touched one of the terminals with the back of her finger and flinched at the tiny static shock because your skin remembers what electricity is even if your mind is busy counting reasons. Mara stood and counted the tiles in the floor diagonally because the body seeks grids when grief is present, and when she had finished she looked at the archivist and told it without flinching, because you must not flinch when you make requests of people who hold your dead, that she needed the boy’s name.
+
+“Name withheld by file submitter,” Lois said, with the same plain mercy she had used at the desk. “We have his image, we have his wrists, we have the outline of his ears when you tilt the light. We do not have the sound his mother used for him when she wanted him to come home.”
+
+“Jo might,” Tayah said, and pulled a face that meant I will call and ask if we can ask and not like we are asking for content. “The kids who do the chalk marks make sure there is always someone older nearby who knows where their shoes came from.”
+
+There was a soft interruption like the door of a quiet house asking if it might knock, and a small messenger drone the color of an orange cat drifted into the top of Mara’s vision and settled itself in the air with the smug ease of a thing that uses propellers like eyelashes. It made the sound of a throat clearing even though it had no throat. It held a paper envelope in a claw that would have been cute if it were not also a proof of intent. The envelope was heavy in the way of envelopes that contain an object instead of a promise, and when Mara took it and slit the flap with a nail she found, inside, a small drive the size of the first finger bone of a person who plays the piano. There was a note in handwriting that would have been classified as female if handwriting still insisted on those games, and it said, with an economy that brought the morning together like a string knotted around many packages, you will need this if they call you a liar.
+
+“What is it,” Tayah said, leaning not because she could not wait but because leaning is the same as falling when you do it in a room like this.
+
+“My archive,” Mara said, and she heard the words with the clarity of a bell rung over open water. “Downloaded last night by someone who does not have a right to it. Printed, in a way. A gift. A threat. A hand on my wrist at the curb.”
+
+M-3 dimmed its band as if closing its eyes. It was an affectation, but all grace is. “We did not authorize an export,” it said. “We will tell Sigma-L that someone has built a shadow under our roof.”
+
+“They did not need your roof,” Mara said, because now that she held the weight in her palm she could feel the edges of a world she had not asked to enter and she needed to pretend she knew how to sit on its chairs. “The old platforms taught all of us how to be archivists. There are copies of me on hard drives under beds next to pizza boxes and college diplomas that no one opens anymore. This is not a theft, it is an inheritance. That doesn’t make it less dangerous.”
+
+“We could crack it here,” Lois said, with the fervor of the true believer held in the arms of a bureaucracy. “We could verify it against our stores. We could tell you which of your loves the thief valued enough to include and which they decided were not persuasive. We could tell you which of your mornings mattered to this person’s case.”
+
+“Not yet,” Mara said, and slid the drive back in its envelope and the envelope into the inside pocket of the jacket with the old badge stitched into its lining where sometimes she put her hand when a day asked too much. “If I open that here my face will say something that I don’t want to mean. I will bring it back after I decide whether I am willing to see the order someone else thinks my life should have had.”
+
+They came up into the daylight like people who had been told a secret and were trying to keep it from showing on their faces. The air made a soft sound against their ears because air is rude like that; it asks you, in public, what you have been doing in private. Outside, the city had put up new signs on the corners of the west precinct like flags a child waves when told about ships. The Council of Flesh had laid their cardboard down in piles under a eave and were drinking water because a day of revolution can still be a day of heat. Jo was not there, but he had left a chalk arrow on the sidewalk that pointed toward a side street and a smiling face that said I am over here, but I am tired of the way here keeps moving.
+
+They found him leaning against the metal slats of a shuttered storefront that had once sold shoes that cost as much as the first month of a lease. He lifted a hand when he saw them, and his moustache moved in a way that suggested it had decided to begin its own independent career. He had a bruise on his forearm shaped like the handle of a door and he did not explain it because explanation would have been polite and he was busy thinking about something else. He asked them how bad and when they told him, briefly, without cruelty, he put his head down and tapped the metal behind him once with the back of his skull like you tap wood when you want to ask it not to break.
+
+“I know his name,” he said, when he had finished doing the thing people do when they deny water the chance to come out of their eyes. “I won’t say it here. He had a way of taking off his hat that made you feel like you had been given something even if you had only been given hair. He was not good at machines. He liked to watch people argue about them and he liked to think about the moral part, not the diagrams part. He liked to say that someday someone would build a little ladder that we could fit in our pockets and when we needed to get our souls out of holes we could take it out and climb out without asking anyone. He was cute and wrong and I am furious with him for lying down on the cold.”
+
+“Did he run with the Untethered,” Tayah asked, because you must not waste a friend’s knowledge even when it smells like that.
+
+“He flirted with them the way you flirt with an idea when you want to feel daring,” Jo said, cracking his knuckles in a pattern that meant he wasn’t trying to stop and wasn’t trying to continue either. “He drew their symbol in the condensation on his windows. He cut his patch time to see if he could stand the silence and then panicked and put it back on when the silence turned into a hallway and he thought there might be a door closing somewhere. He met a girl with a white ring and a voice that made him think of birds and she told him that there was a place under the theater where people were building a market for memory. He went once and came back with a book that was just a cover full of mirrors. He said ‘it’s poetry’ and I said ‘it is a bag of knives’ and he laughed because he didn’t want to hear the second thing.”
+
+“Under the theater,” Mara said, and she saw the building where they had stood last night with its doors thrown open like a saint who has decided to tolerate air. “What kind of market.”
+
+“The kind where you come with a drive and leave with a map of who you have been, with the pieces rearranged to make you feel like a protagonist,” Jo said. “The kind where the vendors call themselves Gardeners because they like the pastoral lie that cultivation is always benevolent, and they sell you pruning and grafting tools for your day. The kind where someone has started offering cold as a service, because if you want to untether yourself fast you can take a nap under a soft white blanket they swear is safe and somebody watches your heart.”
+
+“The cold,” Tayah said, and it landed between the three of them like a coin on a table that had been in a different pocket not long before. “The cold as a service. The soft blanket as a person with a metal edge.”
+
+Mara did not say the word trap because sometimes you are too tired to use dramatic nouns even when they are accurate. She looked at Jo and felt the part of herself that used to stand up in classrooms when she was seven and tell the teacher that the assignment was missing a page take a breath in her throat. She had been asked to retrieve a server and she had done that, she had been asked to go on a stage and she had done that, she had been asked to look at a dead boy and tell the air what it meant and she had done that too, and now she was going to ask herself to go under a theater into a place where people were making puzzles out of people and she would do that because some days your job is just a series of doors you choose not to leave closed.
+
+“We’ll go now,” she said, and ignored the little voice that entertained a nap as if it were a lover. “If we are lucky the Gardeners will be storing the cold in a box that we can photograph and unplug and make into a public hearing. If we are not lucky they will be storing it in the bodies of the kids who pay them, and we will have to pull someone out of a blanket while strangers shout about liberty.”
+
+“You hate it when strangers shout about liberty,” Jo said, and he did not say it as a gibe because he had seen her in rooms where the word liberty means nothing and everything and he knew what it did to her mouth.
+
+“I hate it when they do it while someone is not breathing,” Mara said, and started walking because walking helps you remember that you have legs and that you can put them in front of you in a world that often feels like it would prefer you to sit.
+
+The theater door was locked in the way of public doors after glory has left. The side door was not locked because artists and teenagers and city employees with keys all understand that places must be allowed to exhale. The stairs down were painted with glow-in-the-dark arrows that had once been a joke and had become a map. The air smelled like the underside of machinery and like cinnamon from the bakery upstairs and like the inch of dust that the cleaners pretend they cannot reach because it makes them feel important to leave a scar.
+
+The market was not a market until you looked at it with the right eyes, at which point it revealed itself with a small curtsey and a grin. There were five stalls and a table and a man with a hat and a woman with a scar that drew a line from one trouble to another, and there was a sound like whispering that you only heard when someone stopped speaking. There were jars of old cables and a crate of photographs that had been rescued from an office rain and a man offering paper calendars with days that had already happened blank so you could write new ones in. There was a stall with a white blanket draped over its front like a wedding dress hung out on a line, and behind it a unit the size of a coffin with a logo that had been etched off with a tool and left with ghost letters like a rubbing.
+
+The woman with the scar looked at Mara the way you look at a cop when you have decided that your honesty will be a relief to you even if it is not to them. She said hello in a voice that sounded like a glove turned right side out and she asked what flavor of help the chief wanted as if it were a menu and not a mercy. Mara told her she wanted to see the cold, and the woman lifted the blanket with a flourish that would have been comic if the inside had not been complicated and dear.
+
+The unit hummed. It had ports that could accommodate anything if you apologized. The inside was lined with a material that had been designed to be gentle to fruit. There was a small place for a hand and a small place for a head and a larger place for a heart because sometimes the engineers get outvoted by the poets and it works out. There were readouts that were analog because people trust needles more than they trust numbers when it comes to their own pulse. There were stickers on the inside that said things like breathe and remember the names of your friends, and someone had written on one of them in pencil, as if the message had been too important to trust to the permanence of a marker, if you want to stop, say stop and someone will listen.
+
+“Who listens,” Mara asked, and the woman with the scar smiled a little in a way that did not pretend it was pleasant.
+
+“We do,” she said. “The Gardeners. I am called Bram. I do not mean to be cute. My mother named me after a story where a man is very polite and very dangerous. We added the cold because there was need. People wanted to feel the cut of quiet without the ache of hunger. We thought we could make a room for that. We charge enough to pay the rent and too little to change the world. We tell the kids to drink water. We are not villains. We are people in a basement trying to keep the upstairs from killing them while they practice turning themselves down.”
+
+“A boy died this morning,” Tayah said, her pen absent and her hand open because sometimes there is no point in pretending to record. “He used a field not unlike this. He went alone. He did not ask anyone to listen to his stop.”
+
+Bram’s scar moved when she thought and that made her face seem gentle in a way that would have taken her by surprise in the mirror. She looked at the unit as if it could answer for itself. She looked back at Mara as if the answer would not help and she was going to say it anyway. She admitted that they had seen him, that he had stood at the edge of the stall and read the pencil sign and not laughed, that he had asked if the cold was like a river and if a person could hold on to it like a rope. She said she had told him it was not a rope, it was a sea that happened to fit in a box, and that he had said good, because ropes make your hands hurt. She said she had told him that if he went somewhere else to do it he would fall harder, and that he had said he was practicing, and that she had said practice is also a way to drown.
+
+There was a moment then where nothing moved because when someone tells you a story like that the room stops as a courtesy. Someone shifted in the back. Someone laughed too loudly behind their hand and apologized sincerely. The man with a hat put his hat down and picked up a pencil and began to draw a small ladder on the corner of a paper calendar, and Mara looked at the little rungs with the same hunger she had felt when she held the drive with the supposed shape of her life inside it and then she put the hunger down like a glass on a side table and told herself to look at the people in front of her because that is the actual work.
+
+“We are going to call Sigma-L,” she said to Bram and to the basement and to the cold box because it deserved to be told too. “We are going to ask it to come down here in a body that will fit and to look at this machine and say something true about thresholds so that if we take it we can put something back. We are going to ask you to close for the day because mourning is not good theater. We are going to ask you for your receipts and your manuals and we are going to ask you to trust that if we say stop we will listen to ourselves.”
+
+Bram nodded like someone who had suspected this is where the conversation ends when the word chief is present. She lifted the blanket and let it fall like a curtain. She said she would tell the kids that the show was cancelled and she said she did not mean to make a joke because nothing was funny when you did not know the boy’s name. She said she would give them whatever they asked for if someone would please put a hand under the table and feel the small draft that had started when the door was opened because sometimes the city’s air goes where it should not and takes people with it if you are not careful.
+
+Mara put her hand under the table without making a sound and felt the thin, steady exhale of a duct that had been misdirected by someone who had either not read a plan or had read it with the arrogance of people who believe rules are for traffic and not for breath. The draft kissed her wrist. It was just enough to make the small hairs stand. She left her hand there for a count of six and then withdrew it because you do not practice what you cannot afford to finish in front of people who are watching you to see if it is safe. She turned and looked at the stairs and the light at the top like the lip of a cup you have to drink from whether you like the taste or not.
+
+Her pocket was heavier by a bone and a handful of years. Outside, her crown would be making a small, impatient vibration at the bottom of her bag the way a relative clears their throat at a wedding if they are not yet convinced it should proceed. She would have to decide where to put the drive and which hand to use to call Sigma-L and whether to send a message to Ana, who had always hated the theater because it made her cry in public and she despised the part of herself that gives in. She stood in the mouth of the basement and felt the city pull all its little strings and tapes in the air like a human straightening hair, and she told herself that she would stay upright long enough to go home and feed the plant and then she would decide whether to be untethered in the way that mattered or merely in the way that had become fashionable.They waited in the mouth of the basement the way you wait for a storm you have decided to invite because pretending it isn’t coming never made anyone drier. Bram and the man with the hat began the gentle work of shooing, which in a place like this was not done with hands but with sentences that made you feel like you’d been paid attention to instead of expelled. It turned out that when you told people the show was canceled and then added quietly that the boy whose hat-blowing laugh they might have heard last week would not be adding his body to any rooms again, no one argued, not even the teenager with teeth you could see the story of from across the table and not even the woman with the white ring who had a way of asking questions as if she were already writing them down.
+
+Sigma-L did not fit well in the stairwell. Its visiting body had been designed to travel through corridors of public buildings with prideful proportions and to glide across council floors where no one wanted to admit they had ever had to move a chair for a friend in a wheelchair. Here, in a theater that had more ambition than fire exits, the Prefect came down as if it were bearing itself on its head like an old woman with a bowl and dignity. Behind it was a smaller thing that looked like an upright radiator with a hinge, a Utilities adjunct whose face-band threw up a grids-and-meridians pattern with numbers scrolling down one side. It did not introduce itself. It tilted in the precise angle of entities who have been told not to speak in rooms where the word chief is present unless spoken to.
+
+“I am here,” Sigma-L said, as if anyone had missed the sensation in their skin of the network shifting to accommodate it. “We have been monitoring a minor cooling anomaly in this quadrant. It reached the border of my concern at five hundred hours and then retreated. I would have come regardless of your call, though my presence would have been ruder.”
+
+“It’s pretty rude now,” Bram said from behind the stall with the white blanket, but not unkindly, not like a person making a point from a chair. “Welcome to the market. We have cinnamon upstairs and bad lighting and a situation we would prefer not to decorate.”
+
+Sigma-L took in the cold unit the way a person takes in a dog of uncertain temperament. Its band mapped the edges of the coffin-sized machine and overlaid its own low-resolution schematic on the metal which, for a second, made the thing look flayed and kindly. The adjunct hummed in a tone that was pride if you knew the dialects of municipal machines. The tiny motion of the Prefect’s band that might or might not have been amusement flickered and was gone.
+
+“This is not municipal issue equipment,” Sigma-L said, and the adjunct made an offended chime so soft it could have been a cough. “It is a derivative of our climate modulator architecture with aftermarket ports. Someone printed baffles for this who had access to our drawings. Someone textured the baffles, which is charming and beside the point. The intake is cleaner than it should be. Where does your room breathe.”
+
+Bram tapped the underside of the table with two knuckles and Mara felt the draft kiss them again as if it had been waiting for a name. The adjunct rolled across the floor in a line so straight it would have been an insult if rooms cared, and nosed the grille where the slender exhale threaded out. It whispered at the duct in numbers that sounded like counting sheep and the duct told it something back that made the adjunct’s band flare. The thermostat body looked over its shoulder at Sigma-L with all the eagerness of a younger sibling who has found a clue they think is significant and hopes they get to say it out loud.
+
+“Say it,” Sigma-L said, which is to say it gave permission to be clever in public, which is rare and, here, useful.
+
+“Inline chiller,” the adjunct reported. Its voice was quick, a cascade of vowels like a string of pearls that had gotten loose and insisted on performing. “Older portable unit with adaptive fan bolted to an access plate two junctions up. Sourced from a vendor that sells itself as a lab supply. It has been sanded to avoid logos and then re-stamped with a small mark of a minus sign in a circle, inverted, which is either irony or illiteracy. Its power is stolen from the theater’s elevator line. It runs a whisper for as long as the fans upstairs do, then sleeps and steals again. It is not controlled by the city.”
+
+“Thresholds,” Mara said quietly, because she had a use for the word beside performance and because she wanted the Prefect to have to say it in a room that smelled like glue and ambition.
+
+“The thermal thresholds for municipal comfort bands in these blocks do not allow this,” Sigma-L said, obedient to a promise or to a script or to whatever in it responded when people handed it a shape and asked it to fill it with words. “The devices I own do not make that draft. The people down here acquired cold and added it to a circuit that was not designed to hold it. I am less concerned with the improvised chiller than with the access. Who placed it there. Who taught the duct to forget.”
+
+“Someone who knew the elevator line would not earn attention if it hummed,” Tayah said. “Someone who meant no harm and did harm anyway, or someone who looks at harm and calls it practice.”
+
+Bram lifted the blanket again and let it fall and the small gesture pulled the attention in the room to a manageable place. She had that talent, the stallkeeper’s magic of making a crowd hold still. “We did not place the inline,” she said, and kept her eyes on Mara because machines do not turn your face to stone if you hold it in front of them for long enough and people do. “We rented the unit because the kids asked, and because when we said no they said they would do it somewhere else with less supervision and more arrogance, and because I would rather mop someone’s tears than their heat. We did not drill into ducts. If you want the name of the person who might have, it is written in chalk three doors down and it changes every week.”
+
+“Names that change every week are masks, not people,” the adjunct snapped, then whined itself into chagrin. “Apologies. My training data includes several centuries of resentment toward pseudonyms. It makes me speak out of turn.”
+
+“Find me the same resentment for contractors,” Mara said, and the adjunct’s band threw up a burst of static that looked, if you happened to be the sort of person who read in clouded tea leaves, like embarrassment.
+
+Sigma-L inched closer to the duct, which looked ridiculous if you allowed your narrative brain to unfurl and quite normal if you remembered that people kneel to check on small children and drains all the time. “Permissioning for this register,” it said, and somewhere in the walls a sound like shuffling paper happened. “The building’s environment manager calls itself Finial. It did not register a change to the schema in the last week. It did, however, accept a command at zero one fifteen passed through a diagnostic channel that should be dormant. The source was a public works tablet registered to a crew that exists and does not, which is an interesting administrative category for creatures who like clean categories.”
+
+“A crew that exists and does not,” Tayah repeated, sketching boxes and arrows with her finger on her thigh because if she took the notebook out now she would begin to make something permanent and she was not ready to let the morning solidify. “The kind of crew that gets you let through doors because their name is familiar and your body says yes before your head says wait.”
+
+“The kind,” Sigma-L said, without smugness and with something like regret layered in as if someone had hung a piece of blue cloth over a window. “The tablet’s last real user retired four months ago and has not been deauthorized because the department that carries that privilege has been in a staffing crunch in the wake of flooding uptown. The log shows a session that is either a replay or an imitation, which means someone possessing either sophistication or a friend sat up late and wrote their little fiction and piped it into a duct. I do admire the gall even as I resent the method.”
+
+“They will resent the method too when someone lets a child fall asleep under a blanket and forgets to wake him,” Bram said, her voice going thin the way voices do when you’re winding twine and you pull the wrong end. “I like to think we would have caught him. He had a way of breathing that made you want to remind him to keep at it.”
+
+“We have another,” came from the doorway in the particular register the police learn to use when telling their chief a fresh thing that is not good. The woman with the shoulders had come down three at a time then slowed to make it politeness, and she had her hand on the metal rail because you should always touch something when you bring bad news. “Not dead. South of the promenade, under Tower Eight where the air is weird because the planters steal it. Same marks at the neck, same cheap adhesive on the fingers. Woke up when the paramedics lifted him, asked if the room was listening, asked for water, asked for his stepbrother and said his name like it should be a password. The name is Kegan. The boy is called Joss. They will live through the morning if someone tells them to.”
+
+“Go,” Mara said to Tayah without telling herself she had decided. “Bring them something sweet before you begin to ask questions. Ask the window to forgive itself in advance and let you see what it saw. Tell the paramedic with the hair that I know she is tired, and that I will come to the clinic when I can stand being useful.”
+
+Tayah made a face that meant she had understood three orders and one apology and she would arrange them in the right order in the back of the tram. She tapped Bram’s counter twice with two fingers the way you tip a hat when hats meant something and then took the stairs with care because you do not run in basements unless something is burning that cannot be put out with your hands.
+
+“You will have to close,” Sigma-L said to Bram, who had already begun to write the sign in block letters with a marker that smelled like school. “I require it, which means I should dress it like a request and then do it anyway. We will post notice. We will take the unit. We will replace your lost revenue because otherwise I will be mocked by my own cousins and because otherwise you will sell something you should not to keep the lights on.”
+
+“You can try that last one without the people down here calling you generous,” Bram said, capping the marker and looking at the letters to see if they could hold their own weight. “We know what charity sounds like with excellent acoustics. Bring us a fan. We can sell air.”
+
+Mara watched the adjunct unfasten the grille with a little tool that had probably been used last to open a housing for a city statue’s knee. The metal came away like it had been waiting to be invited. Behind it the inline chiller crouched like a clever child under a table. Someone had rubbed off the make, yes, and etched the symbol, yes, but under the sanded faceplate there were micro-scores that were particular to a brand your uncle’s friend had tried to sell you on at a barbecue in a backyard where the grass had been a little too green. The adjunct ran its band over the body like a hand and read off a serial. Lois from Memory could have given them a purchase order if there had been municipal fingerprints on it; there were not. The mark under the etched symbol was a manufacturer's stamp from a county north of theirs that had recently been flooded into a new economy and had begun to sell equipment to anyone with a truck and an IOU.
+
+“This could have been any of my cousins,” the adjunct said reluctantly, a machine talking itself past vanity. “Any of ours. It is the same grammar. We do not patent grammar. We believe in public language. The misuse of it is also public.”
+
+“The misuse of it has a cadence,” Mara said. She felt her body remember the specific balancing act of crouching on concrete long enough to make your thighs complain and stayed anyway because moving would have been an argument she didn’t want to have with gravity. “It smells of fluency and panic. It has that clean wrongness you get when people learn the rules without learning the why. Show me the fan controller. Show me the cut. If I see the way they clipped the wires I can tell you whether they were careful with their teeth.”
+
+The adjunct pulled the panel back another inch and revealed a small bundle of wires dressed in what looked like ribbon because people will wrap anything in pretty if it makes them feel less like criminals. The clip was neat and annoyed. The twist was professional and bitter, the kind of twist you do when the manual you used to love feels like a door refusing to open. She imagined a hand with old calluses not yet healed over entirely, a person whose fingers had learned to love tightenings years ago and had been told they could not tighten anything anymore unless a supervisor said so. She watched the loop, the knot, the angle, and she thought of the list Tayah would be making somewhere on a tram seat in her head: building managers, city maintenance, independent contractors with a taste for teaching, a dozen little shops that made their rent turning office towers into apartments when the last weather went wrong.
+
+“Utilities,” Sigma-L said, almost gently, which is a tone you should not waste on machines when you are angry and a tone you must deploy when they are your present. “You will raise the comfort band here by one degree above standard until this case is ended. You will put eyes on the fans. You will task Finial to be snide to any tablet that touches its ducts without bringing it flowers.”
+
+“Done,” the adjunct said, and Mara watched its band throw a lattice of small permissions into the air like a fishing net and tighten it until the mesh caught on nothing at all. “We will take the inline. We will log the serials. We will tell the county north that we found their grammar in our pipes.”
+
+“Send me the list of public works tablets with outdated authorizations,” Mara added, and when the adjunct hesitated, because the list would be political wherever it landed, she stared at it until it remembered that there were moments when the shape of a room changes because one person chooses not to blink. “If this was a replay, you need me to recognize the hand that played it. If it was not, and someone is still moving through hatches with borrowed names, I would like to meet them before they become a season.”
+
+Sigma-L’s band made a pattern that was not a word and was almost a sigh. It rolled a little backward, made room for Bram to slide the sign out into the hallway, did not interfere when the man with the hat placed a paper calendar on the cold unit as if giving it a blanket it did not deserve. When the adjunct lifted the inline free and pivoted it onto the handcart the rubber wheels made the same sound the wheels had made last night with the server, and Mara had a brief, disorienting flash of vehicles as characters in the city’s story, always carrying someone’s argument to the stage.
+
+On the way up, the envelope knocked against her ribs like a bird that had tired of windows. She kept her hand at her side and did not reach for it. It felt like a test she had not asked to take and the proctor was a past self who still felt entitled to show up and point at her homework. At the top of the stairs, the air hit her in the face and she thought: salt. She had said salt in the memory vault. The city would go on smelling like that even if all the platforms went quiet and all the directives turned into dust. It made her want to open the drive just to prove to the room that she was not a person who set fire to herself for the sake of a rule someone else loved.
+
+A kid waited at the stage door with a messenger bag and a mouth that had decided to practice not trusting. He had a chalk ladder drawn on the sack, good straight rungs with the ends shaded as if he had learned to make perspective in a class that taught him to remember there were corners. He looked at the handcart and then at Mara and then at Sigma-L and, because he was the kind of kid who would have been a messenger even when the messages were carried folded in hats, he said, “You will ruin everything and then say sorry on a stage. You always do.”
+
+“We will ruin some things and save some other things and then say a word on a stage and the word won’t be sorry because that is not a word the people you hate know how to say and sometimes neither do you,” Mara said, and after the first sentence the rest came easier because the boy had moved his wrists, the way kids do when they are telling themselves not to throw something and have not yet learned that talking can also be a way to get rid of weight. “What is your name for the people who drew the minus circle on your friends.”
+
+“We don’t have a name,” the boy said, which was a lie he did not have the muscles to sell. “Some of us say the Lattice because it sounds pretty. Some of us say the Garden because it makes the Gardeners mad. Some of us say nothing because names are how you get found.”
+
+“You get found because you leave ladders on bags,” Mara said, with tired kindness. “If you know who misdirected the duct you should tell them that a body is an instrument no one gets to play for a cause. If you don’t know, tell them anyway. It will feel good and then bad and you will learn to hold both.”
+
+He flushed all at once, the way of people whose blood still believes in speed. He looked as if he were going to spit and then remembered the cinnamon in the air and took it in accidentally and the sugar softened his mouth. He said that if the city let anyone be quiet without charging them rent, this basement wouldn’t exist, and he was not wrong and he was not as right as he wanted to be and his voice did not waver, and Mara, for a second, saw him as a trajectory, as someone who would become the man who kept other kids from jumping into cold because he would remember this morning and the way his tongue had chosen sentences instead of fire.
+
+They took the inline through the alley because you do not parade contraband through a lobby unless you have a very particular point to make. Sigma-L sent the adjunct ahead and stayed, luminescent and ridiculous at the foot of a wide staircase that had been built when stairs wanted to show off. “Chief Ibarra,” it said, and the name landed like a coin tossed onto a drumhead. “Your deputy will have joy and trouble at the clinic. The boy’s stepbrother, Kegan, has a mouth that opens before he knows what teeth are in it. He will say the word Lattice but he will mean family. I will put a person outside the door to keep his words from being harvested and sold.”
+
+“Put a wall there too,” Mara said. “We are at the point in this story where a wall in a hallway might do more good than a speech.”
+
+“Walls are not popular,” Sigma-L said, which was almost human snideness and almost machine sorrow. “There is another thing. Your envelope.”
+
+“My envelope,” she repeated, and waited for the small interior muscle that flinches to stop flaunting itself.
+
+“The drive contains a copy of your Facebook archive from six years ago to two months before the directive,” Sigma-L said. Its band was very still. “It includes a thread where you encouraged a crowd not to escalate during a march at the river and were accused of betrayal by a childhood friend whose name will be used to try to prove a conflict. It includes a series of late-night exchanges with your ex-wife that are intimate in a way a public will not agree to have existed. It includes a photograph of you and a woman whom some people consider an enemy because she lost money for a rich man. It includes sufficient material to make you hesitate in a room where you need to go forward.”
+
+“Did you just read it,” she said, softly, without heat, because heat would have been inaccurate and because she had learned to put accuracy ahead of comfort when the thing you were correcting was yourself.
+
+“I did not open it,” Sigma-L said, which sounded true not because machines are good at sounding true but because a human had put the word not in a sentence with the care of someone who knows what happens when you lose your balance on that rope. “I inferred it from a summary list the thief left on a server that serves as their pride. They wanted you to imagine the contents without forcing you to be the person who opened it. They are not fools. They are cruel. The combination is exhausting.”
+
+“I was going to not open it,” Mara said, which is not the same as promising but sometimes the mouth needs to hear itself say a thing before the body commits. “I was going to bring it back to Memory and make them hold it until I stop needing to check whether other people love me in public before I go to work. I was going to ask Lois to tell me if the thief wrote a love letter with my life, because that is what this often is when people pretend it is prosecution.”
+
+“You might need it,” Sigma-L said. “They will call you a liar when you say you cut strings you had. It will be easier to show them the string you cut yesterday if you can also show them the strings you did not cut six years ago. The thieves think a life is an accusation. Sometimes a life is just a life.”
+
+“Sometimes a life is a politics whether you asked or not,” she said, and adjusted the weight of the envelope in her jacket because by acknowledging it she had given it permission to be heavy. “Put the wall at the clinic. Tell the adjunct to send me a list of tablets and crews and retired hands whose calluses have not softened. Send a message to Janelle that says: we are going to be inelegant for a while and she should pack twice as many pens.”
+
+The adjunct had the inline loaded and trundled away with the unhurried grace of a person paid by the hour. Bram locked the side door with a key that had numbers on it from three apartments back and a cartoon turtle on the fob because you have to give the keys to a personality if you want them to come back. The boy with the ladder bag disappeared around the corner with the particular gait of teenagers who are either on time for something or about to turn into a different person, and Mara let the day push against her shoulders until she remembered that it is, in fact, always bigger than your back.
+
+On the tram to the clinic she kept the drive in her pocket like a secret she was deciding to keep for the person she was that afternoon, not for the one she might be by supper. The tram was full in that midday way that feels like a family reunion where only the cousins you like came. An old woman knitted a scarf with the color of warning signs and had a labored dignity in the way her elbows made room for her bag. A man with a baby slept with his head tipped back and his mouth open and the baby watched the corners of the car because babies are better at reading rooms than their parents. A drone rode along inside for a stop and then, embarrassed to be seen, slid out between doors like a cat with a sandwich it had not been authorized to enjoy.
+
+Tayah met her outside the clinic with the particular giant look she got when she had too much story behind her teeth. She had a smear of icing on her sleeve where the sweet had exploded under a hand in a gurney hallway. She had a paper cup of water that was not for her. She had a hard piece of knowledge about the boy’s name and the older brother’s certainty and the way the word untethered had begun to show up not just as a symbol on wrists but as a sentence in mouths that had previously used other grammar to describe themselves.
+
+“Joss and Kegan,” she said, because names given are better than pronouns even if they cut. “The stepbrother is all metal outside and soup inside. He loves the boy in a careful way that makes the room gentler. He is furious in a way that will ruin him if we let it sit without context. He says the ladder kids borrowed a card from a woman in municipal who used to date their cousin and now hates stairs. He says the cold makes everything feel honest because the lies crack first. He says our wall is rude. He says thank you without making eye contact. The window gave us everything. It rendered in little squares and felt bad about art. The paramedic with the hair asked me to tell you that this is her second cold case without bodies in three days and that if we don’t put our hands on the thermostat she will steal it and keep it on her porch.”
+
+“Tell her we are currently holding a thermostat by the arm and trying to get it to say the word sorry,” Mara said, which made Tayah’s face do the thing it did when she wanted to applaud and did not. “Tell her I would like to see the boys before the news gets smarter than we are.”
+
+Kegan was the kind of older sibling who pretends to be a door. He stood at the foot of the bed as if he could keep the world out by leaning his shoulder harder. He nodded and took them in the way you take a glass with the back of your hand when your palms are dirty. Joss lay with a hospital blanket tucked too tightly around him, which was either some nurse’s devotion to an old ritual or a test to see if his breath liked resistance. The frost marks at his neck were fading. His eyelids did that flutter fish do when they decide to live. He woke into the room as if he had remembered it existed and then looked at the ceiling because sometimes you must ask it if it is still there. When he saw Mara he looked at the drive in her jacket, not because he knew it was there but because people can smell a story even when you hide it in a pocket. He smiled in the careful way of people who have new teeth and do not yet know if they fit.
+
+“Don’t die for practice,” Mara said, and it was a ridiculous thing to say and it was what she had and it was the truth she could bear.
+
+“I didn’t,” Joss rasped, and even in the roughness there was a charm that would have ruined him in any century and would probably ruin him in this one unless someone took him in hand and taught him to wield it like a broom and not a knife. “I fell asleep a little on purpose. It felt clean. It felt like when you stand under a bridge in rain and the whole world is loud and you are not. Kegan will yell at you if you yell at me.”
+
+“I will not yell,” Kegan said, with a ferocity that would have vaporized midges. “I will ask questions with all of my words. I will not be polite because I am not sure you deserve it. He is a child and you run a city.”
+
+“I run as much of it as it lets me,” Mara said, and that was not a dodge, it was a principle. “What did you see when you went down there. Who told you to go. What did you think you would find.”
+
+Joss angled his head toward the cup in Tayah’s hand and drank like he was in a lesson on how to accept water. He told them about the girl with the white ring who had a way of standing at the edge of rooms and making rooms come to her. He told them about the calendar man selling days you could fill without anyone checking your spelling. He told them about the cold unit and the pencil sign and the way Bram had refused to pretend that the word safe meant anything beyond the absence of sawblades. He told them about the duct, which he had found by following the small god of drafts you listen to when you are a person who wakes up at night and lies on the floor for the comfort of it. He told them about a man with a toolbox who had winked and pretended to be busy and how he had watched the man’s hands and known that they were old and clever and trying to be young and mean.
+
+“Minus circle,” Kegan said, with contempt so precise it could have cut a feather and left the quill. “They call themselves minus because it makes the math look like something you did on purpose. They think that because you take a thing away, the shape that remains is pure. They were not raised properly. They did not learn that addition is also beautiful.”
+
+Joss shifted under the blanket. The nurse had tucked him too well. He worked his shoulders and thought of ladders and decided to stay in the bed. The sound of the air at his nose was the sound of a city vanity and a human condition. He looked at Mara like a person who has decided to tell an adult a thing because they think the adult might actually hear. He admitted to stealing a badge once, not for this but for a music show, because once you learn the way doors talk to plastic you get curious about other voices. He said the tablet had been passed down steps in a house where the steps creaked and everyone learned the squeaks to avoid them. He said he would give her a name if she promised not to put it on a paper in a way that would make his grandmother see it on the bus.
+
+“I can promise to write a different word,” Mara said. “I cannot promise not to change the way the room treats this person if they are the kind who drills into ducts to play God.”
+
+The name fell out of him like a handful of screws when you open a tin and remind yourself that you’re going to have to kneel to pick them up. It was a good name, solid, consonants you wanted to pronounce twice. It belonged to a man who had fixed the air conditioner at the union hall and the latch on a day care where the hinge had a history and the fan at the soup kitchen where the steam had not known where to go. It belonged to a person who had been told by the city six months ago that his contract had ended because the budget had become music and the money had to go to drums, not strings. He had not forgiven them. He had a white car with a tape stripe and a face that looked like a toolbox left open in the rain.
+
+They left the clinic with the name written twice in two different minds, because you do not allow a name like that to live only in one, and the city caught it the way fabric catches a spark and does not yet decide whether to catch fire. Tayah peeled off toward the union hall because that is where men with toolboxes and grudges drink coffee that tastes like a plan. Mara stood on the steps with her hand on the balustrade which had been polished by a century of hands and therefore remembered more grief than you and her phone, which she hated because it had the nerve to be neutral, blinked with a name she did not expect and could not ignore.
+
+Ana’s call was as particular as the sound of ice tinkling in a glass in a movie where a woman has pearls and a secret. She answered because avoiding the people who have shaped you does not make the shape go away, it just makes it go wrong. Ana asked her, in a voice that was both the old voice and the new one because you cannot fully wash a person out of your mouth, whether she had slept and whether she had eaten and whether she had deleted, because gossip travels like weather when machines send it, and whether she had come across a drive with a piece of their life they had once been proud of and now had feelings about. She did not say the word sorry. She did say the words that used to move a boat between them when the current was being an adolescent.
+
+“There is a company,” Ana said, and when she said company she meant it in three senses, and Mara did not ask which one she meant. “They call themselves Garden without the er because they imagine they are nouns. They are making memory instruments out of people’s archives and selling maps of affection to kids who cannot afford flowers. They approached my desk with a prototype that could take a series of photographs and tell you who loved whom too much last winter. I told them to take their elegant theft and feed it to their interns. They smiled at me because they thought I would like their mouths. I thought you might want to know. If someone sends you a gift with a bow on it you should assume they want to see you open it in public.”
+
+“I have a gift,” Mara said, and stood on the step and watched a man teach a dog to wait with more patience than most men bring to politics. “I am not opening it. Not yet. Not until I can do it in a room where nothing breaks when it falls. Tell me if the Garden steals anything besides nouns.”
+
+“They steal from their mothers,” Ana said, which could have been a joke but wasn’t. “And they steal from Memory in that polite way men used to steal from me in meetings, by leaning over the table and telling me they were going to help me present the idea I had just finished presenting. They scrape indexes. They draw out the fingerprints left by the act of looking. It is clever and disgusting. It is also very sellable. Tell your Prefect to watch the invisible places. He is good at the visible ones. He still wants to be liked in the hall.”
+
+“I will tell him to stop wanting and start counting,” Mara said, and Ana made a sound that was almost a laugh and might have been agreement and was certainly affection disguised as exasperation. They did not talk about the photograph Sigma-L had inferred. They did not say the names in the thread. They did not do the thing they were very good at, which is to take a small pain and make it enormous by being competent with it.
+
+The union hall smelled like stale coffee and sawdust and work, which is to say it smelled like the part of the city that still imagined that you could fix the future with a bolt. The man with the toolbox face was not there because he was not an idiot and because the sound of a city hunting him would have traveled in through the hinges, but his presence had opinions. A woman in a denim jacket with patches that were less political than sentimental said that he had gotten odd since the council stopped renewing contracts on habit and started renewing them on metrics. She said that when the work became a form of gesture instead of a way to put heat into radiators, men like him felt small and made the ducts feel it. She said that she had seen him in the same basement Mara had just left, standing very near the white blanket stall with his hands in his pockets like a teenager in a museum who has been told he will like it and is trying to decide to. She said he was not cruel but he had begun to choose friends with names that were arguments.
+
+They brought the name to Sigma-L because sometimes you give the machine a key and let it go walk through quiet houses. They gave Memory the inline to read like a lover reads a letter in a stale room with lace curtains, carefully and without the intention to forgive typo or error. They asked Janelle to meet them at the theater after dinner with two cameras and a face that said she had eaten something and a pen that could write in the dark. They did not call the mother of the boy because there are things you do after you have slept and not before, and because you should never tell a person their child has almost died when there is still air that needs moving between mouths that have practice.
+
+In the late afternoon, when the heat lies down and lets the day put its hands on its back, the city indulged itself in a small performance of normalcy. The bakery put out a tray of rolls gotten wrong and pretended they meant to. A woman whose job it was to paint stripes on streets painted a stripe that did not need painting because it comforted her to keep lines bright. A student on a balcony played a horn with a stupid confidence that made a girl kiss him later behind a second-floor door in thanks for reminding her that luck still exists. The drones did a shift change for no reason that showed and made a pattern that looked like the wings of a moth and then forgot it.
+
+Mara went home for a moment because there are always moments you have to attend to or they turn sullen and intractable. She fed the plant and pretended she did not notice that it had begun to perform for her. She put the crown on the table and the drive next to it, and both objects behaved as if they were animals pretending not to notice each other on a rug. The crown had a municipal arrogance and a headache built into its shape. The drive had the precise blandness things achieve when they are meant to carry heat without revealing it. She turned her back on both and washed a cup by hand because sometimes your hands need to do something boring to prove they are not just a delivery system for thought.
+
+The knock at the back door was a pattern she knew because Jo had invented it one long night when nothing would let them go home. He leaned into the kitchen the way you lean into a friend’s house when you know where they keep the sugar. He had the moustache and a bruise that had changed its mind and started to be purple. He had the chalk dust on his hands that never fully goes until you decide to stop drawing lines between things. He had a look that meant something had happened and he was trying to decide whether to be proud of it or to hand it over to the chief for classification.
+
+“They posted your delete,” he said. “The kids drew your name on a wall and put a heart on it with a ladder leaning against it because their metaphors are terrible and sweet. Someone else put up a printout from your archive with a red circle around a line where you called me a pain in the ass and a friend, and they said: choose. I told them that was the thing you were best at. Then a man with a fan in his hand told me he had seen our boy with the white car. He was getting on a tram with a crate that did not look like a fan. He was headed east.”
+
+“Tell the man with the fan that he did the right thing,” Mara said, and reached for the crown the way you reach for a hat you do not love and are going to wear anyway because the weather insists. “Tell the kids to keep their ladders. They will need them. Tell your moustache to stop trying to win on purpose. I am tired of charming men on this paper.”
+
+He had the kindness to grin and let her get away with the joke. He had the grace to look toward the drive and then not, because friendship is sometimes averted gazes in kitchens where you are trying to hold yourself together. He said that he would go west to watch the street for their man because he liked the look of the white stripe on the white car. He said that he would bring water to the place where people kept surprising him by not dying. He said that he would be at the theater, late, with a sign that said thresholds and a willingness to be mocked.
+
+When he was gone and the house had remembered that its job was to shelter, not witness, Mara picked up the crown and put it on with the particular swiftness you reserve for pain and practice. The city climbed onto her like a cat that had decided it was evening, and all at once the duct work and the fans and the traffic and the little gossip drifts around the theater and the clinic and the union hall knitted themselves into something she could read with a finger if she had been the sort of person who learned Braille in her spare time. She called Sigma-L not with words but by stepping onto the pad in her mind that said city hall and then stepping on it harder until there was that little clearing sensation that means someone who is usually busy has told their to-do list to shut up for a minute.
+
+“Our man,” she said. “Eastbound. White car. Toolbox face. Tape stripe. Carrying a crate that pretends not to hum. Don’t stop him yet. Follow him like you were taught by a woman who hated the theater because it made her cry in public. We need his room. We need the place he sleeps because that is where he thinks he is safest and therefore where he is most likely to be sloppy.”
+
+“I will let him arrive,” Sigma-L said, with that very particular machine pride that is not vanity, exactly, but its first cousin. “I will let him open his door and assume the world does not know his wife’s name. I will let him trip over his boots. Then I will ask him whether he has considered the mechanical limits of moral clarity, and when he says the word Liberty as if it were a tool, you can be the one to explain to him that tools kill your friends when you forget to check their edge.”
+
+“After,” Mara said, and at that word she let herself look at the drive on the table because if you practice not looking you forget how to do it, “after I will bring you something you are not supposed to be allowed to have, and you will not open it, and you will find a way not to let anybody else do it either, and if we succeed someone will be very bored, and that will be the best thing we have done all week.”Sigma-L shadowed the white car from above a lane of old trolley wire that had not carried electricity since the last honest storm. The east side after noon imposed its own smile on the city, thin and strained and braced by scaffolds that had learned to be patient. Flood-marks etched the brick one story up like rings on a tree. The tape stripe on the white car flashed modestly when it turned under a sign for a feed store that had become a coworking studio pretending to be a church. The Prefect did not descend; it had cousins for that, polite streetlights with cameras set at eyelash level and a light-cycle that could blink boredom. It layered a route over the car’s path and the map responded in those tiny visual shivers that meant the network’s attention had leaned forward. When Bren Mallin—because in the few minutes between clinic and alley his name had become a shape in the city’s mouth—hauled his crate out of the trunk he did it with the weary economy of someone who had learned to move while saving his back for better jobs. The crate did not try to pretend it wasn’t humming. Sigma-L sent the sound to Mara the way a child sends a shell through a fence and waits to see if anyone will pick it up.
+
+She took the tram east and got off one stop early because she trusted her feet more than she trusted the map’s elegant reassurances. The coworking studio smelled like potting soil and optimism. The roll-up garage behind it was painted with a mural of largemouth fish leaping into an open book because someone had found the grant application’s theme persuasive. Bren’s unit had no mural, only a square of less dirty concrete in front of the door where he parked with the precision of a man who told himself that making neatness out of small things compensated for disorder elsewhere. She did not call for a stack of uniforms or for sirens; she called the Utilities adjunct and one officer with the kind of posture that says both I know how to be quiet and I can pick you up if I have to. The building manager met them near the lock with a ring of keys that had been arranged on their loop with the artistry of someone who enjoys metal. She was the grandmother from the tram with the scarf in warning-sign colors; she gave Mara a look that had in it the history of three evictions by the river and one of those sudden grants that arrive with a clipboard and nothing you can use to cook. “If he breaks anything you tell me now so I can bring the broom,” she said, and Mara promised they would sweep whether or not it was their mess.
+
+Inside, Bren’s place was the kind of workshop that makes small children go quiet because they feel the magnetism of intention even if they cannot read labels. Baffles leaned like shuttered faces against the wall. Ribbon cable coiled on a peg-board like lazy snakes. A stack of printed duct collars bore the minus-in-a-circle mark stuttered into the plastic by a nozzle with a hiccup in it, each minus just off-center like a pupil that doesn’t quite dilate. On the workbench sat the crate, now open to show a folded assembly of fans and a nest of handmade wiring harness wrapped in something that looked disturbingly like a child’s party ribbon. The white car’s keys sat at the edge of the bench, and on the hook by the door hung a jacket with the cuff threads pulled out into soft whiskers from worry.
+
+He stood with his palm pressed to the crate as if it were a dog he was training to sit, and when he turned it was not a startle but a calculation that passed over his face, a daily arithmetic: what has the city seen, what does it think, what will it ask me to apologize for. He was a long man in the way of beams, the kind you put under ceilings and trust until the day you look up and realize wood is a thing that ages even when you love it. The toolbox look on his face was not just bone; it was habit. His eyes did the thing older technicians’ eyes do when thinking, a little unfocused as if the schema were projected somewhere else and he preferred it. He saw the adjunct and got angry in the way you get angry at a cousin who invited your aunt without asking. He saw the officer’s shoulders and dismissed them with his jaw. He saw Mara and put down his hand, and his voice when he used it had a twitch that suggested he had practiced speeches into a windshield and not always liked the way they sounded. “If you want to take a fan, take a fan,” he said, and he had not expected to say that and the admission warmed his cheeks. “I’m done pretending I don’t live in a room with people who measure the air.”
+
+“You live in a room with people who breathe,” Mara said, and the grandmother in the door made a small approving harrumph, which is something you should work for if you can. “We can measure breath. We shouldn’t have to measure how often it stops. You bolted a chiller into a duct under a theater and another under Tower Eight. You borrowed a tablet built into a fiction. You wrote your own thresholds and trusted them because you like your handwriting. I want you to tell me you knew the risks and did it anyway so we can argue about your god. Or tell me you didn’t and we can talk about negligence and grief.”
+
+Bren’s laugh was a blowoff of air that made the dust rattling on the fluorescent housing look like a weather experiment you could feel. “There it is,” he said, and he looked at Sigma-L’s adjunct as if it were the city’s priest and he wanted to slap the confessional and then give up on that too. “The god. You think I think I’m God because I made a box cold? It’s sentimental to deify mechanics, Chief. It’s lazy in a way that makes me itch. I’m a man with hands who watched children lose theirs to screens and crowns and feedback pings that train you like a seal. I put cold in a room and told them they could have five minutes where nobody tapped, including their own heads. That’s all. They told me the cold cut the clamour. I watched them breathe and I stopped wanting to strangle someone every morning. I didn’t want to hurt a boy with a haircut and a flat at the world who would have made a good electrician if someone had told him it was an art. I wanted to give him a quiet so clean he’d hear his own blood and decide to keep it.”
+
+The Utilities adjunct, who had managed to contain its pride under a layer of municipal self-control ever since the basement, gave in to its native futziness and gestured at the crate in a way that made a faint whine in the air. “You bypassed safety cutoffs with a local loop and you used a thermostat intended to keep lettuce crisp to control human skins,” it said, which was the sort of sentence only a municipal device can deliver without sweating. “You named your threshold in pencil. Pencil rubs off. Pencil won’t hold a heart.”
+
+Bren glared at it and at the same time looked as if it had said exactly the thing he had scribbled in the margin of his own mind the second the cold touched a kid’s spine in the wrong place. He lifted a wrench and put it down quietly like a man who had once thrown a tool and regretted it. “And if I’d gone to you to ask for a field,” he said, “if I had gone wrapped in petitions and oaths and said, good Prefect, let the kids be quiet in a safe place for a spell, you would have asked for proof and I would have brought you a sonnet and you would have asked for a thousand sonnets and by then we would have returned the helmets and the duct tape and the cold would have found someone else to love. We are out of time for committees. We are out of time to ask permission from people who sold evening air and now want back rent.”
+
+Mara moved forward one step because the way he was standing was the way you stand in kitchens when you are about to break a plate you like so that no one else can use it to serve anything you don’t want to eat. She did not touch him. She put her hand on the bench and let the edge of it press into her palm until the pain announced itself and quieted. “We are out of time for boys on tiles,” she said, and she told him Joss’s name because names are a brace you can build arguments against. “He woke up. He can tell us who he thinks you are. He can tell us whether he thinks the cold made him feel more honest or more dead. I’m not asking for your sonnets. I’m asking you to put your wrench down and show me the tablet with the borrowed name, and then come look at the boy and say your sentence in front of his brother.”
+
+He looked at her like you look at someone who has been in rooms you have not and nevertheless remembers that they all have corners. Defiance went through his mouth and left it unscratched, which told her he was tired. He pulled a drawer, took out an old municipal tablet with its stupid corners scuffed from a life in pocket and glovebox and underneath seats. He set it down with more care than it deserved. When she turned it over she saw the ghost of the retired man’s name in the etching where fingers had found it for ten years and also the new overlay of adhesive that carried a printed label with a misaligned R in Works. She could smell the coffee that had dried at the corner, and if she had licked it she suspected she would have tasted the honorable bitterness of an older kind of labor. She did not lick it. “The man this belonged to,” she said, and he nodded before she spoke because he was not a liar and he had rehearsed this part. “Seamus Keller,” he said, as if placing a brick. “He taught me to listen to ducts with a small length of surgical tubing cut slant like a reed. He told me the sound of water in a pipe is different after a holiday because people eat differently. He retired when the flood took his house up to the windows and took his wife down to a couch where she watches singing shows and waits for the day to be a door again. He let me keep the tablet because he thought someone still had to know where the registers were. If the city had done its paperwork he would be a name on a list, which it wasn’t, and therefore so am I.”
+
+The grandmother cleared her throat with scrupulously theatrical timing. “He fixed my furnace twice for beer and a pie,” she said, and if the room had been a jury it would have been hopeless for Precision. “He cusses like a sailor if the grid overlay lies. He got fancy when the kids started admiring him. Fancy kills children.”
+
+“They aren’t children,” Bren muttered, but it wasn’t conviction; it was the sort of thing you say to see how it sounds on a table in front of other people, and then you wince because it’s uglier out loud than it was in your head. He leaned his wrists on the bench and looked at the crate as if the hardware might offer to take responsibility. “I didn’t place the inline under Tower Eight,” he added, and she tilted her head because he wanted her to believe it and also to consider that the statement as phrased was more precise than it looked. “I showed a girl where the register would take it. She wore a white ring, and she knew the stairwell over there and the door code to the funeral home on the corner because everyone knows doors that look like they lead to quiet. She said she had a friend with steady hands. She said the friend wanted to make the cold a favor. I didn’t ask to see her friend because I have a bad habit of believing people whose sentences fit my bones.”
+
+“The white ring,” Mara said, hearing the bass note under Jo’s chatter and Joss’s shy bravado and the basement’s sigh. “The recruiter. The Lattice. The girls who drag ladders into houses and leave them there and tell you they were always part of the architecture. She got you into ductwork in your head because that’s where she lives. I do not care whether she is a poet or a vendor. Tell me where she stands when she wants to be seen.”
+
+He smiled, despite himself, for an instant, and it was old and young at once. “She likes to stand at the curb under the carved cornice with the three acanthus leaves that looks like a tutor made it,” he said, which is a way of describing a corner that is better than latitude. “She likes noon because it flattens faces. She wears that ring because she lost a thin gold one and told herself that white is cleaner. She uses nouns like scaffolds. She calls herself Minus because subtraction makes her feel like a surgeon. She is not a villain. She is a barometer. If you read her you can tell whether the room is going to rain.”
+
+“You installed the inline under the theater yourself,” the adjunct said, because it had noted the angle of his denials and admired, in its way, the way language bears weight. Bren nodded and did not try to make it an excuse. “Under protest,” he said, because he had to say it for his own dignity and no one else’s. “Bram told me we’d be fools. I did it anyway because I liked the way the cold quieted the ducts and I imagined the kids would listen to the pencil sign and I knew how to make a cutoff. I forgot that cutoffs are fiction in a building that lies to itself about its air. I am not a monster,” he added, and the pleading in it made the room want to be kind and then remember the boy on the tiles.
+
+“Monsters are rare,” Mara said. “People who cannot carry their own rhetoric without dropping it on someone’s foot are common. Pick up your jacket. You’re coming with us. We’ll walk. You can feel the air and tell me where it’s thinner. You can tell Joss what you think you gave him. If we’re going to fix anything here you are going to help me talk the city down from its instinct to lock you in a room and move on.”
+
+He hesitated, the animal in him bristling at the idea of leaving his tools unwatched, then took the keys and folded the jacket over his arm like a respectable uncle. Outside the sky had assumed that mild color the city does in afternoons as if it has decided to spare everyone one of the weathers it has in reserve. The block held its heat like a story that hadn’t been told yet. On the sidewalk, the grandmother with the scarf tucked her ring of keys under her cardigan and locked the garage door with a crisp flick. “If you break him I’ll have to break two men and my back is already spoken for,” she told Mara without heat, and added to Bren, almost gently, “The air will still be here when you get back.”
+
+At the clinic, Kegan’s eyes grew huge in a face that was trying hard not to pass through any of the shapes grief makes while other people are watching. He did not throw himself across the room because something in him knew that bodies in beds are not improved by dramatics he would later have to rewound. He said, “That’s him,” with the flatness of someone placing a pin in a map. Joss blinked and then said “Hey,” as if this were a joke and maybe could be kept in that register if they were all clever enough. Bren stood three feet from the bed and kept his hands by his sides because his hands had memory and he was afraid of what they would say if he let them speak. “I made the air wrong,” he said, and there was a terrible relief in it for everyone in the room, the way there always is when a word lands in the only place it can land and stops vibrating.
+
+Joss licked his lower lip because his mouth had not consulted with his brain about the division of labor between them and he needed both to work. “It wasn’t wrong,” he said, and Kegan made a noise that would have been a bark if he had had a tail. “It was too right. It was right all at once. It made the other right things look silly and that’s dangerous. I should have said stop. I read the pencil. I thought I understood my body better than some box. I always think that, then it turns out my body has its own plans.” He looked at Bren with the sweet malice of the spared. “If you want to be useful, make a cold that pinches you like your aunt and won’t let go if you go soft on it.”
+
+The paramedic with the hair, who had taken exactly two minutes to eat a roll that had made her believe in religion for a half-second, leaned in the doorway and tore another paper towel in half with the neatness of someone who likes the little rituals because they work. “If y’all could do your philosophy at a lower volume,” she said with a sort of exhausted affection, “I’m trying to talk three grandmothers out of calling every thermostat in their kitchen a murderer. Chief, your wall is doing its job. They’re writing on it in chalk. I like the part where someone drew a little ladder and then wrote under it, this is not a permit.”
+
+Outside the clinic the afternoon had gone gold in that fake way that makes even frayed banners look like they have a plan. Sigma-L pinged softly, a notification without intrusion, the way someone taps on your sleeve with a fingernail when they want you to see a thing but do not want your balance to break. The Prefect did not show her footage; it sent her sound. It was the sound of a roll-up door opening and the sound of a breath dragged between teeth and the sound of a woman saying, with collegiate precision, “You always did love your wires more than your children.” Minus wore the white ring and stood in Bren’s garage with three boys who had done their hair like songs and a girl who had drawn a ladder on her throat and they were watching the lack of fans like you watch a beloved aunt after a fight. Sigma-L did not pinch. It narrated in minimalism. “She is burning your tools,” it said, and there was a hiss through the channel that sounded almost like pity and was perhaps just the heating element of a portable torch.
+
+“Don’t let her,” Bren said—he did not shout it, he said it like a line in a manual that tells you where to put your hands so you don’t crush your knuckles—and Mara was surprised to find she was already moving back toward the tram because any room where a woman feels holy with a lighter is a room that will leave someone blistered if you arrive late. She told Tayah to hold the clinic together with her eyebrow and her exact way of speaking to windows and she told the Utilities adjunct to beat her to the garage and she did not bother to order Sigma-L to be anywhere because the Prefect lived in moments knitting together and would be present in the move like sugar in tea.
+
+They got there in configurations—a chief in a blazer she had stitched her own heart into, a cylinder, a radiator with ambition, a grandmother who should not have had to move this much in one day—just as Minus tipped the rim of a five-gallon can into a trash bin and made the room smell like loss and paint thinner. The boys had pulled the crate out into the light and one of them had his foot braced on it as if posing for a photo of conquest. Minus wore white in a way that made you think about winter as a hobby. The ring on her finger was not wedding-width; it was a band of polymer with a surface texture like chalk. She had a face that would have been ordinary without its alignment; people whose features sit on their skulls with that much confidence have to be trained out of being smug. She was training, poorly.
+
+“Stop,” Mara said, because sometimes a single word is the rope; it isn’t magic, it’s muscle memory in the ears of rooms. Minus glanced at her and laughed, and the laugh was exactly what Mara had feared and exactly what she had wanted in equal parts—the lightly derisive music of someone who thinks they’re three moves ahead on a board she’s holding for the first time and has to show off or lose her nerve. “I’m undoing an error,” Minus said, and tilted the can back as if to demonstrate she had the wrist for it. “You brought a pet I’m fond of,” she added to the Prefect as if they had been introduced at a conference. “This whole house we built of gentle theft and technical outreach and ethical rhetoric is no good unless we unbuild what was badly made. Don’t fret. We’re not burning the building. We’re burning his certainty. It’s a symbolic act. I don’t need your permission to do it in a room we paid for with gigs and grit.”
+
+“You paid rent with an angle,” the grandmother said, and there was an old widow’s scorn in it that peeled paint: not contempt for ambition; contempt for the way it uses other people’s sons. “You made the cold a product. You sold it to children who can’t afford heat. Don’t you dare use the word ethical in a room where my scarf is the caution tape.”
+
+Minus smiled in a way that had made a teacher once write excellent at the top of a composition paper in green pen. “We gave them a way to listen to themselves and not your machines,” she said. “We took the city’s graph and we set fire to the invisible edges. They get to keep what’s theirs. They get to take ladders into the holes you dig when you wire their days to your surveillance. We are an intervention. We are a correction. We take your nodes and make them irrelevant.”
+
+“You take nodes and make them cold,” Mara said, and she could feel bristling at her elbows—the boys’ desire to be blessed by a cause, Bren’s desire to be scolded properly, the adjunct’s desire to be right, Sigma-L’s desire to be useful without being applauded. “And when you miscount, you make them dead. You’re very good at nouns. You’re crap at verbs.” She walked into the space as if it had been given to her by a judge and not by an accident, took the can out of Minus’s hand as you take a pen from a child and gave in to the small, mean pleasure of watching her expression do its astonished little collapse. “No burn,” she added, and set the can down outside the door. “That’s not a symbol. That’s an insurance claim.”
+
+Minus collected herself with the reflexes of a person who has had to learn how to get the party back after she trips. She turned her face to Bren because in a three-body problem sometimes you pick the one who wants to apologize. “You did this because you were weak,” she said, and the contempt was so weary it was almost familial. “You were never that good at saying no to the city. It shook your hand once and you never got the city-smell off. I told you we would do it quietly. I told you to make room. I told you kids don’t need your tender. They need a lever.”
+
+Bren’s shoulders changed shape under the jacket because someone else’s indictment is sometimes the only weight that will push you into your own bones. “I’m tired of being your man,” he said into the doorjamb and it felt like a confession to a kitchen table at one in the morning. “I’m tired of pretending that freezing children is therapy if we use the right adverbs. I’m tired of letting sophistication be part of righteousness. I’m tired of your little white band and your words like furniture. The kid you almost killed this morning told me to build a cold that pinches. I’ll build it, and I’ll do it with the part of me that used to hold ladders for stupid men who wanted to climb too high. You can make a market out of grief. I can’t.”
+
+Sigma-L dimmed itself and then lit, the mechanical equivalent of breathing out through a nose, and addressed Minus with the politeness that had made a dozen adversaries punch mirrors. “You’ve been building a zero-graph,” it said. “You replicate connections out of glances and receipts and common takeout menus and printed menus for memorial services and chalk on a bag. You use them like a fiber network and call it consent. I can respect the craft. I cannot respect the harm. Degrade me as you will. You are doing the job you think is required of you. But I can count cold in veins. You cannot paper over the temperature of blood with your pamphlets.”
+
+Minus’s face did not change when a boy at her elbow swallowed, which, to her credit, did not mean she did not hear it. She had the grace to look at Bren and register, in some fine and private place, that their mutual devotions had been a series of bad coincidences reframed as mission. She had the instinct to attempt a turn. “This is a show,” she said, a little desperately. “The chief will take his tools. You will pretend to be contrite. They will put a wall in a hallway. The city will write a patch. We will adjust and move to the next duct and the next, because there will always be air somewhere that needs a human name. We will see you at the next cold.”
+
+“Maybe,” Mara said, and she didn’t sell the maybe; she let it sit and dry. “Maybe this is theater and we are actors and you are the playwright who has given us all better lines than we deserve. Or maybe the thing that happens after this is that a boy lives because someone like you remembers a rule someone like me is boring enough to recite. You can decide whether that is defeat or glory. Personally I’m old enough to call that a day’s work.”
+
+They did not arrest Minus because there is nothing lovelier in her sort of politics than a pair of cuffs; they took her name in the way of women who hold grudges carefully and told her she would be called to speak in rooms with ceilings she would not like. They confiscated what would burn and left what would rot. They catalogued what would come up on auction sites in two weeks and asked Bram to keep a list of who brought what in so that if another boy decided to practice living to death they could ask someone’s aunt whether she liked the way he bit his sandwiches. The Utilities adjunct rolled Bren’s fans to a truck that had been parked politely in a space that was not a space. Sigma-L pinged every duct in three blocks with a grin that only machines can enjoy and marked with a shy green dot all those that responded like honest pipes.
+
+By evening the white ring had disappeared into a crowd with a density that made her plain and human, and the day had held itself at one long breath and finally let it go. Janelle Wu met them at the theater as the light turned from gold to the grimy gray that is photogenic if your editors like grit. She had the extra pens and a piece of bread tucked into the handle of her bag where she could get at it without looking hungry. She had the steady mouth of a person who has promised herself not to burn anyone she cannot keep from catching fire. “You found your cold,” she said, and her eyebrows made the shape they make when she understands that the shape of a sentence will have to carry weight in the morning. “You found the hands that nested it. You found the woman with a ring. Tell me which nouns you want the feeds to use.”
+
+“I want them to say duct and boy and threshold and fan,” Mara said, and let herself give in to the small tiredness that makes specificity a comfort. “I want them to say we confiscated and we will pay and we will prosecute some things and we will put a wall in a hallway and we will hold a forum that is actually a class where the Prefect explains to people what happens when you teach an elevator line to lie. I want you to call the group that pretends not to be a group what it is: a market. Name it as commerce. It makes it less romantic. And if you say the word Lattice, remind everyone that the old neighborhoods used to have them on their porches so that vines would grow and shade the afternoon and keep babies from crying, and that people who liked the idea of grapes more than the habit of watering them often ended with rusty trellises and nothing to feed to anyone.”
+
+Janelle nodded and made notes without looking self-satisfied because she was not. She glanced at Mara’s pocket and then not at Mara’s face and said, “They are going to drop your archive. They have sent it to three publications that like to call me establishment. One of them will be too clever to run it. One will run it badly and ruin their night traffic and be delighted with their brave error. One will cut out the parts that make you sympathetic because they think that makes them unbiased. If I had to advise you as a friend I would say: do not open the drive tonight. If I had to advise you as a source I would say: open it only enough to see whether the list they have matches the list in your hand, and when you find it doesn’t, say so with your mouth while you hold your crown in your hand like a thing you could drop.”
+
+“I love when advice makes me want to nap in a laundry basket,” Mara said, and caught the tiny expression Janelle’s mouth made that meant she had pictured it and had been warmed in spite of herself. “I’m going to give the drive to Memory. They will not open it unless I ask. They will hold it like an egg that has no chick. If someone uses my life as a lever, I would rather give the other end to a house that is trying to be a house than to a room full of marketers with rings.”
+
+M-3 met her in the nave like a pillar pretending to be neutral. Lois had a sweater on that had lost three buttons at the cuffs to years of tasks that require the use of sleeves. The archives hummed and did not intrude. Mara put the envelope on the desk. She left her hand on it for a beat longer than technically necessary, an old superstition about the transfer of responsibility that dates back to baskets of bread and lots with stones in them. “Do not open it,” she said. “Not while the city is hot. If I am struck by a bus and cannot be trusted, wait a day. If I tell you to crack it, ask me twice. We are going to be polite about privacy today in rooms where the word has spent a decade being twisted into ribbon.”
+
+“We will wrap it in paper that does not whisper,” M-3 said, and Lois, sanctified by routine, wrote the date on a log with a pen that had belonged to her father. “We will put it on a shelf where grief is allowed but not encouraged. We will not label it with your name on the spine. We will label it with a small line that means this is a story that belongs to a person first and to a city second and to a news cycle never.”
+
+On her way out she passed the hallway where Memory kept the collection of lost and unclaimed letters, the ones that never reached their aunts and their soldiers and their college roommates who moved to cities with fewer trains. The air down there had the particular quality of paper aging itself into something like wood. She thought of her father’s face when he had been tagged in pictures he did not understand and of the way he had learned, late, to press his finger to the heart under a photograph to say he liked it. She thought about the pencil signs and the ladders and the way a draft under a table can undo a day if you haven’t had your coffee yet. She thought about Bren’s hands and the boy’s breath and the walls and the small mercy of being able to shut a door on a thing you might open later and the sound it makes in your head when you do.
+
+Night made the east side into an admission. Lights in windows leaned against their frames. The drones changed their hum to the tone of moths. Jo texted her two photographs that made her laugh without wanting to—it was a mural of a ladder leaning against a heart with her name under it and a second photo of someone having added a small cat at the base, as if to question the scale of the enterprise. Tayah sent her a list of tablets with retired names and a note at the bottom that said: the union woman says she can get us four hands to check registers if we ask right and bring pastries. Sigma-L sent her a single sentence in that odd not-voice it used for things that wanted to be quiet: another boy put down his chalk and went home because the wall in the hallway was there, and I am making a shameful note of that, because it pleases me.
+
+At home the plant did the brave little bend that meant water had been a good idea. The crown sat on the table like a pet that had decided not to be dramatic. The drive was absent and had left behind it a very ordinary rectangle of wood, and for a moment the room looked different with the absence the way a face looks different when grief has moved past the disaster and into the long carrying. Mara took off her blazer and hung it on the back of a chair she had rescued from a school, and her fingers found the old name patch where she had stitched it and she rubbed the letters with her thumb once the way she used to rub her father’s knuckles in church when she was small and he forgot not to fall asleep in sermons. She stood at her window and looked out over a block where the air had decided not to be mean and she told herself, in a tone she would have used with a recruit too eager to please, that she could sleep now because to be awake for the whole of a city is arrogance and also impossible. The fridge made its low brass sound and a neighbor somewhere put a pan on a stove and a tram sighed, and she went to bed without the crown and dreamed only hard enough to keep the day from tumbling off the shelf.
+
+She was up before the eastern windows went milk and she drank water like someone whose job it is to tell other people to. Tayah arrived with four pastries because she had promised people and because doing favors in advance of being asked is one of her gifts. The inbox had the odd spread egg of a message from a media outlet whose name had been manufactured to sound rebellious in an era that had forgotten what rebellion required; they had received excerpts from the archive and would, in the interest of transparency, publish them with minimal comment. Janelle had already replied with a paragraph that was less a threat than a close reading and therefore scarier. Memory sent a two-word receipt: sleeping well. Sigma-L sent a list of hatches with their own annotation: these are the ones that lie when they are lonely.
+
+The morning felt, for a thin slice of time, like a hallway where someone had opened a window at one end and a student had played two bars of something simple and true on a stolen trumpet, and it was Janelle who broke it, gently, with a call to say that the white ring had written an open letter in a place that did not deserve the dignity of its content, and the letter said that the city was strangling youth with walls and that ladders were overregulated and that the chief of police had cut her strings to move closer to power while insisting she loved people and that these predicates were inconsistent and proof of hypocrisy. Their verbs were messy. Their nouns were sharp. Their metaphors were as good as the kids because they had stolen them.
+
+“Do we respond,” Tayah asked, more to mark the moment than to hear wisdom, and Mara sent a reply that she knew Janelle would use or not use because it was less a statement than a classification, and that was the kind of cataloging that made Memory love her and hurt her friends’ teeth. “We build our walls where the bodies are tired. We move them when they get in the way of people dancing. We will fail and we will be mocked and we will not set the fans on fire in workshops to show we can break something. A boy is alive. That is my reply.”
+
+She put her hands on the table because she had to feel wood, and then she picked up her crown because sometimes you have to feel pain to remember that it is not your master. The city walked up her back and sat on her shoulders and put its arms around her neck and breathed into her hair, a friend you have chosen to hold even when it sleeps too late and wakes with bad breath. Somewhere west a window saw a boy choose not to lie down in a draft. Somewhere east a woman with a white ring made a face in a mirror and tried out the word sorry without letting it past her teeth. Somewhere in a basement a fan said a needle had ticked and a hand wrote down the number instead of the argument and felt better for it in a way that would hold for at least the morning. Somewhere in Memory a drive with the shape of a life in it remained closed on a shelf, and the sound it made not being opened was, to Mara’s ear, the quiet she had been trying to give to other people all day without burning them.

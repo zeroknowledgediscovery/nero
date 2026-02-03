@@ -1,0 +1,174 @@
+REPUTATION ASHES
+By Anonymous
+
+Chapter One: Embers in the Air
+
+The sky over Dalton City bled orange as dusk folded itself across the skyline. Glass towers gleamed like dying coals, and the streets below flickered with fractured neon and honking horns. From the 38th floor of the Huxley Building, Julian Marr looked down at it all, his palms pressed to the cold glass. The city he once ruled with charm, a dazzling smile, and a portfolio of successful tech ventures now glared back like a judge handing down sentence.
+
+"You shouldn’t be here," came a voice from behind.
+
+Julian turned slowly. Alicia Kwan stood with arms folded, her expression unreadable. She wore charcoal like armor, her hair a razor-edged bob that mirrored the precision of her words. She was his former head of PR. Now, she worked for Simon Raddick—Julian’s former business partner and the man who'd set the match to his public downfall.
+
+"I just wanted one more look," Julian said. His voice was hoarse, dry. It hadn't been used in many interviews lately, unless one counted the desperate podcast he recorded in his basement three weeks ago.
+
+"You shouldn’t be here," Alicia repeated, sterner this time.
+
+Julian turned away from the window. "Do they really think I knew about the breaches? That I sold out user data for coin?"
+
+Alicia’s silence was answer enough.
+
+Julian moved to the small conference table, dropped into a chair with a sigh, and pulled a manila folder from his coat. It was frayed at the edges, like him.
+
+"What's that?" she asked, curiosity flickering despite herself.
+
+"Proof. Or... a start."
+
+Alicia hesitated. She took the folder, opened it, eyes skimming quickly.
+
+"Where did you get this?"
+
+"Let's just say not everyone at Raddick Systems is as loyal as Simon thinks."
+
+"You understand if this is fake—"
+
+"It’s not," Julian interrupted. "Check the IP trail. The audit logs. The signatures."
+
+She closed the folder slowly. “Even if it’s real... you’re toxic, Julian. No one will touch you.”
+
+“Then I’ll go to someone who doesn’t care about getting dirty.”
+
+Alicia narrowed her eyes. “Who?”
+
+Julian smiled, bitter and triumphant. “You’ll see.”
+
+Chapter Two: An Uneasy Resurrection
+
+Three days later, Julian sat at the far end of a cramped café in East Wharfton, a district better known for pawn shops and probation offices than caffeine and conversation. Across from him sat a man in an old bomber jacket with the smell of engine grease clinging to him like a second skin.
+
+"You want me to what?" the man—Leo Rist—asked, leaning back with a skeptical snort.
+
+"I want you to break into Raddick Systems' offsite archive server. Virtually, not physically. I'm not that far gone." Julian’s smile didn’t reach his eyes.
+
+"You’re asking me to commit a felony because you think some... audit trail will vindicate you?"
+
+"It won't just vindicate me. It'll prove Simon orchestrated the breach, blamed me, and scrubbed the trail."
+
+Leo sipped his lukewarm coffee, expression unreadable. “People don’t like you, Julian. Half of them think you’re arrogant, the other half think you're a liar.”
+
+“I was arrogant. I lied. But not about this.”
+
+Leo nodded slowly. “If I help you... you owe me. Not money.”
+
+Julian tilted his head. “What, then?”
+
+“I want my sister’s app reinstated in the AppWorld ecosystem. You blacklisted it after she turned down your offer to acquire it.”
+
+Julian flinched. “That wasn’t personal.”
+
+“It was to her.”
+
+Julian sighed. “Fine. Done.”
+
+Leo slid a drive across the table. “I’ll need credentials. Old ones. Anything.”
+
+Julian handed over a small envelope. “Be careful. He’s watching everything.”
+
+“Always is.”
+
+Chapter Three: Haunting Algorithms
+
+The next night, Julian stared at his laptop screen as Leo tunneled into the archive. Alicia had gone silent, her texts unread, her calls missed. Perhaps she'd chosen a side already.
+
+Leo’s voice crackled through the speaker. “I’m in. You’re not gonna believe what I’m seeing.”
+
+Julian leaned forward. “Try me.”
+
+“There’s a ghost server. Not on the main net. Hidden. Backed by multiple offshore hosts. It has every user’s behavioral map for the last five years. Who they date, what they fear, how often they wake up at night.”
+
+Julian’s stomach turned. “Weaponized psychology. They built a prediction model.”
+
+“They perfected it. And Simon’s licensing it to governments. Through a shell called RedHelix.”
+
+Julian’s throat dried. “That wasn’t even part of our mission. This was supposed to be about wellness tech. Not surveillance.”
+
+Leo’s voice dropped low. “I’m downloading a copy. You’re going to need to go public. Fast.”
+
+Chapter Four: Broken Mirrors
+
+Julian held the press conference in the only venue that would host him—an old community theater in Brentshaw. The projector screen was crooked. The carpet smelled of mildew and regret.
+
+He stood at the podium, sweat forming at his collar, as a small crowd of independent journalists and half-curious citizens watched.
+
+“I know what you’ve heard about me,” he began, voice cracking. “Most of it is true. I made bad decisions. I betrayed trust. But I did not betray our users.”
+
+Clicks of cameras. Scribbles on notepads.
+
+“I have here,” he held up a flash drive, “proof that Simon Raddick is the one who sold your lives for profit. He blamed me because he knew I’d burn too easily. Because I already had a trail of ego behind me.”
+
+He plugged the drive into the laptop. The first slide read: REDHELIX USER BEHAVIORAL MAPPING: 2018–2024.
+
+Gasps. A low murmur.
+
+Then silence.
+
+Until a voice from the crowd, sharp and certain: “What’s to stop them from saying you made all this up?”
+
+Julian looked into the crowd. “I’ve given copies to independent experts. To watchdogs. And to someone who helped build the very system this data came from. It’s already out there. This time... I can’t be erased.”
+
+Chapter Five: Glass Kingdoms
+
+The fallout was swift. Raddick Systems' stock plunged 63% in a week. Government investigations opened in six countries. Simon Raddick denied all involvement, but his vice president of data architecture vanished to a cabin in Bulgaria, and Alicia Kwan—finally—called Julian.
+
+“They’re going to come after you,” she said.
+
+“I know.”
+
+“You were smart not to go to the major outlets first. They’d have buried you.”
+
+He paused. “You believed me. Eventually.”
+
+“You believed in yourself. That’s rare these days.”
+
+They met in a neutral bar in Midlark, far from the noise. She looked older, more tired. So did he.
+
+“Your reputation’s still a mess,” she said after the second drink.
+
+“I don’t want it back. Not like it was.”
+
+“Then what?”
+
+“I want something better. Something real.”
+
+She studied him. “Start again?”
+
+Julian smiled, a tired smile, but one rooted in truth this time.
+
+“No. Start honest.”
+
+The smell of old carpet and ozone lingered in the air. The Huxley Building had been scrubbed clean of Julian’s legacy, his name peeled from the glass in the lobby, his portrait taken down from the Wall of Innovation. A younger man had replaced him—one with no blemishes yet, all teeth and LinkedIn polish. Julian moved like a ghost through hallways that once opened at his presence.
+
+He hadn't told Alicia everything. There were some things he wasn’t ready to say—not yet. Not about the night three months ago when the breach first occurred. Not about how he had opened the strange email from a "client" in Jakarta, only to find himself locked out of his own servers twenty minutes later. Not about the call from Simon at 2:47 a.m., cold and clipped: “I’ve fixed it. But there will be consequences.”
+
+Back then, Julian had believed him. Back then, Julian had still believed in a lot of things.
+
+Now he drove across the river to an apartment in Glass Hollow, where the blinds were always drawn and the heat made the wood in the floors sweat. It was there, in the half-light, that he began to build his plan—not a scheme, not revenge, but something that might be mistaken for redemption if one squinted hard enough. His laptop, the one no IT department had ever scanned, was laid out on a fold-out table with four mismatched chairs. A corkboard stood against the far wall, riddled with string and scribbled names: Simon's lieutenants, system vulnerabilities, hush fund accounts, two journalists, one hacker, one ex-convict.
+
+He wasn't foolish enough to think that he could undo the past. But he could muddy it, maybe. Show the cracks in the narrative. Poke holes in the truth that had been told without his consent.
+
+He kept hearing the same sentence in his head, over and over again, like a song lyric that refused to leave: “We don’t care who built the house, only who let it burn.”
+
+The first thing he did was reach out to the journalist who had once tried to expose the bloat in his startup budgets—Vera Tamsin. She was smart, cynical, and had no reason to like him. That made her perfect. He sent her an anonymous tip with a one-line message: "Check the metadata on the public breach logs—version history was doctored."
+
+Then he waited.
+
+He spent two days pacing his apartment, eating peanut butter from a jar and checking for surveillance equipment he knew wasn’t there. The email came on the third morning. No greeting. No name. Just a time and place: “Red Cup Café, East Fremont. 11 a.m. Come alone.”
+
+Red Cup was the kind of place where the furniture looked like it had been repurposed from a high school auditorium. Paintings of dogs in monocles hung crooked on the walls. The coffee was terrible. Julian arrived early and sat in the far back booth. He wore a hoodie pulled low and sunglasses, like a man trying to hide in plain sight but not doing a very good job of it.
+
+Vera Tamsin arrived ten minutes late. Her hair was tied back in a rough bun, her jacket rumpled, her eyes sharp behind wireframe glasses. She slid into the booth across from him without saying a word, set down a battered tablet, and tapped it twice.
+
+"You’re lucky I’m not the vindictive type," she said finally.
+
+Julian tried a smile. It didn't hold. "You’re here. That’s something."
+
+"You 

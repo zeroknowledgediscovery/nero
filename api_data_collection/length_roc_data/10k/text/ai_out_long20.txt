@@ -1,0 +1,159 @@
+Title: Echoes of Fire
+
+Chapter One: The Cinders Beneath the Ash
+
+The rain had long since turned to steam where it touched the concrete of Kenzie Armitage’s boots. She stood in the alley behind the repurposed textile mill, staring up at the brick façade like it was a relic from some forgotten age. The year was 2031, but in some corners of Chicago, time moved sideways. The banner above the door fluttered in the wind: Coalition for the Real Future. Most people called it the CRF, and most people, if they were honest, didn’t want anything to do with it.
+
+Kenzie checked her watch. 7:58 p.m. She was two minutes early, which meant she was already breaking her first rule: never be the first one at a meeting. It screamed desperation, and desperation smelled like blood to the wrong people.
+
+Inside, the room buzzed with low conversation, folding chairs scraping the floor, old projector flickering with the blue glow of a looping slideshow. Pictures of wildfires, oil spills, faces behind gas masks. Kenzie slipped into a seat near the back and tried to look like she belonged. Her coat, too thin for the weather, dripped quietly onto the linoleum. She reached into the pocket and felt the crinkle of paper—her speech, half-scribbled in the dark of her apartment, half-rewritten at a bus stop.
+
+“Armitage?” a voice said.
+
+She turned. A lanky man with auburn braids and a nose stud held out his hand. “Devi Bhatt,” he said, “I’m coordinating tonight.”
+
+She shook his hand, nodding. “Kenzie. First meeting.”
+
+Devi grinned, the kind of grin people give when they think they’ve found a recruit. “Well, then,” he said, motioning toward the front, “I hope you’re ready to be furious.”
+
+The meeting began with a video of drilling sites in the Arctic, narrated by a voice too calm for the horror on screen. Someone shouted something about blood politics and the carbon aristocracy. Kenzie half-listened. She was watching the people.
+
+There was Leah, mid-thirties, sleeves rolled up past her elbows and a small child asleep on her lap. A wiry kid named Marcus who tapped his knee in time with the slogans. And in the corner, quiet as a grave, a woman with gray braids and a pin on her lapel: Resist.
+
+Devi was speaking now. “We’re not here to rant,” he said. “We’re here to act. The city council votes on Ordinance 114 next week—”
+
+“—the infrastructure grant for biofuel retrofits,” someone said.
+
+Devi nodded. “Buried in that grant is a clause giving Flexigas Corp a thirty-year lease on South Shore port access. You know what that means.”
+
+Kenzie did. She’d read the documents. She knew about Flexigas—how they’d buried data on methane leaks, lobbied to criminalize whistleblowing. And she knew what South Shore meant. Her father had worked the docks before they closed. Her mother still lived three blocks from the floodplain.
+
+The group erupted into talk. Some wanted to stage a sit-in at City Hall. Others pushed for direct sabotage—data leaks, drone footage. The woman with the Resist pin finally spoke.
+
+“There’s another way,” she said, standing. “I’ve got files. Procurement records. Off-the-books shipments. You want to move public opinion, you need a story. You want to stop a machine, you pull the wire from the wall.”
+
+Kenzie felt her heart race. That was it. That was what she’d come for—not slogans, not theory. Action. Real, messy, hard action.
+
+Devi looked at her. “Kenzie, right? You said it’s your first meeting. What brought you here?”
+
+She paused. Her mind went to the smell of diesel in her neighborhood, the ache in her mother’s lungs, the job she lost for asking questions.
+
+“My mother,” she said. “She’s got asthma. Five ER visits in two years. No one’s cleaning up the air. I’m done waiting for them to fix it.”
+
+Someone clapped. Someone else shouted, “That’s the spirit!”
+
+But in her gut, Kenzie knew it wasn’t about spirit. It was about endurance.
+
+—
+
+That night, walking home, she took a detour past the old freight yard. The fence was rusted through in places. Her boots left wet tracks on gravel and oil-slicked puddles. Somewhere out there, behind locked gates and sensor grids, were the tankers and trailers of Flexigas, hidden behind shell companies and NDAs.
+
+Her phone buzzed. A text from an unknown number: You spoke well tonight. Let’s talk. —Cora.
+
+Cora. The woman with the gray braids.
+
+Kenzie smiled to herself, shoved her hands into her pockets. The wind off the lake cut through her coat, but she didn’t shiver. She felt warm, for the first time in weeks. Maybe it was hope. Maybe just adrenaline.
+
+—
+
+Chapter Two: Faultlines
+
+Three days later, Kenzie was sitting in Cora’s kitchen drinking black tea that tasted like wood smoke and cloves.
+
+“This used to be a safehouse,” Cora said, lighting a cigarette. “Back in the day. Labor strikes, sit-ins, union busts. Now it’s just me and a few cats.”
+
+Kenzie glanced around. There were no cats.
+
+Cora exhaled a plume of smoke toward the cracked window. “You want to fight Flexigas? You’re going to need more than chants and a Sharpie.”
+
+“I figured.”
+
+“I have a contact inside municipal procurement. They’ve been leaking records to me for years. But there’s too much. Thousands of PDFs. You any good with code?”
+
+Kenzie shrugged. “I used to write regex scrapers for a metadata archive. Part-time.”
+
+Cora raised an eyebrow. “That’ll do. Take this.” She handed over a thumb drive. “Encrypted. Password’s the name of the judge who ruled in favor of the Rivergate land seizure. You’ll figure it out.”
+
+Kenzie took it, palms suddenly sweaty. This was real. Not theory. Not protest. Evidence.
+
+—
+
+The nights blurred. She stayed up scraping files, watching lines of data scroll past: shipment manifests, bid records, internal memos. She found discrepancies—freight weights that didn’t add up, subcontractors with no real office. She mapped the movements of Flexigas equipment through shell companies like tracing veins through a poisoned body.
+
+Marcus joined her. Turns out he was a dropout from Northwestern’s computational journalism program. “School’s a racket,” he said. “They want you to tell polite stories. This—this is real.”
+
+They called it “Project Vein.”
+
+Each leak was timed. A dossier on missing air monitors near the schools in South Shore. A voice recording of a Flexigas VP laughing about “acceptable casualty margins.” Each post drew attention. Some from journalists. Some from trolls. Some from people who wanted them dead.
+
+Kenzie moved in with Marcus after a brick went through her mother’s window. They took turns keeping watch.
+
+“We’re not ready,” Marcus whispered once, when they heard the drone outside.
+
+Kenzie didn’t answer. Because he was right. But they’d crossed a line. There was no going back.
+
+—
+
+Chapter Three: Days of Ash
+
+The morning the explosion hit, Kenzie was watching live drone footage from an anonymous streamer. South Shore Docks, 4:17 a.m. A fireball bloomed against the lake like a second sun. Sirens screamed before the signal cut.
+
+They knew it wasn’t them. But no one else did.
+
+A knock on the door. Cora. Her face pale. “You need to go,” she said. “They’re going to pin this on us.”
+
+“But we didn’t—”
+
+“They don’t care.”
+
+Kenzie grabbed the backup drive. Marcus took the hard copies.
+
+“Where?”
+
+“Underground station on 31st. I’ve got a contact with a tunnel key.”
+
+The city erupted into lockdown within hours. News anchors used the word “eco-terrorism.” Commentators called for federal intervention. The governor declared a state of emergency.
+
+By midnight, Leah’s kid was missing.
+
+By morning, Leah herself had been arrested.
+
+Kenzie watched the footage, her hands shaking. “This wasn’t the plan,” she said.
+
+“There is no plan,” Cora replied. “Only pressure. Only leverage. We either break their narrative or we’re ghosts.”
+
+Marcus turned from the window. “So we ghost.”
+
+—
+
+The underground tunnels ran dark and cold. Kenzie could hear the water drip from ancient pipes, smell the mildew and rust. At some point, Marcus started muttering something—code? poetry? A fragment of a song?
+
+They emerged near Union Station, blinking in the gray dawn.
+
+Cora handed Kenzie a burner phone. “We get this next leak out,” she said, “it flips the whole board. The offshore accounts, the bribery chain—everything. But we only get one shot. You in?”
+
+Kenzie looked at the skyline, at the steam rising from shattered streets. She saw fire. And memory. And something just beyond reach—truth, maybe.
+
+“I’m in,” she said.
+
+Two days after the meeting, Kenzie sat alone in the back of Miller's Café, a narrow slip of a place with cracked vinyl booths and a faint odor of burned espresso. The only other occupant was an old man dozing by the window, his newspaper still open to a headline about the South Shore rezoning. Kenzie wasn’t reading—her eyes moved across the page, but her mind retraced the conversation with Devi and Cora.
+
+Cora’s voice echoed in her head: You want to stop a machine, you pull the wire from the wall.
+
+But what if the wire wasn’t visible? What if it was buried behind laws, lawyers, and corporate firewalls? Kenzie pulled her notebook from her coat and began sketching connections. Flexigas. The city council. South Shore. Environmental impact studies—doctored, if the rumors were true. She drew lines, arrows, circled names. She’d always been better with systems than speeches.
+
+“Looks like murder,” said a voice across the table.
+
+She looked up sharply. Devi stood there, a paper bag in one hand, steaming coffee in the other. His hair was pulled back today, braid looped in a knot. He slid into the seat without asking.
+
+“It’s not murder,” Kenzie said. “It’s... preparation.”
+
+Devi grinned. “Good. I hoped you’d be the obsessive type.”
+
+He reached into the bag and pulled out two egg sandwiches, setting one in front of her. “Cora says you’ve got instincts. Me, I think you’ve got fire. But the kind that simmers.”
+
+Kenzie hesitated before taking the sandwich. “Fire burns out.”
+
+“Only if it doesn’t spread.”
+
+There was silence as they ate. Outside, buses hissed past on s

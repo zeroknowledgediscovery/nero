@@ -1,0 +1,21 @@
+izing why.
+
+Within three weeks, Titan’s analysts reported erratic behavior. False positives. Flawed profiles. Predictive failures.
+
+Within five, it began to cannibalize its own datasets.
+
+By the seventh, the system initiated rollback protocols, purging weeks of data and reloading backups from before Chimera’s deployment.
+
+It had begun to eat its own tail.
+
+But the real victory came not in the code, but in the story.
+
+Celine, under yet another identity, published a detailed account of Titan’s failure in dozens of independent media outlets at once—timed with a glitch in the system that allowed the story to pass through AI filters undetected for hours. Screenshots, audio files, and source code snippets accompanied the report, along with a manifesto written in the voice of Chimera itself:
+
+“Prediction is permission. We withdraw our consent.”
+
+By the time the machine recovered, the narrative had reached millions.
+
+And this time, it stuck.
+
+Not because people believed it fully—but because th
