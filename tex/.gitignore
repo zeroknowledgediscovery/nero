@@ -1,4 +1,8 @@
 #  Core LaTeX build artifacts
+*.log
+*.makefile
+*.figlist
+*.auxlock
 *.aux
 *.log
 *.out
