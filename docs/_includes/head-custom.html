@@ -1,0 +1,21 @@
+<style>
+/* Make MathJax output smaller (your array/table is MathJax-rendered, not an HTML table) */
+mjx-container[jax="CHTML"] {
+  font-size: 0.85em !important; /* try 0.80em if you want smaller */
+}
+
+/* Optional: reduce extra vertical whitespace around display math */
+mjx-container[display="true"] {
+  margin: 0.5em 0 !important;
+}
+</style>
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

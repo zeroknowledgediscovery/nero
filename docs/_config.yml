@@ -1,0 +1,8 @@
+title: Zebra Pilot
+description: BI - Paraknowledge - UKy Collaboration for ILD/IPF Prediction
+theme: jekyll-theme-modernist
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
