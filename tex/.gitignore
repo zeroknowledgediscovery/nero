@@ -1,0 +1,53 @@
+#  Core LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+
+# BibTeX / Biber
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Index / glossary
+*.idx
+*.ilg
+*.ind
+*.glo
+*.gls
+*.glg
+*.acn
+*.acr
+*.alg
+
+# Hyperref
+*.brf
+
+# Latexmk / arara
+.latexmkrc
+.arara.log
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.#*
+
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
