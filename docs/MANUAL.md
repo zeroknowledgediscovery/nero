@@ -35,3 +35,5 @@ Cmdline Args.(param. may be set in <configfile>):
   -V [ --version ]                  print version number
 
 ```
+
+<img src="perfnew.png" width="600" alt="Performance">
