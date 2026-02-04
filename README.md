@@ -2,10 +2,11 @@
 
 https://zeroknowledgediscovery.github.io/nero/
 # NERO: Nonparametric Entropy-Rate Oracle
+# NERO: Nonparametric Entropy-Rate Oracle
 
 NERO is a model-agnostic, training-free method for estimating the entropy rate of long-form text and using it as an intrinsic complexity signature for distinguishing human-authored prose from AI-generated text.
 
-This repository accompanies the paper **“Complexity Signature of Generated Text”** (Schmidt & Chattopadhyay, 2026).
+This repository accompanies the paper **“Complexity Signature of Generated Text”** (Schmidt & Chattopadhyay, 2026). fileciteturn0file0
 
 ## What NERO does
 
