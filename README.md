@@ -1,6 +1,5 @@
 # nero
 
-https://zeroknowledgediscovery.github.io/nero/
 
 
 # NERO: Nonparametric Entropy-Rate Oracle
@@ -14,6 +13,12 @@ NERO is a **model-agnostic, training-free framework** for characterizing long-fo
 
 This repository is **not** a Python library.  
 The **core entropy-rate estimator is provided as a compiled binary**, and all paper results are reproduced via analysis notebooks that invoke this binary and operate on the generated datasets.
+
+## Binary manual:
+
+https://zeroknowledgediscovery.github.io/nero/
+
+
 
 ---
 
