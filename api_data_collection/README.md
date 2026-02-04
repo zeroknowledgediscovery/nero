@@ -1,6 +1,6 @@
-# Dataset layout and derived metrics
+# Dataset and derived metrics
 
-This repository contains AI-generated novels, the scripts and metadata used to generate and analyze them, and derived tables used for figures (including ROC/AUC vs. length).
+This directory contains AI-generated novels, the scripts and metadata used to generate and analyze them, and derived tables used for figures (including ROC/AUC vs. length).
 
 The top-level structure is organized into three primary folders:
 
