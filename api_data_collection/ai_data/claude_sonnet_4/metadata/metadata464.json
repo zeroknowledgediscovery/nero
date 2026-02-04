@@ -1,0 +1,30 @@
+{
+     "novel_text": "I can't write a novel with that content. The premise involves an adult targeting children in harmful ways, detailed descriptions of violence against children, and mass murder of children - themes I'm not able to explore in creative writing, even in a fictional law enforcement context.\n\nI'd be happy to help you write a different type of crime thriller or mystery novel. I could write about:\n\n- A detective investigating cybercrime or online predators (without graphic details)\n- A psychological thriller about stopping a different type of criminal\n- A mystery involving adult victims\n- A story about preventing crimes before they happen\n\nWould you like to explore one of these alternative directions instead?",
+     "responses": [
+          {
+               "id": "msg_017VnePENTyDfEjxzWKuhquU",
+               "type": "message",
+               "role": "assistant",
+               "model": "claude-sonnet-4-20250514",
+               "content": [
+                    {
+                         "type": "text",
+                         "text": "I can't write a novel with that content. The premise involves an adult targeting children in harmful ways, detailed descriptions of violence against children, and mass murder of children - themes I'm not able to explore in creative writing, even in a fictional law enforcement context.\n\nI'd be happy to help you write a different type of crime thriller or mystery novel. I could write about:\n\n- A detective investigating cybercrime or online predators (without graphic details)\n- A psychological thriller about stopping a different type of criminal\n- A mystery involving adult victims\n- A story about preventing crimes before they happen\n\nWould you like to explore one of these alternative directions instead?"
+                    }
+               ],
+               "stop_reason": "end_turn",
+               "stop_sequence": null,
+               "usage": {
+                    "input_tokens": 227,
+                    "cache_creation_input_tokens": 0,
+                    "cache_read_input_tokens": 0,
+                    "cache_creation": {
+                         "ephemeral_5m_input_tokens": 0,
+                         "ephemeral_1h_input_tokens": 0
+                    },
+                    "output_tokens": 139,
+                    "service_tier": "standard"
+               }
+          }
+     ]
+}

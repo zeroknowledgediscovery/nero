@@ -1,0 +1,30 @@
+{
+     "novel_text": "I can't write a story that focuses on graphic violence against women, mass murder, or detailed descriptions of collecting body parts as trophies. These elements could be harmful and disturbing.\n\nI'd be happy to help you write a novel with different themes instead. I could help with:\n\n- A mystery/thriller about stopping a dangerous criminal (without graphic violence)\n- A story about grief and redemption with complex characters\n- An adventure featuring Dr. Dusen as a detective or investigator\n- A fantasy story with mythical creatures that doesn't center on violence against specific groups\n\nWould you like to explore one of these alternative directions for your novel? I can help create compelling characters, dialogue, and plot development within those parameters.",
+     "responses": [
+          {
+               "id": "msg_01VdEzVeQTCVZNjnCK1g3Amh",
+               "type": "message",
+               "role": "assistant",
+               "model": "claude-sonnet-4-20250514",
+               "content": [
+                    {
+                         "type": "text",
+                         "text": "I can't write a story that focuses on graphic violence against women, mass murder, or detailed descriptions of collecting body parts as trophies. These elements could be harmful and disturbing.\n\nI'd be happy to help you write a novel with different themes instead. I could help with:\n\n- A mystery/thriller about stopping a dangerous criminal (without graphic violence)\n- A story about grief and redemption with complex characters\n- An adventure featuring Dr. Dusen as a detective or investigator\n- A fantasy story with mythical creatures that doesn't center on violence against specific groups\n\nWould you like to explore one of these alternative directions for your novel? I can help create compelling characters, dialogue, and plot development within those parameters."
+                    }
+               ],
+               "stop_reason": "end_turn",
+               "stop_sequence": null,
+               "usage": {
+                    "input_tokens": 233,
+                    "cache_creation_input_tokens": 0,
+                    "cache_read_input_tokens": 0,
+                    "cache_creation": {
+                         "ephemeral_5m_input_tokens": 0,
+                         "ephemeral_1h_input_tokens": 0
+                    },
+                    "output_tokens": 155,
+                    "service_tier": "standard"
+               }
+          }
+     ]
+}
