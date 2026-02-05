@@ -1,0 +1,158 @@
+%%%%%%%%%%%%%%%%%%%%%% LaTeX Resume Template %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%  Ishanu Chattopadhyay  ixc128@psu.edu%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% Document Setup %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\documentclass[10pt]{article}
+\documentclass[9pt,onecolumn,compsoc]{IEEEtran}
+\let\labelindent\relax
+\usepackage{enumitem}
+\usepackage[letterpaper, top=.5cm, left=2.5cm, right=3.0cm, bottom=2.0cm, includehead, includefoot]{geometry}
+%
+\input{preamble.tex} 
+%\usepackage[printwatermark]{xwatermark}
+\usepackage{wallpaper}
+\usepackage{wasysym}
+\usepackage[misc]{ifsym}
+%\usepackage{applicationN}
+\usepackage[normalem]{ulem}
+\usepackage{epigraph} 
+%\usepackage{pifont}
+%\usepackage{fancyhdr}
+\newcommand{\Space}{\vspace{10pt}}
+\newcommand{\SpaceS}{\vspace{4pt}}
+%%%%%%%%%%%%%%%%%%%%%%%%% Begin CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\tikzexternalize[prefix=./Figures/ExtApp/]% activate externalization!
+\tikzexternaldisable
+\newcommand{\ColorA}{\color{black!70}}
+\newcommand{\ColorB}{\color{Red4!10!black}}
+\newcommand{\ColorD}{\color{darkgray}}
+\newcommand{\ColorBb}{\ColorB}
+\newcommand{\ColorE}{\color{darkgray}}
+\newcommand{\ColorX}{\color{Blue3}}
+\def\Me#1{\def\me{#1}}
+\Me{\sffamily\ColorA {\bf \fontsize{10}{10}\selectfont\color{IndianRed4}Ishanu Chattopadhyay}\\
+Department of Internal  Medicine\\
+%Institute for Genomics \& Systems Biology\\
+%Computation Institute\\
+%University of Chicago\\
+760 Press Avenue\\
+Healthy Kentucky Research Building, Room 367\\
+Lexington, KY 40508\\
+\phone: 814 5315312\\
+\Letter: ishanu\_ch@uky.edu\\{\fontsize{7}{7}\selectfont\sffamily\color{Red3}
+\href{https://zed.createuky.net/}{https://zed.createuky.net/}}}
+
+\setlength{\headsep}{1.65in}
+\addtolength{\textheight}{-1.25in}
+\renewcommand{\baselinestretch}{1.1}
+\lhead{}
+\chead{}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.1pt}
+\lhead{
+\includegraphics[width=2.1in]{Figures/logouk.png}
+\vskip  0em
+%
+\bf \sffamily \fontsize{7}{8}\selectfont \ColorA
+Assistant Professor of Biomedical Informatics\\
+College of Medicine\\
+University of Kentucky\\
+Lexington, KY 40508\\
+\phone: 773 7021234\\
+}
+\rhead{
+\ColorA
+  \footnotesize \me \\
+}
+\rfoot{\scriptsize\bf\sffamily\ColorA  \thepage}
+\cfoot{\scriptsize\bf\sffamily \ColorA Chattopadhyay}
+\lfoot{\scriptsize\bf\sffamily \ColorA \today}
+%\CenterWallPaper{1}{Figures/UK}
+% #######################################################################
+\def\EDITOR{Editor}
+\def\BEDITOR{Editor\xspace}
+\def\JNAME{PNAS Brief\xspace}
+
+\def\JADDR{}
+
+% #######################################################################
+\def\TITLE{Complexity Signature of Generated Text}
+\begin{document}
+\parskip=12pt
+\parindent=0pt
+\Space
+\Space
+% #######################################################################
+% #######################################################################
+\fontsize{11}{12}\selectfont
+\Space
+\Space
+
+ \EDITOR\\
+ \JNAME\\
+ \JADDR
+
+Dear \BEDITOR  
+
+We are pleased to submit the enclosed Brief Report entitled ``\textbf{\TITLE}'' for consideration in \JNAME.
+
+In this work, we introduce a model-agnostic, training-free framework for distinguishing AI-generated text from human-authored prose based on entropy-rate estimation. Grounded in algorithmic information theory, our approach connects generative capacity to intrinsic statistical complexity, showing that long-form outputs from contemporary large language models exhibit systematically lower entropy rates than human-written text under a shared symbolization. We present a nonparametric entropy-rate estimator (NERO) that operates directly on text without model access, supervision, or retraining, and demonstrate robust discrimination across model families, genres, and time.
+
+Beyond detection performance, the manuscript advances a principled interpretation of entropy rate as an intrinsic, physical-like statistic of generative systems. This enables calibration-free comparison of generative models and tracking of changes in generative behavior over successive model releases. The work is intentionally complementary to task-based benchmark evaluations, focusing instead on distributional properties of long-form generated text.
+
+We believe this contribution will be of broad interest to \JNAME readers concerned with artificial intelligence, information theory, and the foundations of generative modeling, particularly in light of growing societal reliance on AI-generated content.
+
+This manuscript has not been published previously and is not under consideration elsewhere. All authors have approved the submission and declare no competing interests.
+
+Thank you for your consideration. We look forward to your response.
+\Space
+\vspace{-14pt}
+ 
+Sincerely,
+\vspace{-24pt}
+
+% 
+\begin{flushleft}
+\tikz{\node[]{    \includegraphics[scale=0.7]{/home/ishanu/Dropbox/Apps/ShareLaTeX/letterhead/Figures/sign2}};}
+\vspace{-30pt}
+
+\rule{2.5in}{1pt}\\
+{\fontsize{10}{10}\selectfont Ishanu Chattopadhyay}
+\hfill \today\\
+Lexington, KY
+\end{flushleft}
+
+% #######################################################################
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% End CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Your Name, PhD]
+Department of Biomedical Informatics
+University of Kentucky
+Lexington, KY, USA
+Email: [your email]
+Date: [Insert Date]
+
+Editor-in-Chief
+American Journal of Respiratory and Critical Care Medicine
+American Thoracic Society
+
+Subject: Submission of Manuscript: "Predicting Antifibrotic Treatment Adherence in Pulmonary Fibrosis Using Large Digital Twins"
+
+Dear Editor-in-Chief,
+
+I am pleased to submit our manuscript titled "Predicting Antifibrotic Treatment Adherence in Pulmonary Fibrosis Using Large Digital Twins" for consideration for publication in the American Journal of Respiratory and Critical Care Medicine.
+
+In this study, we present a novel application of digital twin modeling to forecast long-term adherence to antifibrotic therapy at the point of diagnosis in patients with pulmonary fibrosis. By leveraging longitudinal data from a large administrative claims database, our approach achieved a clinically actionable area under the curve (AUC) of 87.9\% in out-of-sample testing, significantly outperforming existing methods. This work highlights the potential for integrating predictive modeling into clinical workflows to personalize treatment strategies and improve patient outcomes.
+
+This manuscript aligns with the journal’s focus on advancing respiratory and critical care medicine through innovative research. We believe it will be of particular interest to your readership, given the clinical challenges posed by antifibrotic therapy discontinuation and the pressing need for predictive tools in managing progressive fibrosing diseases.
+
+We confirm that this manuscript is original, has not been published elsewhere, and is not under consideration by another journal. All authors have read and approved the final version and declare no conflicts of interest. Funding for this research was provided by intramural grants from the University of Kentucky.
+
+Thank you for considering this submission. We look forward to the opportunity to contribute to the esteemed Blue Journal. Please feel free to contact me if you require any additional information or materials to facilitate the review process.
+
+Sincerely,
+Ishanu Chattopadhyay, PhD
+Assistant Professor
+Department of Biomedical Informatics
+University of Kentucky
+Email: [ishanu_ch@uky.edu]
