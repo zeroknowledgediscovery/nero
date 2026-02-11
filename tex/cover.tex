@@ -53,8 +53,7 @@ Lexington, KY 40508\\
 \vskip  0em
 %
 \bf \sffamily \fontsize{7}{8}\selectfont \ColorA
-Assistant Professor of Biomedical Informatics\\
-College of Medicine\\
+Assistant Professor of Biomedical Informatics and Computer Science\\
 University of Kentucky\\
 Lexington, KY 40508\\
 \phone: 773 7021234\\
@@ -70,7 +69,7 @@ Lexington, KY 40508\\
 % #######################################################################
 \def\EDITOR{Editor}
 \def\BEDITOR{Editor\xspace}
-\def\JNAME{PNAS Brief\xspace}
+\def\JNAME{PNAS Nexus\xspace}
 
 \def\JADDR{}
 
@@ -91,15 +90,17 @@ Lexington, KY 40508\\
  \JNAME\\
  \JADDR
 
+
+ 
 Dear \BEDITOR  
 
 We are pleased to submit the enclosed Brief Report entitled ``\textbf{\TITLE}'' for consideration in \JNAME.
 
-In this work, we introduce a model-agnostic, training-free framework for distinguishing AI-generated text from human-authored prose based on entropy-rate estimation. Grounded in algorithmic information theory, our approach connects generative capacity to intrinsic statistical complexity, showing that long-form outputs from contemporary large language models exhibit systematically lower entropy rates than human-written text under a shared symbolization. We present a nonparametric entropy-rate estimator (NERO) that operates directly on text without model access, supervision, or retraining, and demonstrate robust discrimination across model families, genres, and time.
+In this work, we introduce a model-agnostic, training-free framework for quantifying intrinsic complexity of long-form text as entropy rate under a fixed coarse graining. Grounded in algorithmic information theory, we connect effective generative capacity to statistical complexity, and show that outputs from contemporary large language models occupy systematically lower entropy-rate regimes than human-authored corpora under a shared symbolization. We present a nonparametric entropy-rate estimator (NERO) that operates directly on text without model access, supervision, or retraining, and demonstrate robust separation across model families, genres, and release times.
 
-Beyond detection performance, the manuscript advances a principled interpretation of entropy rate as an intrinsic, physical-like statistic of generative systems. This enables calibration-free comparison of generative models and tracking of changes in generative behavior over successive model releases. The work is intentionally complementary to task-based benchmark evaluations, focusing instead on distributional properties of long-form generated text.
+Beyond discrimination, the manuscript advances a principled interpretation of entropy rate as an intrinsic, physical-like, order-parameter-like statistic of generative systems. This enables calibration-free comparison of generative models and tracking of distributional drift over successive model releases. The work is complementary to task-based benchmark evaluations, focusing instead on distributional properties of long-form text.
 
-We believe this contribution will be of broad interest to \JNAME readers concerned with artificial intelligence, information theory, and the foundations of generative modeling, particularly in light of growing societal reliance on AI-generated content.
+We believe this contribution will be of interest to \JNAME readers working at the intersection of artificial intelligence, information theory, and complex systems, particularly those concerned with model-agnostic evaluation and longitudinal characterization of generative behavior.
 
 This manuscript has not been published previously and is not under consideration elsewhere. All authors have approved the submission and declare no competing interests.
 
