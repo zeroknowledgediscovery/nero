@@ -1,0 +1,61 @@
+name: Run paper_results005
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/run-paper-results005.yml"
+      - "notebooks/paper_results005.ipynb"
+      - "paper_data/**"
+
+permissions:
+  contents: read
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Check out nero
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install notebook dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install \
+            numpy pandas scipy scikit-learn imbalanced-learn \
+            matplotlib seaborn tqdm jupyterthemes nbconvert ipykernel
+          python -m pip install "git+https://github.com/zeroknowledgediscovery/zedstat.git@master"
+
+      - name: Execute paper_results005
+        shell: bash
+        run: |
+          mkdir -p run_logs
+          set -o pipefail
+          jupyter nbconvert \
+            --to notebook \
+            --execute notebooks/paper_results005.ipynb \
+            --output paper_results005.executed.ipynb \
+            --output-dir notebooks \
+            --ExecutePreprocessor.timeout=7200 \
+            2>&1 | tee run_logs/paper_results005.log
+
+      - name: Upload executed notebook and log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: paper-results005-run
+          path: |
+            notebooks/paper_results005.executed.ipynb
+            run_logs/paper_results005.log
+            notebooks/*.csv
+            notebooks/*.pdf
+          if-no-files-found: warn
