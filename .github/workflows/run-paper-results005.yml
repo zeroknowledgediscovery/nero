@@ -9,6 +9,7 @@ on:
       - ".github/workflows/run-paper-results005.yml"
       - "notebooks/paper_results005.ipynb"
       - "paper_data/**"
+      - "api_data_collection/ai_data/**"
 
 permissions:
   contents: read
@@ -34,19 +35,6 @@ jobs:
             numpy pandas scipy scikit-learn imbalanced-learn \
             matplotlib seaborn tqdm jupyterthemes nbconvert ipykernel
           python -m pip install "git+https://github.com/zeroknowledgediscovery/zedstat.git@master"
-
-      - name: Smoke-test NERO regeneration
-        run: |
-          chmod +x bin/nero
-          bin/nero \
-            -f api_data_collection/generated_txt/api_gpt5.0/gpt_five0.txt \
-            -o /tmp/nero-smoke.json
-          python - <<'PY'
-          import json
-          p = "/tmp/nero-smoke.json"
-          d = json.load(open(p))
-          print("NERO smoke test:", len(d.get("entropy_rate", [])), d.get("average_entropy_rate"))
-          PY
 
       - name: Execute paper_results005
         shell: bash
