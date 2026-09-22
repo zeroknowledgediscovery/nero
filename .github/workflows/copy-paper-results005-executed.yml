@@ -1,0 +1,50 @@
+name: Copy executed paper_results005
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/copy-paper-results005-executed.yml"
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out nero
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download completed artifact
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          rm -rf /tmp/paper-results005-run
+          mkdir -p /tmp/paper-results005-run
+          gh run download 35779900305 \
+            --repo "${{ github.repository }}" \
+            --name paper-results005-run \
+            --dir /tmp/paper-results005-run
+
+      - name: Copy executed notebook
+        run: |
+          test -f /tmp/paper-results005-run/notebooks/paper_results005.executed.ipynb
+          cp /tmp/paper-results005-run/notebooks/paper_results005.executed.ipynb \
+             notebooks/paper_results005_executed.ipynb
+
+      - name: Commit executed notebook
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add notebooks/paper_results005_executed.ipynb
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Add executed paper_results005 notebook"
+            git push origin main
+          fi
