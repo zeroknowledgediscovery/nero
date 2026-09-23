@@ -329,6 +329,10 @@ def train_nero_rf(
     test_size: float,
     trees: int,
 ) -> dict:
+    # Match the notebook convention: trained NERO uses only rows that actually
+    # contain a rate vector. Do not let the classifier learn missingness.
+    df = df.loc[df["has_rates"]].copy()
+
     cols = nero_feature_cols()
     X = df[cols].replace([np.inf, -np.inf], np.nan).to_numpy(dtype=float)
     y = df["label"].to_numpy(dtype=int)
@@ -406,6 +410,7 @@ def run_within_scenarios(
                     **r,
                 })
 
+            nero_frame = frame.loc[frame["has_rates"]]
             summary_rows.append({
                 "analysis": "within",
                 "human_group": hname,
@@ -413,9 +418,9 @@ def run_within_scenarios(
                 "detector": "NERO_RF",
                 "auc": float(np.mean(trained)),
                 "auc_sd": float(np.std(trained, ddof=1)) if len(trained) > 1 else 0.0,
-                "n_human": int(len(human)),
-                "n_ai": int(len(ai)),
-                "n_total": int(len(frame)),
+                "n_human": int((nero_frame.label == 0).sum()),
+                "n_ai": int((nero_frame.label == 1).sum()),
+                "n_total": int(len(nero_frame)),
             })
 
     return pd.DataFrame(summary_rows), pd.DataFrame(repeat_rows)
@@ -448,6 +453,10 @@ def train_transfer_rf(
     seed: int,
     trees: int,
 ) -> dict:
+    # Complete-case NERO evaluation: require a real rates vector on both sides.
+    train_df = train_df.loc[train_df["has_rates"]].copy()
+    test_df = test_df.loc[test_df["has_rates"]].copy()
+
     cols = nero_feature_cols()
     X_train = train_df[cols].replace([np.inf, -np.inf], np.nan).to_numpy(dtype=float)
     y_train = train_df["label"].to_numpy(dtype=int)
