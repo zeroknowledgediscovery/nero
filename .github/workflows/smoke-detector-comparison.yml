@@ -1,0 +1,45 @@
+name: Smoke detector comparison
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/smoke-detector-comparison.yml"
+      - "scripts/compare_ai_detectors.py"
+      - "notebooks/paper_results008.ipynb"
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install numpy pandas scikit-learn
+
+      - name: Smoke run comparison script
+        run: |
+          python scripts/compare_ai_detectors.py \
+            --repo-root . \
+            --output-dir results/detector_comparison_smoke \
+            --repeats 1 \
+            --trees 50
+
+      - name: Upload smoke outputs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: detector-comparison-smoke
+          path: results/detector_comparison_smoke
+          if-no-files-found: warn
