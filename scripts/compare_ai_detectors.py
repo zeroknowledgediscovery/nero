@@ -42,7 +42,6 @@ from typing import Iterable
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.impute import SimpleImputer
 from sklearn.metrics import roc_auc_score
 from sklearn.model_selection import train_test_split
 
@@ -277,6 +276,9 @@ def load_dataset(root: Path, spec: DatasetSpec) -> pd.DataFrame:
     out["family"] = spec.family
     out["doc_id"] = doc_id.values
     out["has_rates"] = parsed.notna().values
+    out["has_complete_rates"] = parsed.apply(
+        lambda x: x is not None and len(x) == 41
+    ).values
     return out
 
 
@@ -304,6 +306,11 @@ def nero_feature_cols() -> list[str]:
 
 def detector_auc(df: pd.DataFrame, metric: str) -> dict:
     col, sign = SCORE_SPECS[metric]
+
+    # NERO metrics require a complete 41-component vector.
+    if metric.startswith("NERO_"):
+        df = df.loc[df["has_complete_rates"]].copy()
+
     use = df[["label", col]].copy()
     use[col] = pd.to_numeric(use[col], errors="coerce")
     use = use.replace([np.inf, -np.inf], np.nan).dropna()
@@ -329,12 +336,15 @@ def train_nero_rf(
     test_size: float,
     trees: int,
 ) -> dict:
-    # Match the notebook convention: trained NERO uses only rows that actually
-    # contain a rate vector. Do not let the classifier learn missingness.
-    df = df.loc[df["has_rates"]].copy()
+    # NERO training requires a complete 41-component rate vector.
+    # No missing NERO component is imputed.
+    df = df.loc[df["has_complete_rates"]].copy()
 
     cols = nero_feature_cols()
-    X = df[cols].replace([np.inf, -np.inf], np.nan).to_numpy(dtype=float)
+    finite = np.isfinite(df[cols].to_numpy(dtype=float)).all(axis=1)
+    df = df.loc[finite].copy()
+
+    X = df[cols].to_numpy(dtype=float)
     y = df["label"].to_numpy(dtype=int)
 
     X_train, X_test, y_train, y_test = train_test_split(
@@ -344,9 +354,8 @@ def train_nero_rf(
         stratify=y,
     )
 
-    imp = SimpleImputer(strategy="constant", fill_value=0)
-    X_train = imp.fit_transform(X_train)
-    X_test = imp.transform(X_test)
+    if not np.isfinite(X_train).all() or not np.isfinite(X_test).all():
+        raise ValueError("NERO feature matrix contains missing/non-finite values; refusing to impute.")
 
     model = RandomForestClassifier(
         n_estimators=trees,
@@ -410,7 +419,11 @@ def run_within_scenarios(
                     **r,
                 })
 
-            nero_frame = frame.loc[frame["has_rates"]]
+            nero_frame = frame.loc[frame["has_complete_rates"]].copy()
+            nero_cols = nero_feature_cols()
+            nero_frame = nero_frame.loc[
+                np.isfinite(nero_frame[nero_cols].to_numpy(dtype=float)).all(axis=1)
+            ]
             summary_rows.append({
                 "analysis": "within",
                 "human_group": hname,
@@ -453,19 +466,24 @@ def train_transfer_rf(
     seed: int,
     trees: int,
 ) -> dict:
-    # Complete-case NERO evaluation: require a real rates vector on both sides.
-    train_df = train_df.loc[train_df["has_rates"]].copy()
-    test_df = test_df.loc[test_df["has_rates"]].copy()
+    # Complete-case NERO evaluation: require all 41 rate components.
+    train_df = train_df.loc[train_df["has_complete_rates"]].copy()
+    test_df = test_df.loc[test_df["has_complete_rates"]].copy()
 
     cols = nero_feature_cols()
+    train_df = train_df.loc[
+        np.isfinite(train_df[cols].to_numpy(dtype=float)).all(axis=1)
+    ].copy()
+    test_df = test_df.loc[
+        np.isfinite(test_df[cols].to_numpy(dtype=float)).all(axis=1)
+    ].copy()
     X_train = train_df[cols].replace([np.inf, -np.inf], np.nan).to_numpy(dtype=float)
     y_train = train_df["label"].to_numpy(dtype=int)
     X_test = test_df[cols].replace([np.inf, -np.inf], np.nan).to_numpy(dtype=float)
     y_test = test_df["label"].to_numpy(dtype=int)
 
-    imp = SimpleImputer(strategy="constant", fill_value=0)
-    X_train = imp.fit_transform(X_train)
-    X_test = imp.transform(X_test)
+    if not np.isfinite(X_train).all() or not np.isfinite(X_test).all():
+        raise ValueError("NERO transfer matrices contain missing/non-finite values; refusing to impute.")
 
     model = RandomForestClassifier(
         n_estimators=trees,
@@ -580,6 +598,7 @@ def dataset_coverage(data: dict[str, pd.DataFrame]) -> pd.DataFrame:
             "family": df["family"].iloc[0],
             "n": int(len(df)),
             "rates_available": int(df["has_rates"].sum()),
+            "complete_41_rate_vectors": int(df["has_complete_rates"].sum()),
         }
         for metric, (col, _) in SCORE_SPECS.items():
             vals = pd.to_numeric(df[col], errors="coerce")
