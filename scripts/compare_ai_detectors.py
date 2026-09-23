@@ -25,8 +25,8 @@ Design principles
       Binoculars         : lower  => AI
 4. Missing detector scores are never imputed for zero-shot detector AUCs.
    Each detector reports the number of human/AI samples actually used.
-5. Missing NERO features are imputed with zero, with the imputer fitted on
-   training data only.
+5. NERO analyses require a complete 41-component rate vector. Missing NERO
+   components are never imputed.
 6. The script deliberately keeps dataset provenance explicit so older/newer
    model and human-source effects can be separated.
 """
